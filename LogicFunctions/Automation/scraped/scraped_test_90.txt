@@ -1,0 +1,6 @@
+Computer vision is an interdisciplinary field related to, e.g., artificial intelligence, machine learning, robotics, signal processing and geometry. The purpose of computer vision is to program a computer to "understand" a scene or features in an image.
+Computer vision shares many topics and methods with image processing and machine vision.
+Listed here are subjects relating to the field of computer vision, image processing and machine vision.
+Notice: this category is intended for technical articles related to computer vision, not for showcasing research laboratories, Wikipedia users, or companies that are active in the area.
+This category has the following 21 subcategories, out of 21 total.
+The following 108 pages are in this category, out of  108 total. This list may not reflect recent changes (learn more).

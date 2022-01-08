@@ -1,0 +1,166 @@
+ThiThe physical universe is defined as all of space and time[a] (collectively referred to as spacetime) and their contents.[10] Such contents comprise all of energy in its various forms, including electromagnetic radiation and matter, and therefore planets, moons, stars, galaxies, and the contents of intergalactic space.[23][24][25] The universe also includes the physical laws that influence energy and matter, such as conservation laws, classical mechanics, and relativity.[26]
+
+The universe is often defined as "the totality of existence", or everything that exists, everything that has existed, and everything that will exist.[26] In fact, some philosophers and scientists support the inclusion of ideas and abstract concepts—such as mathematics and logic—in the definition of the universe.[28][29][30] The word universe may also refer to concepts such as the cosmos, the world, and nature.[31][32]
+
+Etymology
+The word universe derives from the Old French word univers, which in turn derives from the Latin word universum.[33] The Latin word was used by Cicero and later Latin authors in many of the same senses as the modern English word is used.[34]
+
+Synonyms
+A term for universe among the ancient Greek philosophers from Pythagoras onwards was τὸ πᾶν (tò pân) 'the all', defined as all matter and all space, and τὸ ὅλον (tò hólon) 'all things', which did not necessarily include the void.[35][36] Another synonym was ὁ κόσμος (ho kósmos) meaning 'the world, the cosmos'.[37] Synonyms are also found in Latin authors (totum, mundus, natura)[38] and survive in modern languages, e.g., the German words Das All, Weltall, and Natur for universe. The same synonyms are found in English, such as everything (as in the theory of everything), the cosmos (as in cosmology), the world (as in the many-worlds interpretation), and nature (as in natural laws or natural philosophy).[39]
+
+Chronology and the Big Bang
+Main articles: Big Bang and Chronology of the universe
+Nature timeline
+This box: viewtalkedit
+−13 —–−12 —–−11 —–−10 —–−9 —–−8 —–−7 —–−6 —–−5 —–−4 —–−3 —–−2 —–−1 —–0 —
+Dark Ages
+Reionization
+Matter-dominated
+era
+Accelerated expansion
+Water
+Single-celled life
+Photosynthesis
+Multicellular
+life
+Vertebrates
+←	
+Earliest Universe
+←	
+Earliest stars
+←	
+Earliest galaxy
+←	
+Quasar / black hole
+←	
+Omega Centauri
+←	
+Andromeda Galaxy
+←	
+Milky Way spirals
+←	
+NGC 188 star cluster
+←	
+Alpha Centauri
+←	
+Earth / Solar System
+←	
+Earliest known life
+←	
+Earliest oxygen
+←	
+Atmospheric oxygen
+←	
+Sexual reproduction
+←	
+Earliest fungi
+←	
+Earliest animals / plants
+←	
+Cambrian explosion
+←	
+Earliest mammals
+←	
+Earliest apes / humans
+L
+i
+f
+e
+(billion years ago)
+The prevailing model for the evolution of the universe is the Big Bang theory.[40][41] The Big Bang model states that the earliest state of the universe was an extremely hot and dense one, and that the universe subsequently expanded and cooled. The model is based on general relativity and on simplifying assumptions such as the homogeneity and isotropy of space. A version of the model with a cosmological constant (Lambda) and cold dark matter, known as the Lambda-CDM model, is the simplest model that provides a reasonably good account of various observations about the universe. The Big Bang model accounts for observations such as the correlation of distance and redshift of galaxies, the ratio of the number of hydrogen to helium atoms, and the microwave radiation background.
+
+
+In this diagram, time passes from left to right, so at any given time, the universe is represented by a disk-shaped "slice" of the diagram
+The initial hot, dense state is called the Planck epoch, a brief period extending from time zero to one Planck time unit of approximately 10−43 seconds. During the Planck epoch, all types of matter and all types of energy were concentrated into a dense state, and gravity—currently the weakest by far of the four known forces—is believed to have been as strong as the other fundamental forces, and all the forces may have been unified. Since the Planck epoch, space has been expanding to its present scale, with a very short but intense period of cosmic inflation believed to have occurred within the first 10−32 seconds.[42] This was a kind of expansion different from those we can see around us today. Objects in space did not physically move; instead the metric that defines space itself changed. Although objects in spacetime cannot move faster than the speed of light, this limitation does not apply to the metric governing spacetime itself. This initial period of inflation is believed to explain why space appears to be very flat, and much larger than light could travel since the start of the universe.[clarification needed]
+
+Within the first fraction of a second of the universe's existence, the four fundamental forces had separated. As the universe continued to cool down from its inconceivably hot state, various types of subatomic particles were able to form in short periods of time known as the quark epoch, the hadron epoch, and the lepton epoch. Together, these epochs encompassed less than 10 seconds of time following the Big Bang. These elementary particles associated stably into ever larger combinations, including stable protons and neutrons, which then formed more complex atomic nuclei through nuclear fusion. This process, known as Big Bang nucleosynthesis, only lasted for about 17 minutes and ended about 20 minutes after the Big Bang, so only the fastest and simplest reactions occurred. About 25% of the protons and all the neutrons in the universe, by mass, were converted to helium, with small amounts of deuterium (a form of hydrogen) and traces of lithium. Any other element was only formed in very tiny quantities. The other 75% of the protons remained unaffected, as hydrogen nuclei.
+
+After nucleosynthesis ended, the universe entered a period known as the photon epoch. During this period, the universe was still far too hot for matter to form neutral atoms, so it contained a hot, dense, foggy plasma of negatively charged electrons, neutral neutrinos and positive nuclei. After about 377,000 years, the universe had cooled enough that electrons and nuclei could form the first stable atoms. This is known as recombination for historical reasons; in fact electrons and nuclei were combining for the first time. Unlike plasma, neutral atoms are transparent to many wavelengths of light, so for the first time the universe also became transparent. The photons released ("decoupled") when these atoms formed can still be seen today; they form the cosmic microwave background (CMB).
+
+As the universe expands, the energy density of electromagnetic radiation decreases more quickly than does that of matter because the energy of a photon decreases with its wavelength. At around 47,000 years, the energy density of matter became larger than that of photons and neutrinos, and began to dominate the large scale behavior of the universe. This marked the end of the radiation-dominated era and the start of the matter-dominated era.
+
+In the earliest stages of the universe, tiny fluctuations within the universe's density led to concentrations of dark matter gradually forming. Ordinary matter, attracted to these by gravity, formed large gas clouds and eventually, stars and galaxies, where the dark matter was most dense, and voids where it was least dense. After around 100 - 300 million years,[citation needed] the first stars formed, known as Population III stars. These were probably very massive, luminous, non metallic and short-lived. They were responsible for the gradual reionization of the universe between about 200-500 million years and 1 billion years, and also for seeding the universe with elements heavier than helium, through stellar nucleosynthesis.[43] The universe also contains a mysterious energy—possibly a scalar field—called dark energy, the density of which does not change over time. After about 9.8 billion years, the universe had expanded sufficiently so that the density of matter was less than the density of dark energy, marking the beginning of the present dark-energy-dominated era.[44] In this era, the expansion of the universe is accelerating due to dark energy.
+
+Physical properties
+Main articles: Observable universe, Age of the Universe, and Metric expansion of space
+Of the four fundamental interactions, gravitation is the dominant at astronomical length scales. Gravity's effects are cumulative; by contrast, the effects of positive and negative charges tend to cancel one another, making electromagnetism relatively insignificant on astronomical length scales. The remaining two interactions, the weak and strong nuclear forces, decline very rapidly with distance; their effects are confined mainly to sub-atomic length scales.
+
+The universe appears to have much more matter than antimatter, an asymmetry possibly related to the CP violation.[45] This imbalance between matter and antimatter is partially responsible for the existence of all matter existing today, since matter and antimatter, if equally produced at the Big Bang, would have completely annihilated each other and left only photons as a result of their interaction.[46][47] The universe also appears to have neither net momentum nor angular momentum, which follows accepted physical laws if the universe is finite. These laws are Gauss's law and the non-divergence of the stress-energy-momentum pseudotensor.[48]
+
+Constituent spatial scales of the observable universe
+Location of Earth (3x3-English Annot-smaller).png
+This diagram shows Earth's location in the universe on increasingly larger scales. The images, labeled along their left edge, increase in size from left to right, then from top to bottom.
+
+Size and regions
+See also: Observational cosmology
+
+Television signals broadcast from Earth will never reach the edges of this image.
+According to the general theory of relativity, far regions of space may never interact with ours even in the lifetime of the universe due to the finite speed of light and the ongoing expansion of space. For example, radio messages sent from Earth may never reach some regions of space, even if the universe were to exist forever: space may expand faster than light can traverse it.[49]
+
+The spatial region that can be observed with telescopes is called the observable universe, which depends on the location of the observer. The proper distance—the distance as would be measured at a specific time, including the present—between Earth and the edge of the observable universe is 46 billion light-years[50] (14 billion parsecs),[51] making the diameter of the observable universe about 93 billion light-years (28 billion parsecs).[50] The distance the light from the edge of the observable universe has travelled is very close to the age of the universe times the speed of light, 13.8 billion light-years (4.2×109 pc), but this does not represent the distance at any given time because the edge of the observable universe and the Earth have since moved further apart.[52] For comparison, the diameter of a typical galaxy is 30,000 light-years (9,198 parsecs), and the typical distance between two neighboring galaxies is 3 million light-years (919.8 kiloparsecs).[53] As an example, the Milky Way is roughly 100,000–180,000 light-years in diameter,[54][55] and the nearest sister galaxy to the Milky Way, the Andromeda Galaxy, is located roughly 2.5 million light-years away.[56]
+
+Because we cannot observe space beyond the edge of the observable universe, it is unknown whether the size of the universe in its totality is finite or infinite.[3][57][58] Estimates suggest that the whole universe, if finite, must be more than 250 times larger than the observable universe.[59] Some disputed[60] estimates for the total size of the universe, if finite, reach as high as {\displaystyle 10^{10^{10^{122}}}}10^{10^{10^{122}}} megaparsecs, as implied by a suggested resolution of the No-Boundary Proposal.[61][b]
+
+Age and expansion
+Main articles: Age of the universe and Metric expansion of space
+Astronomers calculate the age of the universe by assuming that the Lambda-CDM model accurately describes the evolution of the Universe from a very uniform, hot, dense primordial state to its present state and measuring the cosmological parameters which constitute the model.[citation needed] This model is well understood theoretically and supported by recent high-precision astronomical observations such as WMAP and Planck.[citation needed] Commonly, the set of observations fitted includes the cosmic microwave background anisotropy, the brightness/redshift relation for Type Ia supernovae, and large-scale galaxy clustering including the baryon acoustic oscillation feature.[citation needed] Other observations, such as the Hubble constant, the abundance of galaxy clusters, weak gravitational lensing and globular cluster ages, are generally consistent with these, providing a check of the model, but are less accurately measured at present.[citation needed] Assuming that the Lambda-CDM model is correct, the measurements of the parameters using a variety of techniques by numerous experiments yield a best value of the age of the universe as of 2015 of 13.799 ± 0.021 billion years.[2]
+
+
+Astronomers have discovered stars in the Milky Way galaxy that are almost 13.6 billion years old.
+Over time, the universe and its contents have evolved; for example, the relative population of quasars and galaxies has changed[62] and space itself has expanded. Due to this expansion, scientists on Earth can observe the light from a galaxy 30 billion light-years away even though that light has traveled for only 13 billion years; the very space between them has expanded. This expansion is consistent with the observation that the light from distant galaxies has been redshifted; the photons emitted have been stretched to longer wavelengths and lower frequency during their journey. Analyses of Type Ia supernovae indicate that the spatial expansion is accelerating.[63][64]
+
+The more matter there is in the universe, the stronger the mutual gravitational pull of the matter. If the universe were too dense then it would re-collapse into a gravitational singularity. However, if the universe contained too little matter then the self-gravity would be too weak for astronomical structures, like galaxies or planets, to form. Since the Big Bang, the universe has expanded monotonically. Perhaps unsurprisingly, our universe has just the right mass-energy density, equivalent to about 5 protons per cubic metre, which has allowed it to expand for the last 13.8 billion years, giving time to form the universe as observed today.[65]
+
+There are dynamical forces acting on the particles in the universe which affect the expansion rate. Before 1998, it was expected that the expansion rate would be decreasing as time went on due to the influence of gravitational interactions in the universe; and thus there is an additional observable quantity in the universe called the deceleration parameter, which most cosmologists expected to be positive and related to the matter density of the universe. In 1998, the deceleration parameter was measured by two different groups to be negative, approximately -0.55, which technically implies that the second derivative of the cosmic scale factor {\displaystyle {\ddot {a}}}{\displaystyle {\ddot {a}}} has been positive in the last 5-6 billion years.[17][66] This acceleration does not, however, imply that the Hubble parameter is currently increasing; see deceleration parameter for details.
+
+Spacetime
+Main articles: Spacetime and World line
+See also: Lorentz transformation
+Spacetimes are the arenas in which all physical events take place. The basic elements of spacetimes are events. In any given spacetime, an event is defined as a unique position at a unique time. A spacetime is the union of all events (in the same way that a line is the union of all of its points), formally organized into a manifold.[67]
+
+Events, such as matter and energy, bend spacetime. Curved spacetime, on the other hand, forces matter and energy to behave in a certain way. There is no point in considering one without the other.[16]
+
+The universe appears to be a smooth spacetime continuum consisting of three spatial dimensions and one temporal (time) dimension (an event in the spacetime of the physical universe can therefore be identified by a set of four coordinates: (x, y, z, t) ). On average, space is observed to be very nearly flat (with a curvature close to zero), meaning that Euclidean geometry is empirically true with high accuracy throughout most of the Universe.[68] Spacetime also appears to have a simply connected topology, in analogy with a sphere, at least on the length-scale of the observable universe. However, present observations cannot exclude the possibilities that the universe has more dimensions (which is postulated by theories such as the string theory) and that its spacetime may have a multiply connected global topology, in analogy with the cylindrical or toroidal topologies of two-dimensional spaces.[69][70] The spacetime of the universe is usually interpreted from a Euclidean perspective, with space as consisting of three dimensions, and time as consisting of one dimension, the "fourth dimension".[71] By combining space and time into a single manifold called Minkowski space, physicists have simplified a large number of physical theories, as well as described in a more uniform way the workings of the universe at both the supergalactic and subatomic levels.
+
+Spacetime events are not absolutely defined spatially and temporally but rather are known to be relative to the motion of an observer. Minkowski space approximates the universe without gravity; the pseudo-Riemannian manifolds of general relativity describe spacetime with matter and gravity.
+
+Shape
+Main article: Shape of the universe
+
+The three possible options for the shape of the universe
+General relativity describes how spacetime is curved and bent by mass and energy (gravity). The topology or geometry of the universe includes both local geometry in the observable universe and global geometry. Cosmologists often work with a given space-like slice of spacetime called the comoving coordinates. The section of spacetime which can be observed is the backward light cone, which delimits the cosmological horizon. The cosmological horizon (also called the particle horizon or the light horizon) is the maximum distance from which particles can have traveled to the observer in the age of the universe. This horizon represents the boundary between the observable and the unobservable regions of the universe.[72][73] The existence, properties, and significance of a cosmological horizon depend on the particular cosmological model.
+
+An important parameter determining the future evolution of the universe theory is the density parameter, Omega (Ω), defined as the average matter density of the universe divided by a critical value of that density. This selects one of three possible geometries depending on whether Ω is equal to, less than, or greater than 1. These are called, respectively, the flat, open and closed universes.[74]
+
+Observations, including the Cosmic Background Explorer (COBE), Wilkinson Microwave Anisotropy Probe (WMAP), and Planck maps of the CMB, suggest that the universe is infinite in extent with a finite age, as described by the Friedmann–Lemaître–Robertson–Walker (FLRW) models.[75][69][76][77] These FLRW models thus support inflationary models and the standard model of cosmology, describing a flat, homogeneous universe presently dominated by dark matter and dark energy.[78][79]
+
+Support of life
+Main article: Fine-tuned universe
+The universe may be fine-tuned; the Fine-tuned universe hypothesis is the proposition that the conditions that allow the existence of observable life in the universe can only occur when certain universal fundamental physical constants lie within a very narrow range of values, so that if any of several fundamental constants were only slightly different, the universe would have been unlikely to be conducive to the establishment and development of matter, astronomical structures, elemental diversity, or life as it is understood.[80] The proposition is discussed among philosophers, scientists, theologians, and proponents of creationism.
+
+Composition
+See also: Galaxy formation and evolution, Galaxy cluster, Illustris project, and Nebula
+The universe is composed almost completely of dark energy, dark matter, and ordinary matter. Other contents are electromagnetic radiation (estimated to constitute from 0.005% to close to 0.01% of the total mass-energy of the universe) and antimatter.[81][82][83]
+
+The proportions of all types of matter and energy have changed over the history of the universe.[84] The total amount of electromagnetic radiation generated within the universe has decreased by 1/2 in the past 2 billion years.[85][86] Today, ordinary matter, which includes atoms, stars, galaxies, and life, accounts for only 4.9% of the contents of the Universe.[8] The present overall density of this type of matter is very low, roughly 4.5 × 10−31 grams per cubic centimetre, corresponding to a density of the order of only one proton for every four cubic metres of volume.[6] The nature of both dark energy and dark matter is unknown. Dark matter, a mysterious form of matter that has not yet been identified, accounts for 26.8% of the cosmic contents. Dark energy, which is the energy of empty space and is causing the expansion of the universe to accelerate, accounts for the remaining 68.3% of the contents.[8][87][88]
+
+
+The formation of clusters and large-scale filaments in the cold dark matter model with dark energy. The frames show the evolution of structures in a 43 million parsecs (or 140 million light-years) box from redshift of 30 to the present epoch (upper left z=30 to lower right z=0).
+
+A map of the superclusters and voids nearest to Earth
+Matter, dark matter, and dark energy are distributed homogeneously throughout the universe over length scales longer than 300 million light-years or so.[89] However, over shorter length-scales, matter tends to clump hierarchically; many atoms are condensed into stars, most stars into galaxies, most galaxies into clusters, superclusters and, finally, large-scale galactic filaments. The observable universe contains as many as 200 billion galaxies[90][91] and, overall, as many as an estimated 1×1024 stars[92][93] (more stars than all the grains of sand on planet Earth).[94] Typical galaxies range from dwarfs with as few as ten million[95] (107) stars up to giants with one trillion[96] (1012) stars. Between the larger structures are voids, which are typically 10–150 Mpc (33 million–490 million ly) in diameter. The Milky Way is in the Local Group of galaxies, which in turn is in the Laniakea Supercluster.[97] This supercluster spans over 500 million light-years, while the Local Group spans over 10 million light-years.[98] The Universe also has vast regions of relative emptiness; the largest known void measures 1.8 billion ly (550 Mpc) across.[99]
+
+
+Comparison of the contents of the universe today to 380,000 years after the Big Bang as measured with 5 year WMAP data (from 2008).[100] (Due to rounding errors, the sum of these numbers is not 100%). This reflects the 2008 limits of WMAP's ability to define dark matter and dark energy.
+The observable universe is isotropic on scales significantly larger than superclusters, meaning that the statistical properties of the universe are the same in all directions as observed from Earth. The universe is bathed in highly isotropic microwave radiation that corresponds to a thermal equilibrium blackbody spectrum of roughly 2.72548 kelvins.[7] The hypothesis that the large-scale universe is homogeneous and isotropic is known as the cosmological principle.[101] A universe that is both homogeneous and isotropic looks the same from all vantage points[102] and has no center.[103]
+
+Dark energy
+Main article: Dark energy
+An explanation for why the expansion of the universe is accelerating remains elusive. It is often attributed to "dark energy", an unknown form of energy that is hypothesized to permeate space.[104] On a mass–energy equivalence basis, the density of dark energy (~ 7 × 10−30 g/cm3) is much less than the density of ordinary matter or dark matter within galaxies. However, in the present dark-energy era, it dominates the mass–energy of the universe because it is uniform across space.[105][106]
+
+Two proposed forms for dark energy are the cosmological constant, a constant energy density 
+    Your IP: 2405:201:4024:6a7a:51ae:d64f:e96b:425d
+    •
+    Performance & security by Cloudflare
+    
+  

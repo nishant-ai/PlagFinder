@@ -1,0 +1,25 @@
+World-class data management and storage solutions in the biggest public clouds.Build your business on the best of cloud and on premises together with Hybrid Cloud Infrastructure solutions.NetApp is the proven leader when it comes to modernizing and simplifying your storage environment.Our industry-leading solutions are built so you can protect and secure your sensitive company data.Get complete control over your data with simplicity, efficiency, and flexibility.Speed application development, improve software quality, reduce business risk, and shrink costs.Our solutions remove friction to help maximize developer productivity, reduce time to market, and improve customer satisfaction.NetApp AI solutions remove bottlenecks at the edge, core, and the cloud to enable more efficient data collection.Provide a powerful, consistent end-user computer (EUC) experience—regardless of team size, location, complexity.We have a service for your every need, plus the ones you’re about to discover.Artificial intelligence (AI) is the basis for mimicking human intelligence processes through the creation and application of algorithms built into a dynamic computing environment. Stated simply, AI is trying to make computers think and act like humans.Achieving this end requires three key components:The more humanlike the desired outcome, the more data and processing power required.At least since the first century BCE, humans have been intrigued by the possibility of creating machines that mimic the human brain. In modern times, the term artificial intelligence was coined in 1955 by John McCarthy. In 1956, McCarthy and others organized a conference titled the “Dartmouth Summer Research Project on Artificial Intelligence.” This beginning led to the creation of machine learning, deep learning, predictive analytics, and now to prescriptive analytics. It also gave rise to a whole new field of study, data science.Today, the amount of data that is generated, by both humans and machines, far outpaces humans’ ability to absorb, interpret, and make complex decisions based on that data. Artificial intelligence forms the basis for all computer learning and is the future of all complex decision making. As an example, most humans can figure out how to not lose at tic-tac-toe (noughts and crosses), even though there are 255,168 unique moves, of which 46,080 end in a draw. Far fewer folks would be considered grand champions of checkers, with more than 500 x 1018, or 500 quintillion, different potential moves. Computers are extremely efficient at calculating these combinations and permutations to arrive at the best decision. AI (and its logical evolution of machine learning) and deep learning are the foundational future of business decision making.Applications of AI can be seen in everyday scenarios such as financial services fraud detection, retail purchase predictions, and online customer support interactions. Here are just a few examples: As the data authority for hybrid cloud, NetApp understands the value of the access, management, and control of data. The NetApp® data fabric provides a unified data management environment that spans across edge devices, data centers, and multiple hyperscale clouds. The data fabric gives organizations of all sizes the ability to accelerate critical applications, gain data visibility, streamline data protection, and increase operational agility.NetApp AI solutions are based on the following key building blocks: In addition, NetApp has begun incorporating big data analytics and artificial intelligence into its own products and services. For example, Active IQ® uses billions of data points, predictive analytics, and powerful machine learning to deliver proactive customer support recommendations for complex IT environments. Active IQ is a hybrid cloud application that was built using the same NetApp products and technologies our customers use to build AI solutions for a variety of use cases.
+                                     Read the blog
+                                    
+                arrow_forward
+                
+            
+                                
+                                     Read the blog
+                                    
+                arrow_forward
+                
+            
+                                
+                                     Read the blog
+                                    
+                arrow_forward
+                
+            
+                                
+                                     Get the guide
+                                    
+                file_download
+                
+            
+                                

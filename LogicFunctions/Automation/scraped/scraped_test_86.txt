@@ -1,0 +1,46 @@
+
+                                
+
+
+  
+  
+      Use machine learning and neural networks to teach computers to see defects and issues before they affect operations
+  
+
+
+
+
+    
+
+
+                            Computer vision is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information. If AI enables computers to think, computer vision enables them to see, observe and understand.Computer vision works much the same as human vision, except humans have a head start. Human sight has the advantage of lifetimes of context to train how to tell objects apart, how far away they are, whether they are moving and whether there is something wrong in an image.Computer vision trains machines to perform these functions, but it has to do it in much less time with cameras, data and algorithms rather than retinas, optic nerves and a visual cortex. Because a system trained to inspect products or watch a production asset can analyze thousands of products or processes a minute, noticing imperceptible defects or issues, it can quickly surpass human capabilities.Computer vision is used in industries ranging from energy and utilities to manufacturing and automotive – and the market is continuing to grow. It is expected to reach USD 48.6 billion by 2022.1Computer vision needs lots of data. It runs analyses of data over and over until it discerns distinctions and ultimately recognize images. For example, to train a computer to recognize automobile tires, it needs to be fed vast quantities of tire images and tire-related items to learn the differences and recognize a tire, especially one with no defects.Two essential technologies are used to accomplish this: a type of machine learning called deep learning and a convolutional neural network (CNN).Machine learning uses algorithmic models that enable a computer to teach itself about the context of visual data. If enough data is fed through the model, the computer will “look” at the data and teach itself to tell one image from another. Algorithms enable the machine to learn by itself, rather than someone programming it to recognize an image.A CNN helps a machine learning or deep learning model “look” by breaking images down into pixels that are given tags or labels. It uses the labels to perform convolutions (a mathematical operation on two functions to produce a third function) and makes predictions about what it is “seeing.” The neural network runs convolutions and checks the accuracy of its predictions in a series of iterations until the predictions start to come true. It is then recognizing or seeing images in a way similar to humans.Much like a human making out an image at a distance, a CNN first discerns hard edges and simple shapes, then fills in information as it runs iterations of its predictions. A CNN is used to understand single images. A recurrent neural network (RNN) is used in a similar way for video applications to help computers understand how pictures in a series of frames are related to one another.Scientists and engineers have been trying to develop ways for machines to see and understand visual data for about 60 years. Experimentation began in 1959 when neurophysiologists showed a cat an array of images, attempting to correlate a response in its brain. They discovered that it responded first to hard edges or lines, and scientifically, this meant that image processing starts with simple shapes like straight edges.(2)At about the same time, the first computer image scanning technology was developed, enabling computers to digitize and acquire images. Another milestone was reached in 1963 when computers were able to transform two-dimensional images into three-dimensional forms. In the 1960s, AI emerged as an academic field of study, and it also marked the beginning of the AI quest to solve the human vision problem.1974 saw the introduction of optical character recognition (OCR) technology, which could recognize text printed in any font or typeface.(3) Similarly, intelligent character recognition (ICR) could decipher hand-written text using neural networks.(4) Since then, OCR and ICR have found their way into document and invoice processing, vehicle plate recognition, mobile payments, machine translation and other common applications.In 1982, neuroscientist David Marr established that vision works hierarchically and introduced algorithms for machines to detect edges, corners, curves and similar basic shapes. Concurrently, computer scientist Kunihiko Fukushima developed a network of cells that could recognize patterns. The network, called the Neocognitron, included convolutional layers in a neural network.By 2000, the focus of study was on object recognition, and by 2001, the first real-time face recognition applications appeared. Standardization of how visual data sets are tagged and annotated emerged through the 2000s. In 2010, the ImageNet data set became available. It contained millions of tagged images across a thousand object classes and provides a foundation for CNNs and deep learning models used today. In 2012, a team from the University of Toronto entered a CNN into an image recognition contest. The model, called AlexNet, significantly reduced the error rate for image recognition. After this breakthrough, error rates have fallen to just a few percent.(5)Access videos, papers, workshops and more.Gain insights into technology and solutions for object recognition and augmented reality.There is a lot of research being done in the computer vision field, but it’s not just research. Real-world applications demonstrate how important computer vision is to endeavors in business, entertainment, transportation, healthcare and everyday life. A key driver for the growth of these applications is the flood of visual information flowing from smartphones, security systems, traffic cameras and other visually instrumented devices. This data could play a major role in operations across industries, but today goes unused. The information creates a test bed to train computer vision applications and a launchpad for them to become part of a range of human activities:Many organizations don’t have the resources to fund computer vision labs and create deep learning models and neural networks. They may also lack the computing power required to process huge sets of visual data. Companies such as IBM are helping by offering computer vision software development services. These services deliver pre-built learning models available from the cloud — and also ease demand on computing resources. Users connect to the services through an application programming interface (API) and use them to develop computer vision applications.IBM has also introduced a computer vision platform that addresses both developmental and computing resource concerns. IBM Maximo Visual Inspection includes tools that enable subject matter experts to label, train and deploy deep learning vision models — without coding or deep learning expertise. The vision models can be deployed in local data centers, the cloud and edge devices.While it’s getting easier to obtain resources to develop computer vision applications, an important question to answer early on is: What exactly will these applications do? Understanding and defining specific computer vision tasks can focus and validate projects and applications and make it easier to get started.Here are a few examples of established computer vision tasks:
+                    
+
+
+  
+  
+      Rapidly unleash the power of computer vision for inspection automation without deep learning expertise.
+  
+
+
+
+
+    
+
+
+                
+                    
+
+
+  
+  
+      Amplify your QA with computer vision on iOS mobile devices and quickly discover defects on your production line.
+  
+
+
+
+
+    
+
+
+                IBM Research is one of the world’s largest corporate research labs. Learn more about research being done across industries.Learn more about getting started with visual recognition and IBM Maximo Visual Inspection. Explore resources and courses for developers.1. https://www.forbes.com/sites/bernardmarr/2019/04/08/7-amazing-examples-of-computer-and-machine-vision-in-practice/#3dbb3f751018 (Link resides outside ibm.com)2. https://hackernoon.com/a-brief-history-of-computer-vision-and-convolutional-neural-networks-8fe8aacc79f3 (Link resides outside ibm.com)3. Optical character recognition, Wikipedia (Link resides outside ibm.com)4. Intelligent character recognition, Wikipedia (Link resides outside ibm.com)5. A Brief History of Computer Vision (and Convolutional Neural Networks), Rostyslav Demush, Hacker Noon, February 27, 2019 (Link resides outside ibm.com)6. 7 Amazing Examples of Computer And Machine Vision In Practice, Bernard Marr, Forbes, April 8, 2019 (Link resides outside ibm.com)7. The 5 Computer Vision Techniques That Will Change How You See The World, James Le, Heartbeat, April 12, 2018 (Link resides outside ibm.com)

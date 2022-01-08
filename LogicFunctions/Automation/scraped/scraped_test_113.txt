@@ -1,0 +1,41 @@
+By signing in, you agree to our Terms of Service.
+                            Forgot your Intel
+                            username
+                            or
+                            password?
+                        
+                            Frequently Asked Questions
+                        Do you work for Intel? 
+                            Sign in here.
+                        Don’t have an Intel account?
+                                 Sign up here 
+                                for a basic account.
+                            You can easily search the entire Intel.com site in several ways.You can also try the quick links below to see results for most popular searches.The browser version you are using is not recommended for this site.Please consider upgrading to the latest version of your browser by clicking one of the following links.Computer vision uses artificial intelligence to “see” and interpret visual data and can be deployed in cameras, edge servers, or the cloud.View the Intel® Vision product portfolio
+                                            Accelerate your path to production with foundational software for AI and vision at the Intel® Developer Zone (Intel® DZ).1
+Find software ›
+Download OpenVINO™ toolkit ›
+There’s a lot to learn from watching your business: for example, how customers move through your stores and what they look at, where your production line slows down, or what inventory needs to be restocked. But it’s not humanly possible to keep an eye on business all the time. That’s where computer vision steps in.
+Intel® technologies power vision solutions that enterprises can deploy today—with the flexibility to adapt for future use cases. With computer vision, companies of all sizes can unleash AI in edge devices (like cameras), in edge servers, or in the cloud.Computer vision combines cameras, edge- or cloud-based computing, software, and artificial intelligence (AI) to enable systems to “see” and identify objects. Intel has a rich portfolio of technologies to enable AI, including CPUs for general purpose processing and computer vision and vision processing units (VPUs) to provide acceleration. Valuable in a wide range of environments, computer vision systems can recognize objects and people quickly, analyze audience demographics, inspect manufactured products, and much more.
+Computer vision uses deep learning to form neural networks that guide systems in their image processing and analysis. Once fully trained, computer vision models can perform object recognition, detect and recognize people, and even track movement.
+With the powerful combination of edge and cloud computing, businesses can create a future in which applications dynamically move across the organization to where the greatest value can be found.Explore edge computing ›Explore cloud computing ›AI and computer vision technologies and capabilities are changing constantly. See what’s possible with real-world customer success stories using the Intel® Distribution of OpenVINO™ toolkit.
+Learn more
+            Smart city technologies can help gather video feeds from the streets, so city leaders can make smarter operational decisions.
+Watch the video
+            This type of computer vision helps advance industrial IoT and automation by enabling equipment monitoring, predictive maintenance, and more.
+Read more
+            Computer vision can help retailers understand where to place products, determine when inventory needs re-stocking, and get a better picture of customer demographics.
+Explore
+            The latest computer vision technologies are transforming medical imaging by streamlining workflows, which helps to enable faster and accurate diagnosis, and improving patient care.
+Explore
+            Intel® FPGAs deliver high performance, low latency and custom workloads for rapid innovation through reconfigurable and flexible fabric and I/O. Many of these innovations now require integrated AI, and FPGAs are enabling our customers’ intelligent services from the cloud to the edge in applications such as autonomous systems, robotics, and industrial controls.
+Discover
+            With these capabilities, smart cities can track vehicles and adjust traffic light timings to alleviate congestion, manufacturers can identify defects, and retailers can enhance inventory management.
+Our latest, enhanced for IoT processors offer unique features for functional safety and real-time performance—ideal for robotics, automation, and other use cases.Explore IoT and embedded processors
+            Add efficiency and flexibility to demanding computer vision and edge AI workloads with Intel® Movidius™ VPUs, Intel® FPGAs, and other programmable devices. Intel Movidius VPUs balance power efficiency and performance to enable intelligent cameras and edge devices while FPGAs add customizable connectivity for low-latency applications.
+See Intel® Movidius™ VPUs
+            See Intel® FPGAs
+            Accelerate your work—from prototype to production—with software that streamlines development and allows your applications to scale across multiple types of compute and use cases.
+Find software
+            The Intel® AI: In production ecosystem focuses on reducing deployment complexities, promoting partner AI offerings, matchmaking among our community partners, and integrating with Intel’s partner programs to help deploy and scale solutions for AI at the edge. Join the ecosystem
+            Intel is committed to respecting human rights and avoiding complicity in human rights abuses. See Intel’s Global Human Rights Principles. Intel’s products and software are intended only to be used in applications that do not cause or contribute to a violation of an internationally recognized human right.Intel® technologies' features and benefits depend on system configuration and may require enabled hardware, software or service activation. Performance varies depending on system configuration. No product or component can be absolutely secure. Check with your system manufacturer or retailer or learn more at intel.com.
+Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries.© Intel CorporationIntel technologies may require enabled hardware, software or service activation. // No product or component can be absolutely secure. // Your costs and results may vary. // Performance varies by use, configuration and other factors. // See our complete legal Notices and Disclaimers. // Intel is committed to respecting human rights and avoiding complicity in human rights abuses. See Intel’s Global Human Rights Principles. Intel’s products and software are intended only to be used in applications that do not cause or contribute to a violation of an internationally recognized human right.

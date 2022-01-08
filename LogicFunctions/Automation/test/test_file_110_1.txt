@@ -1,0 +1,78 @@
+Computer vision is the field of study surrounding how computers see and understand digital images and videos. Computer vision spans all tasks performed by biological vision systems, including "seeing" or sensing a visual stimulus, understanding what is being seen, and extracting complex information into a form that can be used in other processes. This interdisciplinary field simulates and automates these elements of human vision systems using sensors, computers, and machine learning algorithms. Computer vision is the theory underlying artificial intelligence systems' ability to see and understand their surrounding environment. There are many examples of computer vision applied because its theory spans any area where a computer will see its surroundings in some form. Below are examples of computer vision: - Businesses and personal electronics use facial recognition technology to "see" who is trying to gain access to something. It has become a powerful security tool.The world's most comprehensivedata science & artificial intelligenceglossaryGet the week's mostpopular data scienceresearch in your inbox -every SaturdayGeometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
+								04/27/2021 ∙ by Michael M. Bronstein ∙ 
+
+
+   
+  
+    288
+  
+    
+
+
+							Multimodal Image Synthesis and Editing: A Survey
+								12/27/2021 ∙ by Fangneng Zhan ∙ 
+
+
+   
+  
+    222
+  
+    
+
+
+							TorchGeo: deep learning with geospatial data
+								11/17/2021 ∙ by Adam J. Stewart ∙ 
+
+
+   
+  
+    182
+  
+    
+
+
+							Image Segmentation Using Deep Learning: A Survey
+								01/15/2020 ∙ by Shervin Minaee ∙ 
+
+
+   
+  
+    163
+  
+    
+
+
+							Deep Learning for 3D Point Clouds: A Survey
+								12/27/2019 ∙ by Yulan Guo ∙ 
+
+
+   
+  
+    156
+  
+    
+
+
+							Survey of Deep Learning Methods for Inverse Problems
+								11/07/2021 ∙ by Shima Kamyab ∙ 
+
+
+   
+  
+    144
+  
+    
+
+
+							A Hybrid Deep Learning Model for Arabic Text Recognition
+								09/04/2020 ∙ by Mohammad Fasha ∙ 
+
+
+   
+  
+    144
+  
+    
+
+
+							Sign up for DeepAIJoin one of the world's largest A.I. communitiesAlready have an account?  Login hereLogin to DeepAIDon't have an account?  Signup hereSHARE

@@ -1,0 +1,14 @@
+COVID-19 InformationPublic health information (CDC)Research information (NIH)SARS-CoV-2 data (NCBI)Prevention and treatment information (HHS)Español
+      
+      The artificial neural network (ANN), or simply neural network, is a machine learning method evolved from the idea of simulating the human brain. The data explosion in modem drug discovery research requires sophisticated analysis methods to uncover the hidden causal relationships between single or multiple responses and a large set of properties. The ANN is one of many versatile tools to meet the demand in drug discovery modeling. Compared to a traditional regression approach, the ANN is capable of modeling complex nonlinear relationships. The ANN also has excellent fault tolerance and is fast and highly scalable with parallel processing. This chapter introduces the background of ANN development and outlines the basic concepts crucially important for understanding more sophisticated ANN. Several commonly used learning methods and network setups are discussed briefly at the end of the chapter.
+    NCBI Literature Resources
+      MeSH
+      PMC
+      Bookshelf
+      Disclaimer
+    Connect with NLMNational Library of Medicine
+                8600 Rockville Pike
+                  Bethesda, MD 20894Web Policies
+                FOIAHelp
+                Accessibility
+                Careers

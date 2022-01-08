@@ -1,0 +1,23 @@
+Suggest a new DefinitionProposed definitions will be considered for inclusion in the Economictimes.comSecure Sockets Layer (SSL) is a protocol developed by Netscape for establishing an encrypted link between a web server and a browser. SSL is an industry standard which transmits private data securely over the Internet by encrypting it. It is used by many websites to protect the online transactions of their customers.
+
+Description: SSL functions around a cryptographic system which uses three keys tCross-site scripting (XSS) is a type of computer security vulnerability. It is accounted for almost 85% of all website security vulnerabilities.
+
+Description: Cross-site scripting (XSS) exploits the 'same-origin-policy' concept of web applications to allow hackers to extract information from the system.
+
+How it works: Attackers conduct script injection that runs at the client side and is sometimesDNS Spoofing is a type of computer attack wherein a user is forced to navigate to a fake website disguised to look like a real one, with the intention of diverting traffic or stealing credentials of the users. Spoofing attacks can go on for a long period of time without being detected and can cause serious security issues.
+
+Description: Domain Name Server (DNS) resolves the alphabetical domain namCipher is an algorithm which is applied to plain text to get ciphertext. It is the unreadable output of an encryption algorithm. The term "cipher" is sometimes used as an alternative term for ciphertext. Ciphertext is not understandable until it has been converted into plain text using a key.
+
+Description: Earlier cipher algorithms were performed manually and were entirely different from modern alA computer worm is a malicious, self-replicating software program (popularly termed as 'malware') which affects the functions of software and hardware programs.
+
+Description: It fits the description of a computer virus in many ways. For example, it can also self-replicate itself and spread across networks. That is why worms are often referred to as viruses also. But computer worms are different frA computer virus is a malicious software program loaded onto a user’s computer without the user’s knowledge and performs malicious actions.
+
+Description: The term 'computer virus' was first formally defined by Fred Cohen in 1983. Computer viruses never occur naturally. They are always induced by people. Once created and released, however, their diffusion is not directly under human control. After Denial-Of-Service (DoS) is an attack targeted at depriving legitimate users from online services. It is done by flooding the network or server with useless and invalid authentication requests which eventually brings the whole network down, resulting in no connectivity. As a result of this, users are prevented from using a service.
+
+Description: A DoS attack is initiated by sending needless and supMemory corruption can be described as the vulnerability that may occur in a computer system when its memory is altered without an explicit assignment. The contents of a memory location are modified due to programming errors which enable attackers to execute an arbitrary code.
+
+Description: Memory corruption bugs mostly occur in low-level programming languages like C or C++. It is one of the probleTrojan or Trojan horse is the name given to a computer virus. It is a type of computer software that is camouflaged in the form of regular software such as utilities, games and sometimes even antivirus programs. Once it runs on the computer, it causes problems like killing background system processes, deleting hard drive data and corrupting file allocation systems.
+
+Description: Mostly Trojans areAuthentication is the process of recognizing a user’s identity. It is the mechanism of associating an incoming request with a set of identifying credentials. The credentials provided are compared to those on a file in a database of the authorized user’s information on a local operating system or within an authentication server.
+
+Description: The authentication process always runs at the start of tTrending NowPopular CategoriesHot on WebIn Case you missed itET VerticalsMore from our networkOther useful LinksservicesTop Searched CompaniesTop DefinitionsTop CommoditiesTop Prime ArticlesTop Story ListingTop SlideshowPrivate CompaniesPopular ArticlesMost Searched ArticlesTrending ArticlesTop Trending TopicsTop Trending Topics

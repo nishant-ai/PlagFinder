@@ -1,0 +1,150 @@
+Born and raised in the Austrian Empire, Tesla studied engineering and physics in the 1870s without receiving a degree, gaining practical experience in the early 1880s working in telephony and at Continental Edison in the new electric power industry. In 1884 he emigrated to the United States, where he became a naturalized citizen. He worked for a short time at the Edison Machine Works in New York City before he struck out on his own. With the help of partners to finance and market his ideas, Tesla set up laboratories and companies in New York to develop a range of electrical and mechanical devices. His alternating current (AC) induction motor and related polyphase AC patents, licensed by Westinghouse Electric in 1888, earned him a considerable amount of money and became the cornerstone of the polyphase system which that company eventually marketed.
+
+Attempting to develop inventions he could patent and market, Tesla conducted a range of experiments with mechanical oscillators/generators, electrical discharge tubes, and early X-ray imaging. He also built a wireless-controlled boat, one of the first-ever exhibited. Tesla became well known as an inventor and demonstrated his achievements to celebrities and wealthy patrons at his lab, and was noted for his showmanship at public lectures. Throughout the 1890s, Tesla pursued his ideas for wireless lighting and worldwide wireless electric power distribution in his high-voltage, high-frequency power experiments in New York and Colorado Springs. In 1893, he made pronouncements on the possibility of wireless communication with his devices. Tesla tried to put these ideas to practical use in his unfinished Wardenclyffe Tower project, an intercontinental wireless communication and power transmitter, but ran out of funding before he could complete it.[9]
+
+After Wardenclyffe, Tesla experimented with a series of inventions in the 1910s and 1920s with varying degrees of success. Having spent most of his money, Tesla lived in a series of New York hotels, leaving behind unpaid bills. He died in New York City in January 1943.[10] Tesla's work fell into relative obscurity following his death, until 1960, when the General Conference on Weights and Measures named the SI unit of magnetic flux density the tesla in his honor.[11] There has been a resurgence in popular interest in Tesla since the 1990s.[12]
+
+
+Contents
+1	Early years
+1.1	Working at Budapest Telephone Exchange
+2	Working at Edison
+2.1	Moving to the United States
+3	Tesla Electric Light & Manufacturing
+4	AC and the induction motor
+4.1	Market turmoil
+5	New York laboratories
+5.1	Tesla coil
+5.2	Citizenship
+5.3	Wireless lighting
+5.4	Polyphase system and the Columbian Exposition
+5.5	Steam-powered oscillating generator
+5.6	Consulting on Niagara
+5.7	The Nikola Tesla Company
+5.8	Lab fire
+5.9	X-ray experimentation
+5.10	Radio remote control
+6	Wireless power
+6.1	Colorado Springs
+6.2	Wardenclyffe
+7	Later years
+7.1	Bladeless turbine
+7.2	Wireless lawsuits
+7.3	Nobel Prize rumors
+7.4	Other ideas, awards, and patents
+7.5	Living circumstances
+7.6	Birthday press conferences
+8	Death
+8.1	Estate
+9	Patents
+10	Personal
+10.1	Appearance
+10.2	Eidetic memory
+10.3	Relationships
+10.4	Sleep habits
+10.5	Work habits
+11	Views and beliefs
+11.1	On experimental and theoretical physics
+11.2	On society
+11.3	On religion
+12	Literary works
+13	Legacy and honors
+13.1	Things named after Tesla
+13.1.1	Awards
+13.1.2	Enterprises and organizations
+13.1.3	Holidays and events
+13.1.4	Measures
+13.1.5	Places
+13.1.6	Schools
+13.1.7	Ships
+13.2	Plaques and memorials
+13.3	Computing
+13.4	Currency
+14	See also
+15	Notes
+16	References
+17	Further reading
+18	External links
+Early years
+
+Rebuilt, Tesla's house (parish hall) in Smiljan, now in Croatia, region of Lika, where he was born, and the rebuilt church, where his father served. During the Yugoslav Wars, several of the buildings were severely damaged by fire. They were restored and reopened in 2006.[13]
+
+Tesla's baptismal record, 28 June 1856
+Nikola Tesla was born an ethnic Serb in the village of Smiljan, within the Military Frontier, in the Austrian Empire (present day Croatia), on 10 July [O.S. 28 June] 1856.[14][15] His father, Milutin Tesla (1819–1879),[16] was a priest of the Eastern Orthodox Church.[17][18][19][20]
+
+Tesla's mother, Đuka Mandić (1822–1892), whose father was also an Eastern Orthodox Church priest,[21] had a talent for making home craft tools and mechanical appliances and the ability to memorize Serbian epic poems. Đuka had never received a formal education. Tesla credited his eidetic memory and creative abilities to his mother's genetics and influence.[22][23] Tesla's progenitors were from western Serbia, near Montenegro.[24]
+
+Tesla was the fourth of five children. He had three sisters, Milka, Angelina, and Marica, and an older brother named Dane, who was killed in a horse riding accident when Tesla was aged five.[25] In 1861, Tesla attended primary school in Smiljan where he studied German, arithmetic, and religion. In 1862, the Tesla family moved to the nearby Gospić, where Tesla's father worked as parish priest. Nikola completed primary school, followed by middle school. In 1870, Tesla moved to Karlovac[26][better source needed] to attend high school at the Higher Real Gymnasium where the classes were held in German, as it was usual throughout schools within the Austro-Hungarian Military Frontier.[27][28]
+
+
+Tesla's father, Milutin, was an Orthodox priest in the village of Smiljan.
+Tesla later wrote that he became interested in demonstrations of electricity by his physics professor.[29] Tesla noted that these demonstrations of this "mysterious phenomena" made him want "to know more of this wonderful force".[30] Tesla was able to perform integral calculus in his head, which prompted his teachers to believe that he was cheating.[31] He finished a four-year term in three years, graduating in 1873.[32]
+
+After graduating Tesla returned to Smiljan but soon contracted cholera, was bedridden for nine months and was near death multiple times. In a moment of despair, Tesla's father (who had originally wanted him to enter the priesthood),[33] promised to send him to the best engineering school if he recovered from the illness.[26][better source needed]
+
+The next year Tesla evaded conscription into the Austro-Hungarian Army in Smiljan[34] by running away southeast of Lika to Tomingaj, near Gračac. There he explored the mountains wearing hunter's garb. Tesla said that this contact with nature made him stronger, both physically and mentally. He read many books while in Tomingaj and later said that Mark Twain's works had helped him to miraculously recover from his earlier illness.[26][better source needed]
+
+He enrolled at the Imperial-Royal Technical College in Graz in 1875 on a Military Frontier scholarship. In his autobiography Tesla said he worked hard and earned the highest grades possible, passed nine exams[26][better source needed] (nearly twice as many as required[35]) and received a letter of commendation from the dean of the technical faculty to his father, which stated, "Your son is a star of first rank."[35] At Graz, Tesla noted his fascination with the detailed lectures on electricity presented by Professor Jakob Pöschl and described how he made suggestions on improving the design of an electric motor the professor was demonstrating.[26][better source needed][36] But by his third year he was failing in school and never graduated, leaving Graz in December 1878. One biographer suggests Tesla wasn't studying and may have been expelled for gambling and womanizing.[34]
+
+
+Tesla aged 23, c. 1879
+Tesla severed all relations with his family after he left Graz.[34] His friends thought that he had drowned in the nearby Mur River[37] but he was spotted by a friend in the town Maribor across the border in Slovenia, where he was working as a draftsman for 60 florins per month, and may have traveled on through Zagreb to a small town on the coast of the Adriatic Sea.[34][38] In March 1879, Milutin finally located him and tried to convince his son to return home and take up his education in Prague. Tesla returned to Gospić later that month when he was deported for not having a residence permit.[39] Tesla's father died the next month, on 17 April 1879, at the age of 60 after contracting an unspecified illness (some sources say it may have been a stroke).[40][better source needed] During the rest of the year Tesla taught a large class of students in his old school in Gospić.
+
+In January 1880, two of Tesla's uncles put together enough money to help him leave Gospić for Prague, where he was to study. He arrived too late to enroll at Charles-Ferdinand University; he had never studied Greek, a required subject; and he was illiterate in Czech, another required subject. Tesla did, however, attend lectures in philosophy at the university as an auditor but he did not receive grades for the courses.[41][42]
+
+Working at Budapest Telephone Exchange
+Tesla moved to Budapest, Hungary, in 1881 to work under Tivadar Puskás at a telegraph company, the Budapest Telephone Exchange. Upon arrival, Tesla realized that the company, then under construction, was not functional, so he worked as a draftsman in the Central Telegraph Office instead. Within a few months, the Budapest Telephone Exchange became functional, and Tesla was allocated the chief electrician position. During his employment, Tesla made many improvements to the Central Station equipment and claimed to have perfected a telephone repeater or amplifier, which was never patented nor publicly described.[26][better source needed]
+
+Working at Edison
+In 1882, Tivadar Puskás got Tesla another job in Paris with the Continental Edison Company.[43] Tesla began working in what was then a brand new industry, installing indoor incandescent lighting citywide in large scale electric power utility. The company had several subdivisions and Tesla worked at the Société Electrique Edison, the division in the Ivry-sur-Seine suburb of Paris in charge of installing the lighting system. There he gained a great deal of practical experience in electrical engineering. Management took notice of his advanced knowledge in engineering and physics and soon had him designing and building improved versions of generating dynamos and motors.[44] They also sent him on to troubleshoot engineering problems at other Edison utilities being built around France and in Germany.
+
+Moving to the United States
+
+Edison Machine Works on Goerck Street, New York. Tesla found the change from cosmopolitan Europe to working at this shop, located amongst the tenements on Manhattan's lower east side, a "painful surprise".[45]
+In 1884, Edison manager Charles Batchelor, who had been overseeing the Paris installation, was brought back to the United States to manage the Edison Machine Works, a manufacturing division situated in New York City, and asked that Tesla be brought to the United States as well.[46] In June 1884, Tesla emigrated[47] and began working almost immediately at the Machine Works on Manhattan's Lower East Side, an overcrowded shop with a workforce of several hundred machinists, laborers, managing staff, and 20 "field engineers" struggling with the task of building the large electric utility in that city.[48] As in Paris, Tesla was working on troubleshooting installations and improving generators.[49] Historian W. Bernard Carlson notes Tesla may have met company founder Thomas Edison only a couple of times.[48] One of those times was noted in Tesla's autobiography where, after staying up all night repairing the damaged dynamos on the ocean liner SS Oregon, he ran into Batchelor and Edison, who made a quip about their "Parisian" being out all night. After Tesla told them he had been up all night fixing the Oregon, Edison commented to Batchelor that "this is a damned good man".[45] One of the projects given to Tesla was to develop an arc lamp-based street lighting system.[50][51] Arc lighting was the most popular type of street lighting but it required high voltages and was incompatible with the Edison low-voltage incandescent system, causing the company to lose contracts in some cities. Tesla's designs were never put into production, possibly because of technical improvements in incandescent street lighting or because of an installation deal that Edison made with an arc lighting company.[52]
+
+Tesla had been working at the Machine Works for a total of six months when he quit.[48] What event precipitated his leaving is unclear. It may have been over a bonus he did not receive, either for redesigning generators or for the arc lighting system that was shelved.[50] Tesla had previous run-ins with the Edison company over unpaid bonuses he believed he had earned.[53][54] In his autobiography, Tesla stated the manager of the Edison Machine Works offered a $50,000 bonus to design "twenty-four different types of standard machines" "but it turned out to be a practical joke".[55] Later versions of this story have Thomas Edison himself offering and then reneging on the deal, quipping "Tesla, you don't understand our American humor".[56][57] The size of the bonus in either story has been noted as odd since Machine Works manager Batchelor was stingy with pay[58] and the company did not have that amount of cash (equivalent to $1.4 million in 2021[59]) on hand.[60][61] Tesla's diary contains just one comment on what happened at the end of his employment, a note he scrawled across the two pages covering 7 December 1884, to 4 January 1885, saying "Good by to the Edison Machine Works".[51][62]
+
+Tesla Electric Light & Manufacturing
+Soon after leaving the Edison company, Tesla was working on patenting an arc lighting system,[63] possibly the same one he had developed at Edison.[48] In March 1885, he met with patent attorney Lemuel W. Serrell, the same attorney used by Edison, to obtain help with submitting the patents.[63] Serrell introduced Tesla to two businessmen, Robert Lane and Benjamin Vail, who agreed to finance an arc lighting manufacturing and utility company in Tesla's name, the Tesla Electric Light & Manufacturing.[64] Tesla worked for the rest of the year obtaining the patents that included an improved DC generator, the first patents issued to Tesla in the US, and building and installing the system in Rahway, New Jersey.[65] Tesla's new system gained notice in the technical press, which commented on its advanced features.
+
+The investors showed little interest in Tesla's ideas for new types of alternating current motors and electrical transmission equipment. After the utility was up and running in 1886, they decided that the manufacturing side of the business was too competitive and opted to simply run an electric utility.[66] They formed a new utility company, abandoning Tesla's company and leaving the inventor penniless.[66] Tesla even lost control of the patents he had generated, since he had assigned them to the company in exchange for stock.[66] He had to work at various electrical repair jobs and as a ditch digger for $2 per day. Later in life Tesla recounted that part of 1886 as a time of hardship, writing "My high education in various branches of science, mechanics and literature seemed to me like a mockery".[66][67]
+
+AC and the induction motor
+
+Drawing from U.S. Patent 381,968, illustrating the principle of Tesla's alternating current induction motor
+In late 1886, Tesla met Alfred S. Brown, a Western Union superintendent, and New York attorney Charles Fletcher Peck.[68] The two men were experienced in setting up companies and promoting inventions and patents for financial gain.[69] Based on Tesla's new ideas for electrical equipment, including a thermo-magnetic motor idea,[70] they agreed to back the inventor financially and handle his patents. Together they formed the Tesla Electric Company in April 1887, with an agreement that profits from generated patents would go ⅓ to Tesla, ⅓ to Peck and Brown, and ⅓ to fund development.[69] They set up a laboratory for Tesla at 89 Liberty Street in Manhattan, where he worked on improving and developing new types of electric motors, generators, and other devices.
+
+In 1887, Tesla developed an induction motor that ran on alternating current (AC), a power system format that was rapidly expanding in Europe and the United States because of its advantages in long-distance, high-voltage transmission. The motor used polyphase current, which generated a rotating magnetic field to turn the motor (a principle that Tesla claimed to have conceived in 1882).[71][72][73] This innovative electric motor, patented in May 1888, was a simple self-starting design that did not need a commutator, thus avoiding sparking and the high maintenance of constantly servicing and replacing mechanical brushes.[74][75]
+
+Along with getting the motor patented, Peck and Brown arranged to get the motor publicized, starting with independent testing to verify it was a functional improvement, followed by press releases sent to technical publications for articles to run concurrently with the issue of the patent.[76] Physicist William Arnold Anthony (who tested the motor) and Electrical World magazine editor Thomas Commerford Martin arranged for Tesla to demonstrate his AC motor on 16 May 1888 at the American Institute of Electrical Engineers.[76][77] Engineers working for the Westinghouse Electric & Manufacturing Company reported to George Westinghouse that Tesla had a viable AC motor and related power system—something Westinghouse needed for the alternating current system he was already marketing. Westinghouse looked into getting a patent on a similar commutator-less, rotating magnetic field-based induction motor developed in 1885 and presented in a paper in March 1888 by Italian physicist Galileo Ferraris, but decided that Tesla's patent would probably control the market.[78][79]
+
+
+Tesla's AC dynamo-electric machine (AC electric generator) in an 1888 U.S. Patent 390,721
+In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor. Westinghouse also hired Tesla for one year for the large fee of $2,000 ($57,600 in today's dollars[80]) per month to be a consultant at the Westinghouse Electric & Manufacturing Company's Pittsburgh labs.[81]
+
+During that year, Tesla worked in Pittsburgh, helping to create an alternating current system to power the city's streetcars. He found it a frustrating period because of conflicts with the other Westinghouse engineers over how best to implement AC power. Between them, they settled on a 60-cycle AC system that Tesla proposed (to match the working frequency of Tesla's motor), but they soon found that it would not work for streetcars, since Tesla's induction motor could run only at a constant speed. They ended up using a DC traction motor instead.[82][83]
+
+Market turmoil
+Tesla's demonstration of his induction motor and Westinghouse's subsequent licensing of the patent, both in 1888, came at the time of extreme competition between electric companies.[84][85] The three big firms, Westinghouse, Edison, and Thomson-Houston, were trying to grow in a capital-intensive business while financially undercutting each other. There was even a "war of currents" propaganda campaign going on with Edison Electric trying to claim their direct current system was better and safer than the Westinghouse alternating current system.[86][87] Competing in this market meant Westinghouse would not have the cash or engineering resources to develop Tesla's motor and the related polyphase system right away.[88]
+
+Two years after signing the Tesla contract, Westinghouse Electric was in trouble. The near collapse of Barings Bank in London triggered the financial panic of 1890, causing investors to call in their loans to Westinghouse Electric.[89] The sudden cash shortage forced the company to refinance its debts. The new lenders demanded that Westinghouse cut back on what looked like excessive spending on acquisition of other companies, research, and patents, including the per motor royalty in the Tesla contract.[90][91] At that point, the Tesla induction motor had been unsuccessful and was stuck in development.[88][89] Westinghouse was paying a $15,000-a-year guaranteed royalty[92] even though operating examples of the motor were rare and polyphase power systems needed to run it was even rarer.[74][89] In early 1891, George Westinghouse explained his financial difficulties to Tesla in stark terms, saying that, if he did not meet the demands of his lenders, he would no longer be in control of Westinghouse Electric and Tesla would have to "deal with the bankers" to try to collect future royalties.[93] The advantages of having Westinghouse continue to champion the motor probably seemed obvious to Tesla and he agreed to release the company from the royalty payment clause in the contract.[93][94] Six years later Westinghouse purchased Tesla's patent for a lump sum payment of $216,000 as part of a patent-sharing agreement signed with General Electric (a company created from the 1892 merger of Edison and Thomson-Houston).[95][96][97]
+
+New York laboratories
+Mark Twain in Tesla's lab, 1894
+Mark Twain in Tesla's South Fifth Avenue laboratory, 1894
+The money Tesla made from licensing his AC patents made him independently wealthy and gave him the time and funds to pursue his own interests.[98] In 1889, Tesla moved out of the Liberty Street shop Peck and Brown had rented and for the next dozen years working out of a series of workshop/laboratory spaces in Manhattan. These included a lab at 175 Grand Street (1889–1892), the fourth floor of 33–35 South Fifth Avenue (1892–1895), and sixth and seventh floors of 46 & 48 East Houston Street (1895–1902).[99][100] Tesla and his hired staff conducted some of his most significant work in these workshops.
+
+Tesla coil
+Main article: Tesla coil
+In the summer of 1889, Tesla traveled to the 1889 Exposition Universelle in Paris and learned of Heinrich Hertz's 1886–1888 experiments that proved the existence of electromagnetic radiation, including radio waves.[101] Tesla found this new discovery "refreshing" and decided to explore it more fully. In repeating, and then expanding on, these experiments, Tesla tried powering a Ruhmkorff coil with a high speed alternator he had been developing as part of an improved arc lighting system but found that the high-frequency current overheated the iron core and melted the insulation between the primary and secondary windings in the coil. To fix this problem Tesla came up with his "oscillating transformer", with an air gap instead of insulating material between the primary and secondary windings and an iron core that could be moved to different positions in or out of the coil.[102] Later called the Tesla coil, it would be used to produce high-voltage, low-current, high frequency alternating-current electricity.[103] He would use this resonant transformer circuit in his later wireless power work.[104][105]
+
+Citizenship
+On 30 July 1891, aged 35, Tesla became a naturalized citizen of the United States.[106][107] In the same year, he patented his Tesla coil.[108]
+
+Wireless lighting
+
+Tesla demonstrating wireless lighting by "electrostatic induction" during an 1891 lecture at Columbia College via two long Geissler tubes (similar to neon tubes) in his hands
+After 1890, Tesla experimented with transmitting power by inductive and capacitive coupling using high AC voltages generated with his Tesla coil.[109] He attempted to develop a wireless lighting system based on near-field inductive and capacitive coupling and conducted a series of public demonstrations where he lit Geissler tubes and even incandescent light bulbs from across a stage.[110] He spent most of the decade working on variations of this new form of lighting with the help of various investors but none of the ventures succeeded in making a commercial product out of his findings.[111]
+
+In 1893 at St. Louis, Missouri, the Franklin Institute in Philadelphia, Pennsylvania and the National Electric Light Association, Tesla told onlookers that he was sure a syste

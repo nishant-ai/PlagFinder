@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>PLAGIARISM FINDER</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="{% static "css/plag.css" %}">
+    </head>
+    <body>
+        <header>
+            
+               
+            <h2>PLAG FINDER </h2>
+          </header>
+          <div class ="contaainer">
+            <img src="{% static "img/f.jpg" %}" width="100%" height="300%">
+      <div class="menu">
+        <form action="" method="POST" enctype="multipart/form-data"> {% csrf_token %}
+         <h2>CHECK FOR PLAGIARISM</h2>
+            <input type="text" class="hh" name="title" placeholder="Subject">
+            <input type="number" class="tt" name="no_of_websites" id="no_of_websites" placeholder="No of Websites">
+            <input type="file"class="rr" name="file" id="file">
+            
+            <input type="checkbox" class="jk" name="checkbox" id="checkbox">
+            <input type="submit" class="sd" value="Submit">
+        </form>
+       
+        
+   <div class="end">
+            <ul>
+                {% for website in websites %}
+                <li>{{ website }}</li>
+                {% endfor %}
+                {% for percent in percentage %}
+              <li>{{ percent }}</li>
+              {% endfor %}
+              {% for text in deepResult %}
+                <li>{{text}}</li>
+                {% endfor %}
+            </ul>
+        
+            </div>
+        </div>
+    </div>
+   
+    
+    
+   
+        <script src="" async defer></script>
+    </body>
+</html>

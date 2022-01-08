@@ -1,0 +1,246 @@
+Supervised learning is the most common type of machine learning algorithms. It uses a known dataset (called the training dataset) to train an algorithm with a known set of input data (called features) and known responses to make predictions. The training dataset includes labeled input data that pair with desired outputs or response values. From it, the supervised learning algorithm seeks to create a model by discovering relationships between the features and output data and then makes predictions of the response values for a new dataset.Prior to applying supervised learning, unsupervised learning is frequently used to discover patterns in the input data that suggest candidate features, and feature engineering transforms them to be more suitable for supervised learning. In addition to identifying features, the correct category or response needs to be identified for all observations in the training set, which is a very labor-intensive step. Semi-supervised learning lets you train models with very limited labeled data and thus reduce the labelling effort.Once the algorithm is trained, a test dataset, which hasn’t been used for training, is typically used to predict the performance of the algorithm and validate it. To obtain accurate performance results, it is critical that both the training and test set are a good representation of “reality”( i.e., data from the production environment and the model were both validated correctly).Q&A on model validationYou can train, validate, and tune predictive supervised learning models in MATLAB® with Deep Learning Toolbox™, and Statistics and Machine Learning Toolbox™.Classification: Used for categorical response values, where the data can be separated into specific classes. A binary classification model has two classes and a multiclass classification model has more. You can train classification models with the Classification Learner app with MATLAB.Common classification algorithms for this category include:Regression: used for numerical continuous-response values. Regression models can be easily trained with the Regression Learner app with MATLAB, learn how in this video and in this article.Common regression algorithms include:Supervised learning is used in financial applications for credit scoring, algorithmic trading, and bond classification; in biological applications for tumor detection and drug discovery; in energy applications for price and load forecasting; in pattern recognition applications for speech and images; and in predictive maintenance for life of equipment estimates.
+						See also:
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			Statistics and Machine Learning Toolbox, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			Deep Learning Toolbox, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			machine learning, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			unsupervised learning, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			AdaBoost, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			linear regression, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			nonlinear regression, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			data fitting, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			data analysis, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			mathematical modeling, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			predictive modeling, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			artificial intelligence, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			AutoML, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			regularization, 
+
+
+						
+							
+	
+	
+	
+	
+
+		
+
+		
+			
+			biomedical signal processing
+
+
+						
+						
+					
+				
+			
+				
+	
+	
+
+		
+
+		
+			
+			Mastering Machine Learning: A Step-by-Step Guide with MATLAB
+
+			
+				
+			
+				
+	
+	
+
+		
+
+		
+			
+			How Much Do You Know About Machine Learning?
+
+			Select a Web
+							SiteChoose a web site to get translated content where available and see local events and
+							offers. Based on
+							your location, we recommend that you select: .
+						You can also select a web site from the following list:Select the China site (in Chinese or English) for best site performance. Other MathWorks country
+						sites are not optimized for visits from your location.Contact your local officeMathWorksAccelerating the pace of engineering and scienceMathWorks is the leading developer of mathematical computing software for engineers and scientists.Discover…Explore ProductsTry or BuyLearn to UseGet SupportAbout MathWorks© 1994-2022 The MathWorks, Inc.Join the conversation

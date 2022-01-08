@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plag Finder</title>
+    <link rel="stylesheet" type='text/css' href="{% static 'css/index.css' %}">
+    {% comment %} <link rel="stylesheet" href="css/mediaquery.css"> {% endcomment %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@200;300;400;600;700&display=swap"
+        rel="stylesheet">
+   
+    <link href="https://fonts.googleapis.com/css2?family=Acme&family=Fruktur&family=Permanent+Marker&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fruktur&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fruktur&family=Permanent+Marker&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Acme&family=Bebas+Neue&family=Fruktur&family=Permanent+Marker&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Acme&family=Anton&family=Bebas+Neue&family=Fruktur&family=Permanent+Marker&family=Roboto+Condensed:wght@300&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&display=swap" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+    <script src="https://kit.fontawesome.com/9d4115c699.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <section class="header">
+        <nav>
+            <a href="/"><img src="{% static 'img/logo__1_-removebg-preview.png' %}"></a>
+            <div class="nav-links" id="navlinks">
+                
+                <i class="fas fa-times" id="hide-men" onclick="hidemenu()" style="color: rgba(0, 0, 0, 0.761);" ></i>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="plag-test/">Check Plagiarism</a></li>
+                </ul>
+            </div>
+            <i class="fas fa-bars" id="show-men" onclick="showmenu()" style="color: rgb(255, 255, 255);" ></i>
+
+
+        </nav>
+        <div class="text-box">
+            <h1 id="plagiarism">Plagiarism Finder</h1>
+            <p>We are working against Plagiarism</p>
+            <a href="plag-test/" class="hero-btn">Check Plagiarism</a>
+        </div>
+
+
+    </section>
+    <!--properties-->
+    <section class="properties">
+        <h1>Welcome to the trustworthy Plagiarism checker</h1>
+        <div class="row">
+            <div class="prop-col">
+                <h2 class="head">PlagBasic</h3>
+                    <br>
+
+                    <i class="fas fa-paste" style="font-size: 2em;"></i>
+                    <br>
+                    <br>
+                    <p class="line">Providing Websites with Match percentage of Uploaded text and Scraped Reference Texts Taken in realtime using Google library</p>
+            </div>
+            <div class="prop-col">
+                <h2 class="head">Deep search</h3>
+                    <br>
+                    <i class="fas fa-search" style="font-size: 2em;"></i>
+                    <br>
+                    <br>
+                    <p class="line">This plagiarism checker software offers you a deep and thorough check. With deep
+                        search, you get extra levels of plagiarism search and additional result details.</p>
+            </div>
+            <div class="prop-col">
+                <h2 class="head">Results</h3>
+                    
+                    <br>
+                    <i class="fas fa-poll" style="font-size: 2em;"></i>
+                    <br>
+                    <br>
+                    <p class="line">We provide absolute comfort to users.It gives you unique content ratio in
+                        percentage.
+                        It is most accurate plagiarism checker ratio and a Best matching detection tool. </p>
+
+            </div>
+
+        </div>
+    </section>
+    <!-----about plagiarism------>
+
+
+    <section class="plag">
+        <div class="headin" id="home">
+            <h1 id="head" class="tip-lit">What Is Plagiarism? And its Consequences!</h1>
+            <br>
+
+            <div class="sm-div"> <img src="{% static 'img/27834427.jpg' %}" alt="plagiarism"></div>
+
+            <div class="sm-div">
+                <p class="last-text">In simple words, to take a piece of someone’s ideas and present it to be yours, is
+                    plagiarism. It is an illegal act and duplicate content can hurt your SEO badly. It also kills your
+                    reputation and customer loyalty.These are some of the reasons for plagiarism detection from your
+                    content before clicking ‘publish’ or sending it off to the relevant authority.
+                    <br>
+
+                <ul>
+                    <br>
+                    <li class="last-text">If you're a student and end up submitting plagiarized essays to your teacher,
+                        you may find that you lose serious scores, save your scores with the help of our free plagiarism
+                        checker for students.</li>
+                    <br>
+                    <li class="last-text">If you run a website, blog, or online business and publish plagiarized content
+                        (whether knowingly or otherwise), you'd be kidding with your customers’ trust and overall user
+                        experience. This can over time translate into poor sales, reduced revenue, or even closure.You
+                        can perform a manual check or use our best plagiarism checker to detect plagiarism from the
+                        content.</li>
+                </ul>
+                </p>
+            </div>
+        </div>
+        <br>
+    </section>
+    <section>
+        <div class="acad" id="main-box">
+
+            <h1 class="head1 academic">Academic</h1>
+            <div class="colour" id="java"><img src="{% static 'img/colour.png' %}"></div>
+           <div class="photo-div"> <img data-tilt src="{% static 'img/38017212.jpg' %}" alt="student" id="photo"></div>
+        
+            <p class="last-text tt" id="first-text">Today, piracy has become a constant issue in educational
+                institutions as students create many assignments using a large amount of research in a small amount of
+                time or the copy someone else work and submit in their name.<br><br> It is best for Teachers,Professor
+                and Student.<br> Most of the outcomes of plagiarism occur once the replication is caught, but the
+                personal ones happen despite any outside involvement. <br><br>When discussing copying, institutes have
+                noted that the students who duplicate the data fail to learn many of the research as well as writing
+                skills that the institution is supposed to have taught them. Once they leave the institution, all those
+                students lack the ability to create original content, since they only have cheated previously. Moreover,
+                there is also a psychological effect of plagiarism, as the continuous lying and deception can take its
+                cost on the psyche.<br> Using a plagiarism checker free also help us to stay away from such situations
+                as we might amend plus read what we have written.<br>
+                <br>
+                <br>
+
+
+            </p>
+        </div>
+    </section>
+    <br>
+
+ 
+    <section class="text1">
+        <div class="text2">
+            <h1 class="tip-lit">Why Originality & Uniqueness of Content Matters?</h1><br>
+            <img src="{% static 'img/38601429.jpg' %}" alt="design" style="border-radius: 10px;">
+            <br>
+            <br>
+
+
+            <p class="last-text" id="last-para">Some people caught plagiarizing in academic or print media claim that
+                they plagiarized unintentionally. If you want to avoid similarity then you must use a similarity
+                checker. We guarantee you precise and reliable plagiarism test results! This plagiarism detector online
+                can help you to detect similar content across the web by analyzing your content to the last detail, line
+                by line.
+                 
+                While this free plagiarism detector has been built to help you check for any type of text file, it is a
+                complete content analysis utility terrifically developed to give you all the possible details and data
+                about any piece of text you check into it.</p>
+            <br>
+            <br>
+            <br>
+                
+        </div>
+        <br>
+    </section>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <!-----footer section----->
+    <button type="button" id="scroll_top">SCROLL TO TOP</button>
+<!-- footer -->
+   
+<div class="mt-5" >
+    <!-- Footer -->
+    <footer class="text-center text-white" style="background-color:rgba(137, 43, 226, 0.582)">
+      <!-- Grid container -->
+      <div class="container">
+        <!-- Section: Links -->
+        <section class="mt-5">
+          <!-- Grid row-->
+          <div class="row text-center d-flex justify-content-center pt-5">
+            <!-- Grid column -->
+            <div class="col-md-2">
+              <h6 class="text-uppercase font-weight-bold">
+                <a href="about/" class="text-white">About us</a>
+              </h6>
+            </div>
+            
+           
+            <!-- Grid column -->
+  
+            <!-- Grid column -->
+            <div class="col-md-2">
+              <h6 class="text-uppercase font-weight-bold">
+                <a href="#!" class="text-white">Help</a>
+              </h6>
+            </div>
+            <!-- Grid column -->
+  
+            <!-- Grid column -->
+            <div class="col-md-2">
+              <h6 class="text-uppercase font-weight-bold">
+                <a href="plag-test/"  class="text-white">CHECK PLAGIARISM</a>
+              </h6>
+            </div>
+            <!-- Grid column -->
+          </div>
+          <!-- Grid row-->
+        </section>
+        <!-- Section: Links -->
+  
+        <hr class="my-5" />
+  
+        <!-- Section: Text -->
+        <section class="mb-5">
+          <div class="row d-flex justify-content-center">
+            <div class="col-lg-8">
+              <p>
+                Plagiarism is presenting someone else’s work or ideas as your own, with or without their consent, by incorporating it into your work without full acknowledgement.Plagiarism may be intentional or reckless, or unintentional. Under the regulations for examinations, intentional or reckless plagiarism is a disciplinary offence.We <strong>PlagFinder</strong> are working against Plagiarism.
+              </p>
+            </div>
+          </div>
+        </section>
+        <!-- Section: Text -->
+  
+        <!-- Section: Social -->
+        <section class="text-center mb-5">
+          <a href="" class="text-white me-4">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+         
+          <a href="" class="text-white me-4">
+            <i class="fab fa-google"></i>
+          </a>
+          <a href="" class="text-white me-4">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="" class="text-white me-4">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a href="" class="text-white me-4">
+            <i class="fab fa-github"></i>
+          </a>
+        </section>
+        <!-- Section: Social -->
+      </div>
+      <!-- Grid container -->
+  
+      <!-- Copyright -->
+      <div
+           class="text-center p-3"
+           style="background-color: rgba(0, 0, 0, 0.2)"
+           >
+        © 2020 Copyright:
+        <a class="text-white" href=""
+           >PlagFinder</a
+          >
+      </div>
+      <!-- Copyright -->
+    </footer>
+   
+  </div>
+
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/tilt.js/1.2.1/tilt.jquery.min.js"> -->
+
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/MotionPathPlugin.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/ScrollTrigger.min.js"></script>
+    <script src="{% static 'js/index.js' %}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tilt.js/1.2.1/tilt.jquery.min.js"></script>
+    <!--javascript for toggle menu-->
+    <script>
+        var navlinks = document.getElementById("navlinks");
+     
+        const displayNone=()=> navlinks.classList.add("virtual-nav");
+        const fuckNight=()=> navlinks.classList.remove("virtual-nav");
+        
+       
+        
+        function showmenu() {
+            fuckNight();
+            navlinks.style.right = '0';
+            
+        }
+       
+        function hidemenu() {
+            navlinks.style.right = "-40vw";
+            setTimeout(displayNone,1100);
+            
+
+        }
+     
+    
+    </script><link
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    rel="stylesheet"
+  />
+  <link
+  href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css"
+  rel="stylesheet"
+/>
+
+
+</body>
+
+</html>

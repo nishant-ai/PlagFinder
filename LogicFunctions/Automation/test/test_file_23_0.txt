@@ -1,0 +1,64 @@
+
+						
+							
+								
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By Alexx Kay
+						
+						
+							
+								
+									
+								
+
+
+
+
+
+
+
+
+
+
+
+
+Computerworld |
+							
+	
+							
+								
+							
+						A traditional digital computer does many tasks very well. It's quite fast, and it does exactly what you tell it to do. Unfortunately, it can't help you when you yourself don't fully understand the problem you want solved. Even worse, standard algorithms don't deal well with noisy or incomplete data, yet in the real world, that's frequently the only kind available. One answer is to use an artificial neural network (ANN), a computing system that can learn on its own.
+The first artificial neural network was invented in 1958 by psychologist Frank Rosenblatt. Called Perceptron, it was intended to model how the human brain processed visual data and learned to recognize objects. Other researchers have since used similar ANNs to study human cognition.
+Eventually, someone realized that in addition to providing insights into the functionality of the human brain, ANNs could be useful tools in their own right. Their pattern-matching and learning capabilities allowed them to address many problems that were difficult or impossible to solve by standard computational and statistical methods. By the late 1980s, many real-world institutes were using ANNs for a variety of purposes.
+Although ANNs are often referred to simply as neural networks, that name more properly belongs to the biological brains on which they were originally modeled.
+Structure
+An artificial neural network operates by creating connections between many different processing elements, each analogous to a single neuron in a biological brain. These neurons may be physically constructed or simulated by a digital computer. Each neuron takes many input signals, then, based on an internal weighting system, produces a single output signal that's typically sent as input to another neuron.
+The neurons are tightly interconnected and organized into different layers. The input layer receives the input, the output layer produces the final output. Usually one or more hidden layers are sandwiched in between the two. This structure makes it impossible to predict or know the exact flow of data.
+How They Learn
+Artificial neural networks typically start out with randomized weights for all their neurons. This means that they don't "know" anything and must be trained to solve the particular problem for which they are intended. Broadly speaking, there are two methods for training an ANN, depending on the problem it must solve.
+A self-organizing ANN (often called a Kohonen after its inventor) is exposed to large amounts of data and tends to discover patterns and relationships in that data. Researchers often use this type to analyze experimental data.
+A back-propagation ANN, conversely, is trained by humans to perform specific tasks. During the training period, the teacher evaluates whether the ANN's output is correct. If it's correct, the neural weightings that produced that output are reinforced; if the output is incorrect, those weightings responsible are diminished. This type is most often used for cognitive research and for problem-solving applications.
+Implemented on a single computer, an artificial neural network is typically slower than a more traditional algorithmic solution. The ANN's parallel nature, however, allows it to be built using multiple processors, giving it a great speed advantage at very little development cost. The parallel architecture also allows ANNs to process very large amounts of data very efficiently. When dealing with large, continuous streams of information, such as speech recognition or machine sensor data, ANNs can operate considerably faster than their linear counterparts.
+Artificial neural networks have proved useful in a variety of real-world applications that deal with complex, often incomplete data. The first of these were in visual pattern recognition and speech recognition. In addition, recent programs for text-to-speech have utilized ANNs. Many handwriting analysis programs (such as those used in popular PDAs) are powered by ANNs.
+Automated and robotic factories are now being monitored by ANNs that control machinery, adjust temperature settings, diagnose malfunctions and more. These ANNs can augment or replace skilled labor, making it possible for fewer people to do more work.
+Economic Uses
+The economic uses of ANNs may be the most exciting. 
+Large financial institutions have used ANNs to improve performance in such areas as bond rating, credit scoring, target marketing and evaluating loan applications. These systems are typically only a few percentage points more accurate than their predecessors, but because of the amounts of money involved, they are very profitable. ANNs are now used to analyze credit card transactions to detect likely instances of fraud.
+ANNs are used to discover other kinds of crime, too. Bomb detectors in many U.S. airports use ANNs to analyze airborne trace elements to sense the presence of explosive chemicals. And the personnel office of the Chicago Police Department uses ANNs to try to root out corruption among police officers. Kay is a freelance writer in Dorchester, Mass. Reach him at Alexx@world.std.com.Copyright © 2001 IDG Communications, Inc.Copyright © 2022 IDG Communications, Inc.

@@ -1,0 +1,908 @@
+Supervised learning (SL) is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from .mw-parser-output .vanchor>:target~.vanchor-text{background-color:#b1d2ff}labeled training data consisting of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal). A supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples. An optimal scenario will allow for the algorithm to correctly determine the class labels for unseen instances. This requires the learning algorithm to generalize from the training data to unseen situations in a "reasonable" way (see inductive bias). This statistical quality of an algorithm is measured through the so-called generalization error.
+Ted. Peter's parents gather hidden documents, take Peter to the home of his aunt May and uncle Ben, then mysteriously depart.
+
+Years later, a teenage Peter attends Midtown Science High School; he is intelligent but socially awkward and often bullied. He also has a crush on Gwen Stacy, who returns his feelings. Peter learns his father worked with scientist Dr. Curt Connors at Oscorp in the field of cross-species genetics. He sneaks into Oscorp, where he is bitten by a genetically modified spider. He then discovers he has developed spider-like abilities, such as super-strength, sharp senses, agility, and speed.
+
+Peter studies his father's papers and visits Connors, who only has one arm. He reveals he is Richard's son and gives Connors his father's "decay rate algorithm," the missing piece in Connors' experiments on regenerating limbs. At home, Peter and Ben argue, and Peter leaves. While searching for him, Ben attempts to stop a thief that Peter allowed to escape, and is shot, dying in Peter's arms.
+
+Peter uses his new abilities to track down criminals matching the killer's description. He creates a mask and spandex suit to hide his identity. He also builds mechanical web-shooters out of wristwatches to attach to his wrists. At dinner with Gwen's family, he discovers her father is police captain George Stacy, who dislikes the new vigilante hero. Peter reveals his identity to Gwen and they kiss. After seeing success with the lab rats using lizard DNA, Connors' superior Ratha demands Connors begin human trials immediately. Connors refuses to rush the drug-testing procedure and put innocent people at risk. Ratha fires Connors and decides to test his serum at a Veterans Administration hospital. In an act of desperation, Connors tries the formula on himself. After passing out, he awakens to find his missing arm has regenerated.
+
+Discovering that Ratha is on his way to the hospital, Connors goes to intercept him. By the time he gets to the Williamsburg Bridge, he has become a violent humanoid reptile. Peter, now calling himself Spider-Man, saves the people on the bridge from Connors' attack. Following a battle in the sewers, the Lizard learns Spider-Man's real identity and attacks Peter at school. Police start a manhunt for both Spider-Man and the Lizard. They eventually corner Spider-Man, leading Captain Stacy to discover that Spider-Man is Peter and lets him go to stop the Lizard. The Lizard plans to make all humans reptilian by releasing a chemical cloud from Oscorp's tower, to eliminate the weaknesses he believes plague humanity. Gwen creates an antidote, which Peter disperses, restoring Connors and his victims to normal, but not before the Lizard fatally wounds Captain Stacy.
+
+Before his death, Captain Stacy asks that Peter avoid Gwen to keep her safe. Peter initially does so, but seeing as they're both unhappy, hints to her that he may see her after all. In a mid-credits scene, an incarcerated Connors speaks with a man in the shadows who asks if Peter knows the truth about his father. Connors does not know and demands that Peter be left alone, before the man disappears.[b]
+
+Cast
+
+
+Andrew Garfield (top) and Emma Stone (bottom) at San Diego Comic-Con in 2013
+Andrew Garfield as Peter Parker / Spider-Man:
+A 17-year-old intellectually-gifted yet socially-introverted teenager struggling to find his place in life ever since his parents disappeared when he was a child. While sneaking inside the OsCorp building where his father worked, a genetically-enhanced spider bites him on the back of his neck, giving him inhuman abilities, similar to that of a spider's. After his uncle's murder at the hands of a thief, he takes up the mantle of a masked vigilante: "Spider-Man", using his super-human abilities and specially-constructed wrist-worn devices named "web-shooters", created from his intellect and resources in targeting street-level criminals. Initially using his alter-ego to hunt down his uncle's killer, he is later compelled to use his abilities to stop the growing threat of the "Lizard".[9][10] Garfield described Parker as someone he can relate to and stated that the character had been an important influence on him since he was little.[11][12][13] Garfield said in interviews, including one in which he was interviewed by Maguire, that when he watched the film Spider-Man when he was younger, he would jokingly recite Maguire's lines in the mirror with a friend who joked that he would never be Spider-Man.[14] On accepting the role Garfield explained, "I see it as a massive challenge in many ways... To make it authentic. To make the character live and breathe in a new way. The audience already has a relationship with many different incarnations of the character. I do, as well. I'm probably going to be the guy in the movie theater shouting abuse at myself. But I have to let that go. No turning back. And I wouldn't want to."[15] After taking the role, Garfield studied the movements of athletes and spiders and tried to incorporate them, saying Parker is "a boy/spider in terms of how he moves, and not just in the suit."[16][17] He did yoga and Pilates for the role in order to be as flexible as possible.[18] Garfield admitted to shedding a tear when first wearing his costume and that he tried to imagine "a much better actor's face in that suit" because seeing himself as Spider-Man "didn't make sense to him". He said, "I didn’t think that the spandex would make me so emotional, but it did."[19] He described the suit as "uncomfortable" and said that he wasn't allowed to wear anything underneath it because it was so skintight.[20] When filming, Garfield explained that he had four months of training and described his physical roles on stunts as terribly challenging and exhausting.[21]
+Max Charles plays a young Peter Parker.
+Emma Stone as Gwen Stacy:
+A high school classmate and love interest of Parker's,[22] a smart and charismatic girl who is the chief Intern at Oscorp.[9][10] For the role, Stone kept her natural blonde hair color, rather than maintaining her usual dyed red hair.[23][24] She felt that she had a responsibility to educate herself on Spider-Man, admitting she "hadn't read the comic book growing up, and my experience was with the Sam Raimi movies... I always assumed that Mary Jane was his first love",[25] and having only been familiar with her The Help co-star Bryce Dallas Howard's portrayal in Spider-Man 3.[26][27][28] Stone said, "There's a part of me that really wants to please people [who] love Spider-Man or Gwen Stacy and want her to be done justice. I hope they'll give me license to interpret her my way."[24]
+Rhys Ifans as Dr. Curt Connors / Lizard:
+One of Oscorp's leading scientific minds and former partner of Peter's late father Richard Parker who attempts to engineer a revolutionary regeneration serum to help regrow limbs and human tissue. Something goes wrong, and he is transformed into a large reptilian monster.[9][10] Ifans said his character spends the majority of the film as a human. While playing the 9-foot-tall reptile, Ifans was required to wear a CGI suit. Initially, a large stunt double was used as a stand-in for the role, but Ifans insisted on portraying the transformed character. Commenting on the technology used to bring his character to life, Ifans continued, "I had a green suit on, and then this cardboard head, and these small claws... Every time you see the Lizard, the technology is so advanced now that when the Lizard's eyes move, they're my eyes. If I frown or show any emotion, they're my emotions. That's how spectacularly advanced technology is."[29] Ifans said that he voiced the man-beast as well, explaining, "I'm sure the voice will be toyed with in the eventual edits, but when I was shooting the CGI moments when I wasn't human when I was Lizard, I looked like a crash-test dummy in a green leotard thing. There were many moments when I had to speak to Andrew Garfield and Emma Stone as the Lizard."[30]
+Denis Leary as George Stacy:
+Gwen's father, a police captain who hunts both Spider-Man out of distrust and the Lizard for his rampage.[31] Leary explained that he did not know much about Spider-Man in the comics and was "more of a Batman guy. Not the '60s [TV version], but the dark Batman. But my wife was a Spider-Man nut, which was why I went to [see the] Tobey Maguire ones."[32] He added that long before he was cast as George Stacy his friend Jeff Garlin, a Spider-Man fan, "said to me, 'The first time I met you, I thought you were George Stacy!' This was like 30 years ago. I was like, 'What?!'"[32] Director Webb said of his casting, "[W]e all trust Denis Leary. He's got this attitude, but you love him."
+Campbell Scott as Richard Parker:
+Peter's late father and a geneticist who worked for Oscorp, his research being the Spider-venom cross species experiment said to heal or cure any sickness, one of the spiders he created ends up biting his son granting him his abilities.[33][34]
+Irrfan Khan as Rajit Ratha:
+An Oscorp executive, Connors' immediate superior.[35] Khan said he was offered what he described as this "pivotal role" after appearing in the TV drama series In Treatment.[36][37] Webb described himself as a fan of the actor when watching the series along with the films The Namesake and The Warrior.[35] Khan said he was uninterested in the project at first, but that his sons were excited about it and insisted he take the role.[38]
+Martin Sheen as Ben Parker:
+Peter's uncle and Richard's brother.[39] Sheen admitted he was unfamiliar with Spider-Man other than Maguire's portrayal, and knew little of the character Ben Parker except for knowing Cliff Robertson had played the part.[40] Sheen described his character as a surrogate father, saying, "I'm dealing with this adolescent who is having problems with changes, with hormones changing and his getting out of hand. I have to give him the marching orders and so forth."[41] Webb said, "You think of Martin Sheen as President Bartlet [of TV's The West Wing]. He has that sense of benevolent authority, but there's something else that's important, in terms of the dynamic that I wanted to explore, vis-à-vis Peter's relationship with his absent parents." Webb felt that unlike the scientifically inclined Peter, Uncle Ben represented the blue-collar working man, a gap that could create a dynamic between the characters.[42]
+Sally Field as May Parker:
+Ben Parker's wife and Peter's aunt.[43][44] Field said the main reason she felt she had to be in the film was because of producer Laura Ziskin (they worked together on the 1985 film Murphy's Romance) because she had an instinct that this was to be Ziskin's last film. After Ziskin's death Field expressed her gratitude at being a part of both Ziskin's first and last films.[45] Director Webb felt that "when you cast someone like Sally, they come with a certain level of awareness and real genuine affection, which for Aunt May is an incredibly important thing to have." Webb said that while "we all love Aunt May", he wanted to create tension between May and Peter. "He's got bruises on his face, and what happens at that moment? That can create some tension, but you want there to be love there. That's what someone like Sally Field gives you."[42]
+Chris Zylka portrays Flash Thompson, a high school bully who is also the captain of the Midtown Science High basketball team and typically picks on Parker.[46] On playing the role, Zylka said, "You just try to focus. As an artist or as an actor, you just try to focus and stay in that world and block it all out."[47] Embeth Davidtz portrays Peter's mother, Mary Parker.[33][34] Leif Gantvoort plays the burglar who robs the convenience store and then kills Uncle Ben, and Michael Barra plays T-Bone, the store clerk. Tom Waite plays Nicky, a thug whom Peter mistakes for his uncle's killer. Hannah Marks portrays Missy Kallenback, a shy girl who has a crush on Peter.[48] Kelsey Chow's brief role is simply credited as "Hot Girl" during the end credits of the film, but the actress revealed to media outlets around the time of the film's release that her character is in fact Sally Avril.[49] Similarly, C. Thomas Howell's character is credited as "Jack's Father" at the end of the film (Jack being a boy that Spider-Man rescues on the Williamsburg Bridge) but he is referred to as Troy by one of his fellow construction workers in the film itself. Unlike the previous films, J. Jonah Jameson does not appear.[50] Spider-Man co-creator Stan Lee has a cameo appearance, as he did in the previous films. At the 2011 Dallas Comic Con, Lee detailed that he plays a librarian listening to music on his headphones while se is the amount of training data available relative to the complexity of the "true" function (classifier or regression function). If the true function is simple, then an "inflexible" learning algorithm with high bias and low variance will be able to learn it from a small amount of data. But if the true function is highly complex (e.g., because it involves complex interactions among many different input features and behaves differently in different parts of the input space), then the function will only be able to learn from a very large amount of training data and using a "flexible" learning algorithm with low bias and high variance. There is a clear demarcation between the input and the desired output.
+A third issue is the dimensionality of the input space. If the input feature vectors have very high dimension, the learning problem can be difficult even if the true function only depends on a small number of those features. This is because the many "extra" dimensions can confuse the learning algorithm and cause it to have high variance. Hence, high input dimensional typically requires tuning the classifier to have low variance and high bias. In practice, if the engineer can manually remove irrelevant features from the input data, this is likely to improve the accuracy of the learned function. In addition, there are many algorithms for feature selection that seek to identify the relevant features and discard the irrelevant ones. This is an instance of the more general strategy of dimensionality reduction, which seeks to map the input data into a lower-dimensional space prior to running the supervised learning algorithm.
+A fourth issue is the degree of noise in the desired output values (the supervisory target variables). If the desired output values are often incorrect (because of human error or sensor errors), then the learning algorithm should not attempt to find a function that exactly matches the training examples. Attempting to fit the data too carefully leads to overfitting. You can overfit even when there are no measurement errors (stochastic noise) if the function you are trying to learn is too complex for your learning model. In such a situation, the part of the target function that cannot be modeled "corrupts" your training data - this phenomenon has been called deterministic noise. When either type of noise is present, it is better to go with a higher bias, lower variance estimator.
+In practice, there are several approaches to alleviate noise in the output values such as early stopping to prevent overfitting as well as detecting and removing the noisy training examples prior to training the supervised learning algorithm. There are several algorithms that identify noisy training examples and removing the suspected noisy training examples prior to training has decreased generalization error with statistical significance.
+Other factors to consider when choosing and applying a learning algorithm include the following:
+When considering a new application, the engineer can compare multiple learning algorithms and experimentally determine which one works best on the problem at hand (see cross validation). Tuning the performance of a learning algorithm can be very time-consuming. Given fixed resources, it is often better to spend more time collecting additional training data and more informative features than it is to spend extra time tuning the learning algorithms.
+The most widely used learning algorithms are: 
+Given a set of 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ training examples of the form 
+  
+    
+      
+        {
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          y
+          
+            1
+          
+        
+        )
+        ,
+        .
+        .
+        .
+        ,
+        (
+        
+          x
+          
+            N
+          
+        
+        ,
+        
+        
+          y
+          
+            N
+          
+        
+        )
+        }
+      
+    
+    {\displaystyle \{(x_{1},y_{1}),...,(x_{N},\;y_{N})\}}
+  
+ such that 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+  
+ is the feature vector of the 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+-th example and 
+  
+    
+      
+        
+          y
+          
+            i
+          
+        
+      
+    
+    {\displaystyle y_{i}}
+  
+ is its label (i.e., class), a learning algorithm seeks a function 
+  
+    
+      
+        g
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle g:X\to Y}
+  
+, where 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ is the input space and 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+ is the output space. The function 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ is an element of some space of possible functions 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+, usually called the hypothesis space. It is sometimes convenient to represent 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ using a scoring function 
+  
+    
+      
+        f
+        :
+        X
+        ×
+        Y
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f:X\times Y\to \mathbb {R} }
+  
+ such that 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ is defined as returning the 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+ value that gives the highest score: 
+  
+    
+      
+        g
+        (
+        x
+        )
+        =
+        
+          
+            
+              arg
+              ⁡
+              max
+            
+            y
+          
+        
+        
+        f
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle g(x)={\underset {y}{\arg \max }}\;f(x,y)}
+  
+. Let 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ denote the space of scoring functions.
+Although 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ and 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ can be any space of functions, many learning algorithms are probabilistic models where 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ takes the form of a conditional probability model 
+  
+    
+      
+        g
+        (
+        x
+        )
+        =
+        P
+        (
+        y
+        
+          |
+        
+        x
+        )
+      
+    
+    {\displaystyle g(x)=P(y|x)}
+  
+, or 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ takes the form of a joint probability model 
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        )
+        =
+        P
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle f(x,y)=P(x,y)}
+  
+. For example, naive Bayes and linear discriminant analysis are joint probability models, whereas logistic regression is a conditional probability model.
+There are two basic approaches to choosing 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ or 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+: empirical risk minimization and structural risk minimization. Empirical risk minimization seeks the function that best fits the training data. Structural risk minimization includes a penalty function that controls the bias/variance tradeoff.
+In both cases, it is assumed that the training set consists of a sample of independent and identically distributed pairs, 
+  
+    
+      
+        (
+        
+          x
+          
+            i
+          
+        
+        ,
+        
+        
+          y
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{i},\;y_{i})}
+  
+. In order to measure how well a function fits the training data, a loss function 
+  
+    
+      
+        L
+        :
+        Y
+        ×
+        Y
+        →
+        
+          
+            R
+          
+          
+            ≥
+            0
+          
+        
+      
+    
+    {\displaystyle L:Y\times Y\to \mathbb {R} ^{\geq 0}}
+  
+ is defined. For training example 
+  
+    
+      
+        (
+        
+          x
+          
+            i
+          
+        
+        ,
+        
+        
+          y
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{i},\;y_{i})}
+  
+, the loss of predicting the value 
+  
+    
+      
+        
+          
+            
+              y
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {y}}}
+  
+ is 
+  
+    
+      
+        L
+        (
+        
+          y
+          
+            i
+          
+        
+        ,
+        
+          
+            
+              y
+              ^
+            
+          
+        
+        )
+      
+    
+    {\displaystyle L(y_{i},{\hat {y}})}
+  
+.
+The risk 
+  
+    
+      
+        R
+        (
+        g
+        )
+      
+    
+    {\displaystyle R(g)}
+  
+ of function 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ is defined as the expected loss of 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+. This can be estimated from the training data as
+In empirical risk minimization, the supervised learning algorithm seeks the function 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ that minimizes 
+  
+    
+      
+        R
+        (
+        g
+        )
+      
+    
+    {\displaystyle R(g)}
+  
+. Hence, a supervised learning algorithm can be constructed by applying an optimization algorithm to find 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+.
+When 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ is a conditional probability distribution 
+  
+    
+      
+        P
+        (
+        y
+        
+          |
+        
+        x
+        )
+      
+    
+    {\displaystyle P(y|x)}
+  
+ and the loss function is the negative log likelihood: 
+  
+    
+      
+        L
+        (
+        y
+        ,
+        
+          
+            
+              y
+              ^
+            
+          
+        
+        )
+        =
+        −
+        log
+        ⁡
+        P
+        (
+        y
+        
+          |
+        
+        x
+        )
+      
+    
+    {\displaystyle L(y,{\hat {y}})=-\log P(y|x)}
+  
+, then empirical risk minimization is equivalent to maximum likelihood estimation.
+When 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ contains many candidate functions or the training set is not sufficiently large, empirical risk minimization leads to high variance and poor generalization. The learning algorithm is able to memorize the training examples without generalizing well. This is called overfitting.
+Structural risk minimization seeks to prevent overfitting by incorporating a regularization penalty into the optimization. The regularization penalty can be viewed as implementing a form of Occam's razor that prefers simpler functions over more complex ones.
+A wide variety of penalties have been employed that correspond to different definitions of complexity. For example, consider the case where the function 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ is a linear function of the form
+A popular regularization penalty is 
+  
+    
+      
+        
+          ∑
+          
+            j
+          
+        
+        
+          β
+          
+            j
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sum _{j}\beta _{j}^{2}}
+  
+, which is the squared Euclidean norm of the weights, also known as the 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L_{2}}
+  
+ norm. Other norms include the 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    {\displaystyle L_{1}}
+  
+ norm, 
+  
+    
+      
+        
+          ∑
+          
+            j
+          
+        
+        
+          |
+        
+        
+          β
+          
+            j
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle \sum _{j}|\beta _{j}|}
+  
+, and the 
+  
+    
+      
+        
+          L
+          
+            0
+          
+        
+      
+    
+    {\displaystyle L_{0}}
+  
+ "norm", which is the number of non-zero 
+  
+    
+      
+        
+          β
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \beta _{j}}
+  
+s. The penalty will be denoted by 
+  
+    
+      
+        C
+        (
+        g
+        )
+      
+    
+    {\displaystyle C(g)}
+  
+.
+The supervised learning optimization problem is to find the function 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ that minimizes
+The parameter 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ controls the bias-variance tradeoff. When 
+  
+    
+      
+        λ
+        =
+        0
+      
+    
+    {\displaystyle \lambda =0}
+  
+, this gives empirical risk minimization with low bias and high variance. When 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ is large, the learning algorithm will have high bias and low variance. The value of 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ can be chosen empirically via cross validation.
+The complexity penalty has a Bayesian interpretation as the negative log prior probability of 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+, 
+  
+    
+      
+        −
+        log
+        ⁡
+        P
+        (
+        g
+        )
+      
+    
+    {\displaystyle -\log P(g)}
+  
+, in which case 
+  
+    
+      
+        J
+        (
+        g
+        )
+      
+    
+    {\displaystyle J(g)}
+  
+ is the posterior probability of 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+.
+The training methods described above are discriminative training methods, because they seek to find a function 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ that discriminates well between the different output values (see discriminative model). For the special case where 
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        )
+        =
+        P
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle f(x,y)=P(x,y)}
+  
+ is a joint probability distribution and the loss function is the negative log likelihood 
+  
+    
+      
+        −
+        
+          ∑
+          
+            i
+          
+        
+        log
+        ⁡
+        P
+        (
+        
+          x
+          
+            i
+          
+        
+        ,
+        
+          y
+          
+            i
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle -\sum _{i}\log P(x_{i},y_{i}),}
+  
+ a risk minimization algorithm is said to perform generative training, because 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ can be regarded as a generative model that explains how the data were generated. Generative training algorithms are often simpler and more computationally efficient than discriminative training algorithms. In some cases, the solution can be computed in closed form as in naive Bayes and linear discriminant analysis.
+There are several ways in which the standard supervised learning problem can be generalized:

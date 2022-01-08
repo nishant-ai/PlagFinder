@@ -1,0 +1,36 @@
+
+IT risk management is the application of the principles of risk management to an IT organization in order to manage the risks associated with the field. IT risk management aims to manage the risks that come with the ownership, involvement, operation, influence, adoption and use of IT as part of a...
+View Full Term
+Trending TermsTechopedia TermsSubscribe To Our NewslettersBy clicking sign up, you agree to receive emails from Techopedia and agree to our Terms of Use and Privacy Policy.Artificial intelligence (AI), also known as machine intelligence, is a branch of computer science that focuses on building and managing technology that can learn to autonomously make decisions and carry out actions on behalf of a human being.AI is not a single technology. It is an umbrella term that includes any type of software or hardware component that supports machine learning, computer vision, natural language understanding (NLU) and natural language processing (NLP).Today’s AI uses conventional CMOS hardware and the same basic algorithmic functions that drive traditional software. Future generations of AI are expected to inspire new types of brain-inspired circuits and architectures that can make data-driven decisions faster and more accurately than a human being can.AI initiatives are often talked about in terms of their belonging to one of four categories:A good way to visualize these distinctions is to imagine AI as a professional poker player. A reactive player bases all decisions on the current hand in play, while a limited memory player will consider their own and other player’s past decisions.A Theory of Mind player factors in other player's behavioral cues and finally, a self-aware professional AI player stops to consider if playing poker to make a living is really the best use of their time and effort.While AI often invokes images of the sentient computer overlord of science fiction, the current reality is far different. At its heart, AI uses the same basic algorithmic functions that drive traditional software, but applies them in a different way. Perhaps the most revolutionary aspect of AI is that it allows software to rewrite itself as it adapts to its environment.Artificial intelligence can be allowed to replace a whole system, making all decisions end-to-end, or it can be used to enhance a specific process. A standard warehouse management system, for example, can show the current levels of various products, while an intelligent one could identify shortages, analyze the cause and its effect on the overall supply chain and even take steps to correct it.The demand for faster, more energy-efficient information processing is growing exponentially as AI becomes more prevalent in business applications. Conventional digital processing hardware cannot keep up with this demand. That is why researchers are taking inspiration from the brain and considering alternative architectures in which networks of artificial neurons and synapses process information with high speed and adaptive learning capabilities in an energy-efficient, scalable manner.At this time, Narrow AI is only beginning to enter mainstream computing applications.AI is currently being applied to a range of functions both in the lab and in commercial/consumer settings, including the following technologies:SynonymsArtificially Intelligent, Artificial Intellect, Machine Intelligence, Artificial-Intelligence, Digital IntelligenceShare this TermTech moves fast! Stay ahead of the curve with Techopedia!
+Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+Latest Articles
+
+By: Leah Zitter
+| Contributor
+
+
+
+By: Antonio Vargas
+| Manager of Solutions Engineering, BitTitan 
+
+
+
+By: Margaret Rouse
+
+
+
+By: Margaret Rouse
+
+
+Techopedia™ is your go-to tech source for professional IT insight and inspiration.
+We aim to be a site that isn't trying to be the first to break news stories,
+but instead help you better understand technology and — we hope — make better decisions as a result.
+
+Copyright © 2022
+Techopedia Inc. -
+Terms of Use -
+Privacy Policy -
+Editorial Review Policy
+
+Cookie Settings
+By clicking sign up, you agree to receive emails from Techopedia and agree to our Terms of Use & Privacy Policy. Techopedia is a part of Janalta Interactive.

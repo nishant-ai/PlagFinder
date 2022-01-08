@@ -1,0 +1,288 @@
+Advertisement
+                            
+    BMC Medical Informatics and Decision Making
+
+ Following Linnaeus's first descriptions of the species, several tiger specimens were described and proposed as subspecies.[11] The validity of several tiger subspecies was questioned in 1999. Most putative subspecies described in the 19th and 20th centuries were distinguished on basis of fur length and colouration, striping patterns and body size, hence characteristics that vary widely within populations. Morphologically, tigers from different regions vary little, and gene flow between populations in those regions is considered to have been possible during the Pleistocene. Therefore, it was proposed to recognize only two tiger subspecies as valid, namely P. t. tigris in mainland Asia, and P. t. sondaica in the Greater Sunda Islands.[12]
+
+Results of craniological analysis of 111 tiger skulls from Southeast Asian range countries indicate that Sumatran tiger skulls differ from Indochinese and Javan tiger skulls, whereas Bali tiger skulls are similar in size to Javan tiger skulls. The authors proposed to classify the Sumatran and Javan tigers as distinct species, P. sumatrae and P. sondaica, with the Bali tiger as subspecies P. sondaica balica.[13]
+
+In 2015, morphological, ecological, and molecular traits of all putative tiger subspecies were analysed in a combined approach. Results support distinction of the two evolutionary groups continental and Sunda tigers. The authors proposed recognition of only two subspecies, namely P. t. tigris comprising the Bengal, Malayan, Indochinese, South Chinese, Siberian and Caspian tiger populations, and P. t. sondaica comprising the Javan, Bali and Sumatran tiger populations. The authors also noted that this reclassification will affect tiger conservation management. The nominate subspecies P. t. tigris constitutes two clades:[14]
+
+a northern clade composed of the Siberian and Caspian tiger populations
+a southern clade composed of all other mainland populations.
+One conservation specialist welcomed this proposal as it would make captive breeding programmes and future rewilding of zoo-born tigers easier. One geneticist was sceptical of this study and maintained that the currently recognised nine subspecies can be distinguished genetically.[15]
+
+In 2017, the Cat Classification Task Force of the IUCN Cat Specialist Group revised felid taxonomy and recognized the tiger populations in continental Asia as P. t. tigris, and those in the Sunda Islands as P. t. sondaica.[16] This two-subspecies view has been largely rejected by researchers. Results of a 2018 whole-genome sequencing of 32 specimens support six monophyletic tiger clades corresponding with the living subspecies and indicate that the most recent common ancestor lived about 110,000 years ago.[17][18] The following tables are based on the classification of the species Panthera tigris provided in Mammal Species of the World.[11] It also reflects the classification used by the Cat Classification Task Force in 2017:
+
+Panthera tigris tigris (Linnaeus, 1758)[2]
+Populations	Description	Image
+Bengal tiger	Linnaeus's scientific description of the tiger was based on descriptions by earlier naturalists such as Conrad Gessner and Ulisse Aldrovandi.[2] Bengal tiger skins in the collection of the Natural History Museum, London vary from light yellow to reddish yellow with black stripes.[9]	Tiger in Ranthambhore.jpg
+†Caspian tiger formerly P. t. virgata (Illiger, 1815)[19]	Illiger's description was not based on a particular specimen, but he only assumed that tigers in the Caspian area differ from those elsewhere.[19] It was later described as having narrow and closely set stripes.[20] The size of its skull did not differ significantly from that of the Bengal tiger.[12] According to genetic analysis, it was closely related to the Siberian tiger.[10] It had been recorded in the wild until the early 1970s and is considered extinct since the late 20th century.[21]	Panthera tigris virgata.jpg
+Siberian tiger formerly P. t. altaica (Temminck, 1844)[22]	Temminck's description was based on an unspecified number of tiger skins with long hairs and dense coats that were traded between Korea and Japan. He assumed they originated in the Altai Mountains.[22] The Siberian tiger was later described as having pale coats with few dark brown stripes.[20]	Siberian Tiger sf.jpg
+South China tiger formerly P. t. amoyensis (Hilzheimer, 1905)[23]	Hilzheimer's description was based on five tiger skulls purchased in Hankou, southern China. These skulls differed in the size of teeth and jaw bones by a few cm from skulls of tigers from India.[23] Skins of tigers from southern China in the fur trade were said to be vivid orange in colour with rhombus-like stripes. Because of differences in the shape of skulls, it was long thought to constitute the most ancient variety.[24] It was noted to have a unique mtDNA haplotype.[16]	2012 Suedchinesischer Tiger.JPG
+Indochinese tiger formerly P. t. corbetti Mazák, 1968[25]	Mazák's description was based on 25 specimens in museum collections that were smaller than tigers from India and had smaller skulls.[25]	Panthera tigris corbetti (Tierpark Berlin) 832-714-(118).jpg
+Malayan tiger formerly P. t. jacksoni Luo et al., 2004[26]	It was proposed as a distinct subspecies on the basis of mtDNA and micro-satellite sequences that differ from the Indochinese tiger.[26] In pelage colour or skull size, it does not differ significantly from Indochinese tigers.[27] There is no clear geographical barrier between tiger populations in northern Malaysia and southern Thailand.[1]	Tiger in the water.jpg
+Panthera tigris sondaica (Temminck, 1844)[16]
+Populations	Description	Image
+†Javan tiger	Temminck based his description on an unspecified number of tiger skins with short and smooth hair.[22] Tigers from Java were small compared to tigers of the Asian mainland.[27]	Panthera tigris sondaica 01.jpg
+†Bali tiger formerly P. t. balica (Schwarz, 1912)[28]	Schwarz based his description on a skin and a skull of an adult female tiger from Bali. He argued that its fur colour is brighter and its skull smaller than of tigers from Java.[28][29] A typical feature of Bali tiger skulls is the narrow occipital plane, which is analogous with the shape of skulls of Javan tigers.[30]	Bali tiger zanveld.jpg
+Sumatran tiger formerly P. t. sumatrae Pocock, 1929[31]	Pocock described a dark skin of a tiger from Sumatra as the type specimen that had numerous and densely-set broad stripes. Its skull was a little larger than the skull of a Bali tiger.[31] It is the smallest of all living tigers.[24] The reasons for its small size compared to mainland tigers are unclear, but probably the result of insular dwarfism, especially competition for limited and small prey.[12] The population is thought to be of mainland Asian origin and to have been isolated about 6,000 to 12,000 years ago after a rise in sea-level created Sumatra.[27][32]	Panthera tigris sumatran subspecies.jpg
+Evolution
+
+Restoration of a Panthera zdanskyi skull, an extinct tiger relative whose fossil remains were found in northwest China
+The tiger's closest living relatives were previously thought to be the Panthera species lion, leopard and jaguar. Results of genetic analysis indicate that about 2.88 million years ago, the tiger and the snow leopard lineages diverged from the other Panthera species, and that both may be more closely related to each other than to the lion, leopard and jaguar.[33][34] The geographic origin of the Panthera is most likely northern Central Asia. The tiger–snow leopard lineage dispersed in Southeast Asia during the Miocene.[35]
+
+Panthera zdanskyi is considered to be a sister taxon of the modern tiger. It lived at the beginning of the Pleistocene about two million years ago, its fossil remains were excavated in Gansu of northwestern China. It was smaller and more "primitive", but functionally and ecologically similar to the modern tiger. It is disputed as to whether it had the striping pattern. Northwestern China is thought to be the origin of the tiger lineage. Tigers grew in size, possibly in response to adaptive radiations of prey species like deer and bovids, which may have occurred in Southeast Asia during the Early Pleistocene.[36]
+
+Panthera tigris trinilensis lived about 1.2 million years ago and is known from fossils excavated near Trinil in Java.[37] The Wanhsien, Ngandong, Trinil, and Japanese tigers became extinct in prehistoric times.[38] Tigers reached India and northern Asia in the late Pleistocene, reaching eastern Beringia, Japan, and Sakhalin. Some fossil skulls are morphologically distinct from lion skulls, which could indicate tiger presence in Alaska during the last glacial period, about 100,000 years ago.[39]
+
+In the Ille Cave on the island of Palawan, two articulated phalanx bones were found amidst an assemblage of other animal bones and stone tools. They were smaller than mainland tiger fossils, possibly due to insular dwarfism.[40] It has been speculated that the tiger parts were either imported from elsewhere, or that the tiger colonised Palawan from Borneo before the Holocene.[41][42] Fossil remains of tigers were also excavated in Sri Lanka, China, Japan and Sarawak dating to the Late Pliocene, Pleistocene and Early Holocene.[39][43] The Bornean tiger was apparently present in Borneo between the Late Pleistocene and the Holocene, but whether it went extinct in prehistoric or recent times has not been resolved.[43][44]
+
+Results of a phylogeographic study indicate that all living tigers had a common ancestor 108,000 to 72,000 years ago.[26] The potential tiger range during the late Pleistocene and Holocene was predicted applying ecological niche modelling based on more than 500 tiger locality records combined with bioclimatic data. The resulting model shows a contiguous tiger range at the Last Glacial Maximum, indicating gene flow between tiger populations in mainland Asia. The Caspian tiger population was likely connected to the Bengal tiger population through corridors below elevations of 4,000 m (13,000 ft) in the Hindu Kush. The tiger populations on the Sunda Islands and mainland Asia were possibly separated during interglacial periods.[45]
+
+The tiger's full genome sequence was published in 2013. It was found to have similar repeat composition to other cat genomes and an appreciably conserved synteny.[46]
+
+Hybrids
+Further information: Felid hybrid, Panthera hybrid, Liger, and Tigon
+Captive tigers were bred with lions to create hybrids called liger and tigon. They share physical and behavioural qualities of both parent species. Breeding hybrids is now discouraged due to the emphasis on conservation.[47] The liger is a cross between a male lion and a tigress. Ligers are typically between 10 and 12 ft (3.0 and 3.7 m) in length, and weigh between 800 and 1,000 lb (360 and 450 kg) or more.[48] Because the lion sire passes on a growth-promoting gene, but the corresponding growth-inhibiting gene from the female tiger is absent, ligers grow far larger than either parent species.[49]
+
+The less common tigon is a cross between a lioness and a male tiger.[47] Because the male tiger does not pass on a growth-promoting gene and the lioness passes on a growth inhibiting gene, tigons are around the same size as their parents.[49] Some females are fertile and have occasionally given birth to litigons when mated to a male Asiatic lion.[50]
+
+Description
+
+Siberian tiger in Aalborg Zoo, Denmark
+
+Bengal tiger skeleton on display at the Museum of Osteology
+The tiger has a muscular body with powerful forelimbs, a large head and a tail that is about half the length of its body. Its pelage is dense and heavy, and colouration varies between shades of orange and brown with white ventral areas and distinctive vertical black stripes; the patterns of which are unique in each individual.[51][24] Stripes are likely advantageous for camouflage in vegetation such as long grass with strong vertical patterns of light and shade.[52][53] The tiger is one of only a few striped cat species; it is not known why spotted patterns and rosettes are the more common camouflage pattern among felids.[54] The orange colour may also aid in camouflage as the tiger's prey are dichromats, and thus may perceive the cat as green and blended in with the vegetation.[55]
+
+A tiger's coat pattern is still visible when it is shaved. This is not due to skin pigmentation, but to the stubble and hair follicles embedded in the skin.[56] It has a mane-like heavy growth of fur around the neck and jaws and long whiskers, especially in males. The pupils are circular with yellow irises. The small, rounded ears have a prominent white spot on the back, surrounded by black.[24] These spots are thought to play an important role in intraspecific communication.[57]
+
+The tiger's skull is similar to a lion's skull, with the frontal region usually less depressed or flattened, and a slightly longer postorbital region. The lion skull shows broader nasal openings. Due to the variation in skull sizes of the two species, the structure of the lower jaw is a reliable indicator for their identification.[20] The tiger has fairly stout teeth; its somewhat curved canines are the longest among living felids with a crown height of up to 90 mm (3.5 in).[24]
+
+Size
+There is notable sexual dimorphism between male and female tigers, with the latter being consistently smaller. The size difference between them is proportionally greater in the largon of the artificial neural network structure with two hidden layers. The arrows connect the output of nodes from one layer to the input of nodes of another layerExtensive research efforts were made to identify articles employing more than one supervised machine learning algorithm for disease prediction. Two databases were searched (October 2018): Scopus and PubMed. Scopus is an online bibliometric database developed by Elsevier. It has been chosen because of its high level of accuracy and consistency . PubMed is a free publication search engine and incorporates citation information mostly for biomedical and life science literature. It comprises more than 28 million citations from MEDLINE, life science journals and online books . MEDLINE is a bibliographic database that includes bibliographic information for articles from academic journals covering medicine, nursing, pharmacy, dentistry, veterinary medicine, and health care .A comprehensive search strategy was followed to find out all related articles. The search terms that were used in this search strategy were:
+“disease prediction” AND “machine learning”;“disease prediction” AND “data mining”;“disease risk prediction” AND “machine learning”; and“disease risk prediction” AND “data mining”.In scientific literature, the generic name of “machine learning” is often used for both “supervised” and “unsupervised” machine learning algorithms. On the other side, there is a close relationship between the terms “machine learning” and “data mining”, with the latter is commonly used for the former one . For these reasons, we used both “machine learning” and “data mining” in the search terms although the focus of this study is on the supervised machine learning algorithm. The four search items were then considered to launch searches on the titles, abstracts and keywords of an article for both Scopus and PubMed. This resulted in 305 and 83 articles from Scopus and PubMed, respectively. After combining these two lists of articles and removing the articles written in languages other than English, we found 336 unique articles.Since the aim of this study was to compare the performance of different supervised machine learning algorithms, the next step was to select the articles from these 336 which used more than one supervised machine learning algorithm for disease prediction. For this reason, we wrote a computer program using Python programming language  which checked the presence of the name of more than one supervised machine learning algorithm in the title, abstract and keyword list of each of 336 articles. It found 55 articles that used more than one supervised machine learning algorithm for the prediction of different diseases. Out of the remaining 281 articles, only 155 used one of the seven supervised machine learning algorithms considered in this study. The rest 126 used either other machine learning algorithms (e.g., unsupervised or semi-supervised) or data mining methods other than machine learning ones. ANN was found most frequently (30.32%) in the 155 articles, followed by the Naïve Bayes (19.35%).The next step is the manual inspection of all recovered articles. We noticed that four groups of authors reported their study results in two publication outlets (i.e., book chapter, conference and journal) using the same or different titles. For these four publications, we considered the most recent one. We further excluded another three articles since the reported prediction accuracies for all supervised machine learning algorithms used in those articles are the same. For each of the remaining 48 articles, the performance outcomes of the supervised machine learning algorithms that were used for disease prediction were gathered. Two diseases were predicted in one article  and two algorithms were found showing the best accuracy outcomes for a disease in one article . In that article, five different algorithms were used for prediction analysis. The number of publications per year has been depicted in Fig. 8. The overall data collection procedure along with the number of articles selected for different diseases has been shown in Fig. 9.
+Number of articles published in different yearsThe overall data collection procedure. It also shows the number of articles considered for each diseaseFigure 10 shows a comparison of the composition of initially selected 329 articles regarding the seven supervised machine learning algorithms considered in this study. ANN shows the highest percentage difference (i.e., 16%) between the 48 selected articles of this study and initially selected 155 articles that used only one supervised machine learning algorithm for disease prediction, which is followed by LR. The remaining five supervised machine learning algorithms show a percentage difference between 1 and 5.
+Composition of initially selected 329 articles with respect to the seven supervised learning algorithmsThe diagnostic ability of classifiers has usually been determined by the confusion matrix and the receiver operating characteristic (ROC) curve . In the machine learning research domain, the confusion matrix is also known as error or contingency matrix. The basic framework of the confusion matrix has been provided in Fig. 11a. In this framework, true positives (TP) are the positive cases where the classifier correctly identified them. Similarly, true negatives (TN) are the negative cases where the classifier correctly identified them. False positives (FP) are the negative cases where the classifier incorrectly identified them as positive and the false negatives (FN) are the positive cases where the classifier incorrectly identified them as negative. The following measures, which are based on the confusion matrix, are commonly used to analyse the performance of classifiers, including those that are based on supervised machine learning algorithms.
+a The basic framework of the confusion matrix; and (b) A presentation of the ROC curveAn ROC is one of the fundamental tools for diagnostic test evaluation and is created by plotting the true positive rate against the false positive rate at various threshold settings . The area under the ROC curve (AUC) is also commonly used to determine the predictability of a classifier. A higher AUC value represents the superiority of a classifier and vice versa. Figure 11b illustrates a presentation of three ROC curves based on an abstract dataset. The area under the blue ROC curve is half of the shaded rectangle. Thus, the AUC value for this blue ROC curve is 0.5. Due to the coverage of a larger area, the AUC value for the red ROC curve is higher than that of the black ROC curve. Hence, the classifier that produced the red ROC curve shows higher predictive accuracy compared with the other two classifiers that generated the blue and red ROC curves.There are few other measures that are also used to assess the performance of different classifiers. One such measure is the running mean square error (RMSE). For different pairs of actual and predicted values, RMSE represents the mean value of all square errors. An error is the difference between an actual and its corresponding predicted value. Another such measure is the mean absolute error (MAE). For an actual and its predicted value, MAE indicates the absolute value of their difference.The final dataset contained 48 articles, each of which implemented more than one variant of supervised machine learning algorithms for a single disease prediction. All implemented variants were already discussed in the methods section as well as the more frequently used performance measures. Based on these, we reviewed the finally selected 48 articles in terms of the methods used, performance measures as well as the disease they targeted.In Table 1, names and references of the diseases and the corresponding supervised machine learning algorithms used to predict them are discussed. For each of the disease models, the better performing algorithm is also described in this table. This study considered 48 articles, which in total made the prediction for 49 diseases or conditions (one article predicted two diseases ). For these 49 diseases, 50 algorithms were found to show the superior accuracy. One disease has two algorithms (out of 5) that showed the same higher-level accuracies . To sum up, 49 diseases were predicted in 48 articles considered in this study and 50 supervised machine learning algorithms were found to show the superior accuracy. The advantages and limitations of different supervised machine learning algorithms are shown in Table 2.
+The comparison of the usage frequency and accuracy of different supervised learning algorithms are shown in Table 3. It is observed that SVM has been used most frequently (29 out of 49 diseases that were predicted). This is followed by NB, which has been used in 23 articles. Although RF has been considered the second least number of times, it showed the highest percentage (i.e., 53%) in revealing the superior accuracy followed by SVM (i.e., 41%).
+In Table 4, the performance comparison of different supervised machine learning algorithms for most frequently modelled diseases is shown. It is observed that SVM showed the superior accuracy at most times for three diseases (e.g., heart disease, diabetes and Parkinson’s disease). For breast cancer, ANN showed the superior accuracy at most times.
+A close investigation of Table 1 reveals an interesting result regarding the performance of different supervised learning algorithms. This result has also been reported in Table 4. Consideration of only those articles that used clinical and demographic data (15 articles) reveals DT as to show the superior result at most times (6). Interestingly, SVM has been found the least time (1) to show the superior result although it showed the superior accuracy at most times for heart disease, diabetes and Parkinson’s disease (Table 4). In other 33 articles that used research data other than ‘clinical and demographic’ type, SVM and RF have been found to show the superior accuracy at most times (12) and second most times (7), respectively. In articles where 10-fold and 5-fold validation methods were used, SVM has been found to show the superior accuracy at most times (5 and 3 times, respectively). On the other side, articles where no method was used for validation, ANN has been found at most times to show the superior accuracy. Figure 12 further illustrates the superior performance of SVM. Performance statistics from Table 4 have been used in a normalised way to draw these two graphs. Fig. 12a illustrates the ROC graph for the four diseases (i.e., Heart disease, Diabetes, Breast cancer and Parkinson’s disease) under the ‘disease names that were modelled’ criterion. The ROC graph based on the ‘validation method followed’ criterion has been presented in Fig. 12b.
+Illustration of the superior performance of the Support vector machine using ROC graphs (based on the data from Table 4) – (a) for disease names that were modelled; and (b) for validation methods that were followedTo avoid the risk of selection bias, from the literature we extracted those articles that used more than one supervised machine learning algorithm. The same supervised learning algorithm can generate different results across various study settings. There is a chance that a performance comparison between two supervised learning algorithms can generate imprecise results if they were employed in different studies separately. On the other side, the results of this study could suffer a variable selection bias from individual articles considered in this study. These articles used different variables or measures for disease prediction. We noticed that the authors of these articles did not consider all available variables from the corresponding research datasets. The inclusion of a new variable could improve the accuracy of an underperformed algorithm considered in the underlying study, and vice versa. This is one of the limitations of this study. Another limitation of this study is that we considered a broader level classification of supervised machine learning algorithms to make a comparison among them for disease prediction. We did not consider any sub-classifications or variants of any of the algorithms considered in this study. For example, we did not make any performance comparison between least-square and sparse SVMs; instead of considering them under the SVM algorithm. A third limitation of this study is that we did not consider the hyperparameters that were chosen in different articles of this study in comparing multiple supervised machine learning algorithms. It has been argued that the same machine learning algorithm can generate different accuracy results for the same data set with the selection of different values for the underlying hyperparameters [81, 82]. The selection of different kernels for support vector machines can result a variation in accuracy outcomes for the same data set. Similarly, a random forest could generate different results, while splitting a node, with the changes in the number of decision trees within the underlying forest.This research attempted to study comparative performances of different supervised machine learning algorithms in disease prediction. Since clinical data and research scope varies widely between disease prediction studies, a comparison was only possible when a common benchmark on the dataset and scope is established. Therefore, we only chose studies that implemented multiple machine learning methods on the same data and disease prediction for comparison. Regardless of the variations on frequency and performances, the results show the potential of these families of algorithms in the disease prediction.The data used in this study can be extracted from online databases. The detail of this extraction has been described within the manuscript.Artificial neural networkArea under the ROC curveDecision TreeFalse negativeFalse positiveK-nearest neighbourLogistic regressionMean absolute errorNaïve BayesRandom forestRunning mean square errorReceiver operating characteristicSupport vector machineTrue negativeTrue positiveT. M. Mitchell, “Machine learning WCB”: McGraw-Hill Boston, MA:, 1997.
+                    Google Scholar 
+                Sebastiani F. Machine learning in automated text categorization. ACM Comput Surveys (CSUR). 2002;34(1):1–47.
+                    Google Scholar 
+                Sinclair C, Pierce L, Matzner S. An application of machine learning to network intrusion detection. In: Computer Security Applications Conference, 1999. (ACSAC’99) Proceedings. 15th Annual; 1999. p. 371–7. IEEE.
+                    Google Scholar 
+                Sahami M, Dumais S, Heckerman D, Horvitz E. A Bayesian approach to filtering junk e-mail. In: Learning for Text Categorization: Papers from the 1998 workshop, vol. 62; 1998. p. 98–105. Madison, Wisconsin.
+                    Google Scholar 
+                Aleskerov E, Freisleben B, Rao B. Cardwatch: A neural network based database mining system for credit card fraud detection. In: Computational Intelligence for Financial Engineering (CIFEr), 1997., Proceedings of the IEEE/IAFE 1997; 1997. p. 220–6. IEEE.
+                    Google Scholar 
+                Kim E, Kim W, Lee Y. Combination of multiple classifiers for the customer's purchase behavior prediction. Decis Support Syst. 2003;34(2):167–75.
+                    Google Scholar 
+                Mahadevan S, Theocharous G. “Optimizing Production Manufacturing Using Reinforcement Learning,” in FLAIRS Conference; 1998. p. 372–7.
+                    Google Scholar 
+                Yao D, Yang J, Zhan X. A novel method for disease prediction: hybrid of random forest and multivariate adaptive regression splines. J Comput. 2013;8(1):170–7.
+                    Google Scholar 
+                R. S. Michalski, J. G. Carbonell, and T. M. Mitchell, Machine learning: an artificial intelligence approach. Springer Science & Business Media, 2013.
+                    Google Scholar 
+                Culler SD, Parchman ML, Przybylski M. Factors related to potentially preventable hospitalizations among the elderly. Med Care. 1998;1:804–17.
+                    Google Scholar 
+                Uddin MS, Hossain L. Social networks enabled coordination model for cost Management of Patient Hospital Admissions. J Healthc Qual. 2011;33(5):37–48.PubMed 
+    
+                    Google Scholar 
+                Lee PP, et al. Cost of patients with primary open-angle glaucoma: a retrospective study of commercial insurance claims data. Ophthalmology. 2007;114(7):1241–7.PubMed 
+    
+                    Google Scholar 
+                Davis DA, Chawla NV, Christakis NA, Barabási A-L. Time to CARE: a collaborative engine for practical disease prediction. Data Min Knowl Disc. 2010;20(3):388–415.
+                    Google Scholar 
+                McCormick T, Rudin C, Madigan D. A hierarchical model for association rule mining of sequential events: an approach to automated medical symptom prediction; 2011.
+                    Google Scholar 
+                Yiannakoulias N, Schopflocher D, Svenson L. Using administrative data to understand the geography of case ascertainment. Chron Dis Can. 2009;30(1):20–8.CAS 
+    
+                    Google Scholar 
+                Fisher ES, Malenka DJ, Wennberg JE, Roos NP. Technology assessment using insurance claims: example of prostatectomy. Int J Technol Assess Health Care. 1990;6(02):194–202.CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Farran B, Channanath AM, Behbehani K, Thanaraj TA. Predictive models to assess risk of type 2 diabetes, hypertension and comorbidity: machine-learning algorithms and validation using national health data from Kuwait-a cohort study. BMJ Open. 2013;3(5):e002457.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Ahmad LG, Eshlaghy A, Poorebrahimi A, Ebrahimi M, Razavi A. Using three machine learning techniques for predicting breast cancer recurrence. J Health Med Inform. 2013;4(124):3.
+                    Google Scholar 
+                Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. Ann Intern Med. 2009;151(4):264–9.PubMed 
+    
+                    Google Scholar 
+                Demšar J. Statistical comparisons of classifiers over multiple data sets. J Mach Learn Res. 2006;7:1–30.
+                    Google Scholar 
+                Palaniappan S, Awang R. Intelligent heart disease prediction system using data mining techniques. In: Computer Systems and Applications, 2008. AICCSA 2008. IEEE/ACS International Conference on; 2008. p. 108–15. IEEE.
+                    Google Scholar 
+                Hosmer Jr DW, Lemeshow S, Sturdivant RX. Applied logistic regression. Wiley; 2013.Joachims T. Making large-scale SVM learning practical. SFB 475: Komplexitätsreduktion Multivariaten Datenstrukturen, Univ. Dortmund, Dortmund, Tech. Rep. 1998. p. 28.Quinlan JR. Induction of decision trees. Mach Learn. 1986;1(1):81–106.
+                    Google Scholar 
+                Cruz JA, Wishart DS. Applications of machine learning in cancer prediction and prognosis. Cancer Informat. 2006;2:59–77.
+                    Google Scholar 
+                Breiman L. Random forests. Mach Learn. 2001;45(1):5–32.
+                    Google Scholar 
+                Lindley DV. Fiducial distributions and Bayes’ theorem. J Royal Stat Soc. Series B (Methodological). 1958;1:102–7.
+                    Google Scholar 
+                I. Rish, “An empirical study of the naive Bayes classifier,” in IJCAI 2001 workshop on empirical methods in artificial intelligence, 2001, vol. 3, 22, pp. 41–46: IBM New York.
+                    Google Scholar 
+                Cover T, Hart P. Nearest neighbor pattern classification. IEEE Trans Inf Theory. 1967;13(1):21–7.
+                    Google Scholar 
+                McCulloch WS, Pitts W. A logical calculus of the ideas immanent in nervous activity. Bull Math Biophys. 1943;5(4):115–33.
+                    Google Scholar 
+                Rumelhart DE, Hinton GE, Williams RJ. Learning representations by back-propagating errors. Nature. 1986;323(6088):533.
+                    Google Scholar 
+                Falagas ME, Pitsouni EI, Malietzis GA, Pappas G. Comparison of PubMed, Scopus, web of science, and Google scholar: strengths and weaknesses. FASEB J. 2008;22(2):338–42.CAS 
+    PubMed 
+    
+                    Google Scholar 
+                PubMed. (2018). https://www.ncbi.nlm.nih.gov/pubmed/.Kavakiotis I, Tsave O, Salifoglou A, Maglaveras N, Vlahavas I, Chouvarda I. Machine learning and data mining methods in diabetes research. Comput Struct Biotechnol J. 2017;15:104–16.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Pedregosa F, et al. Scikit-learn: Machine learning in Python. J Mach Learn Res. 2011;12:2825–30.
+                    Google Scholar 
+                Borah MS, Bhuyan BP, Pathak MS, Bhattacharya P. Machine learning in predicting hemoglobin variants. Int J Mach Learn Comput. 2018;8(2):140–3.
+                    Google Scholar 
+                Fawcett T. An introduction to ROC analysis. Pattern Recogn Lett. 2006;27(8):861–74.
+                    Google Scholar 
+                Aneja S, Lal S. Effective asthma disease prediction using naive Bayes—Neural network fusion technique. In: International Conference on Parallel, Distributed and Grid Computing (PDGC); 2014. p. 137–40. IEEE.
+                    Google Scholar 
+                Ayer T, Chhatwal J, Alagoz O, Kahn CE Jr, Woods RW, Burnside ES. Comparison of logistic regression and artificial neural network models in breast cancer risk estimation. Radiographics. 2010;30(1):13–22.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Lundin M, Lundin J, Burke H, Toikkanen S, Pylkkänen L, Joensuu H. Artificial neural networks applied to survival prediction in breast cancer. Oncology. 1999;57(4):281–6.CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Delen D, Walker G, Kadam A. Predicting breast cancer survivability: a comparison of three data mining methods. Artif Intell Med. 2005;34(2):113–27.PubMed 
+    
+                    Google Scholar 
+                Chen M, Hao Y, Hwang K, Wang L, Wang L. Disease prediction by machine learning over big data from healthcare communities. IEEE Access. 2017;5:8869–79.
+                    Google Scholar 
+                Cai L, Wu H, Li D, Zhou K, Zou F. Type 2 diabetes biomarkers of human gut microbiota selected via iterative sure independent screening method. PLoS One. 2015;10(10):e0140827.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Malik S, Khadgawat R, Anand S, Gupta S. Non-invasive detection of fasting blood glucose level via electrochemical measurement of saliva. SpringerPlus. 2016;5(1):701.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Mani S, Chen Y, Elasy T, Clayton W, Denny J. Type 2 diabetes risk forecasting from EMR data using machine learning. In: AMIA annual symposium proceedings, vol. 2012; 2012. p. 606. American Medical Informatics Association.
+                    Google Scholar 
+                Tapak L, Mahjub H, Hamidi O, Poorolajal J. Real-data comparison of data mining methods in prediction of diabetes in Iran. Healthc Inform Res. 2013;19(3):177–85.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Sisodia D, Sisodia DS. Prediction of diabetes using classification algorithms. Procedia Comput Sci. 2018;132:1578–85.
+                    Google Scholar 
+                Yang J, Yao D, Zhan X, Zhan X. Predicting disease risks using feature selection based on random forest and support vector machine. In: International Symposium on Bioinformatics Research and Applications; 2014. p. 1–11. Springer.
+                    Google Scholar 
+                Juhola M, Joutsijoki H, Penttinen K, Aalto-Setälä K. Detection of genetic cardiac diseases by Ca 2+ transient profiles using machine learning methods. Sci Rep. 2018;8(1):9355.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Long NC, Meesad P, Unger H. A highly accurate firefly based algorithm for heart disease prediction. Expert Syst Appl. 2015;42(21):8221–31.
+                    Google Scholar 
+                Jin B, Che C, Liu Z, Zhang S, Yin X, Wei X. Predicting the risk of heart failure with ehr sequential data modeling. IEEE Access. 2018;6:9256–61.
+                    Google Scholar 
+                Puyalnithi T, Viswanatham VM. Preliminary cardiac disease risk prediction based on medical and behavioural data set using supervised machine learning techniques. Indian J Sci Technol. 2016;9(31):1–5.
+                    Google Scholar 
+                Forssen H, et al. Evaluation of Machine Learning Methods to Predict Coronary Artery Disease Using Metabolomic Data. Stud Health Technol Inform. 2017;235: IOS Press:111–5.PubMed 
+    
+                    Google Scholar 
+                Tang Z-H, Liu J, Zeng F, Li Z, Yu X, Zhou L. Comparison of prediction model for cardiovascular autonomic dysfunction using artificial neural network and logistic regression analysis. PLoS One. 2013;8(8):e70571.CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Toshniwal D, Goel B, Sharma H. Multistage Classification for Cardiovascular Disease Risk Prediction. In: International Conference on Big Data Analytics; 2015. p. 258–66. Springer.
+                    Google Scholar 
+                Alonso DH, Wernick MN, Yang Y, Germano G, Berman DS, Slomka P. Prediction of cardiac death after adenosine myocardial perfusion SPECT based on machine learning. J Nucl Cardiol. 2018;1:1–9.
+                    Google Scholar 
+                Mustaqeem A, Anwar SM, Majid M, Khan AR. Wrapper method for feature selection to classify cardiac arrhythmia. In: Engineering in Medicine and Biology Society (EMBC), 39th Annual International Conference of the IEEE; 2017. p. 3656–9. IEEE.
+                    Google Scholar 
+                Mansoor H, Elgendy IY, Segal R, Bavry AA, Bian J. Risk prediction model for in-hospital mortality in women with ST-elevation myocardial infarction: a machine learning approach. Heart Lung. 2017;46(6):405–11.PubMed 
+    
+                    Google Scholar 
+                Kim J, Lee J, Lee Y. Data-mining-based coronary heart disease risk prediction model using fuzzy logic and decision tree. Healthc Inform Res. 2015;21(3):167–74.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Taslimitehrani V, Dong G, Pereira NL, Panahiazar M, Pathak J. Developing EHR-driven heart failure risk prediction models using CPXR (log) with the probabilistic loss function. J Biomed Inform. 2016;60:260–9.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Anbarasi M, Anupriya E, Iyengar N. Enhanced prediction of heart disease with feature subset selection using genetic algorithm. Int J Eng Sci Technol. 2010;2(10):5370–6.
+                    Google Scholar 
+                Bhatla N, Jyoti K. An analysis of heart disease prediction using different data mining techniques. Int J Eng. 2012;1(8):1–4.
+                    Google Scholar 
+                Thenmozhi K, Deepika P. Heart disease prediction using classification with different decision tree techniques. Int J Eng Res Gen Sci. 2014;2(6):6–11.
+                    Google Scholar 
+                Tamilarasi R, Porkodi DR. A study and analysis of disease prediction techniques in data mining for healthcare. Int J Emerg Res Manag Technoly ISSN. 2015;1:2278–9359.
+                    Google Scholar 
+                Marikani T, Shyamala K. Prediction of heart disease using supervised learning algorithms. Int J Comput Appl. 2017;165(5):41–4.
+                    Google Scholar 
+                Lu P, et al. Research on improved depth belief network-based prediction of cardiovascular diseases. J Healthc Eng. 2018;2018:1–9.
+                    Google Scholar 
+                Khateeb N, Usman M. Efficient Heart Disease Prediction System using K-Nearest Neighbor Classification Technique. In: Proceedings of the International Conference on Big Data and Internet of Thing; 2017. p. 21–6. ACM.
+                    Google Scholar 
+                Patel SB, Yadav PK, Shukla DD. Predict the diagnosis of heart disease patients using classification mining techniques. IOSR J Agri Vet Sci (IOSR-JAVS). 2013;4(2):61–4.
+                    Google Scholar 
+                Venkatalakshmi B, Shivsankar M. Heart disease diagnosis using predictive data mining. Int J Innovative Res Sci Eng Technol. 2014;3(3):1873–7.
+                    Google Scholar 
+                Ani R, Sasi G, Sankar UR, Deepa O. Decision support system for diagnosis and prediction of chronic renal failure using random subspace classification. In: Advances in Computing, Communications and Informatics (ICACCI), 2016 International Conference on; 2016. p. 1287–92. IEEE.
+                    Google Scholar 
+                Islam MM, Wu CC, Poly TN, Yang HC, Li YC. Applications of Machine Learning in Fatty Live Disease Prediction. In: 40th Medical Informatics in Europe Conference, MIE 2018; 2018. p. 166–70. IOS Press.
+                    Google Scholar 
+                Lynch CM, et al. Prediction of lung cancer patient survival via supervised machine learning classification techniques. Int J Med Inform. 2017;108:1–8.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Chen C-Y, Su C-H, Chung I-F, Pal NR. Prediction of mammalian microRNA binding sites using random forests. In: System Science and Engineering (ICSSE), 2012 International Conference on; 2012. p. 91–5. IEEE.
+                    Google Scholar 
+                Eskidere Ö, Ertaş F, Hanilçi C. A comparison of regression methods for remote tracking of Parkinson’s disease progression. Expert Syst Appl. 2012;39(5):5523–8.
+                    Google Scholar 
+                Chen H-L, et al. An efficient diagnosis system for detection of Parkinson’s disease using fuzzy k-nearest neighbor approach. Expert Syst Appl. 2013;40(1):263–71.
+                    Google Scholar 
+                Behroozi M, Sami A. A multiple-classifier framework for Parkinson’s disease detection based on various vocal tests. Int J Telemed Appl. 2016;2016:1–9.
+                    Google Scholar 
+                Hussain L, et al. Prostate cancer detection using machine learning techniques by employing combination of features extracting strategies. Cancer Biomarkers. 2018;21(2):393–413.PubMed 
+    
+                    Google Scholar 
+                Zupan B, DemšAr J, Kattan MW, Beck JR, Bratko I. Machine learning for survival analysis: a case study on recurrence of prostate cancer. Artif Intell Med. 2000;20(1):59–75.CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Hung C-Y, Chen W-C, Lai P-T, Lin C-H, Lee C-C. Comparing deep neural network and other machine learning algorithms for stroke prediction in a large-scale population-based electronic medical claims database. In: Engineering in Medicine and Biology Society (EMBC), 2017 39th Annual International Conference of the IEEE, vol. 1; 2017. p. 3110–3. IEEE.
+                    Google Scholar 
+                Atlas L, et al. A performance comparison of trained multilayer perceptrons and trained classification trees. Proc IEEE. 1990;78(10):1614–9.
+                    Google Scholar 
+                Lucic M, Kurach K, Michalski M, Bousquet O, Gelly S. Are GANs created equal? a large-scale study. In: Proceedings of the 32nd International Conference on Neural Information Processing Systems; 2018. p. 698–707. Curran Associates Inc.
+                    Google Scholar 
+                Levy O, Goldberg Y, Dagan I. Improving distributional similarity with lessons learned from word embeddings. Trans Assoc Comput Linguistics. 2015;3:211–25.
+                    Google Scholar 
+                Download referencesNot applicable.This study did not receive any funding.Complex Systems Research Group, Faculty of Engineering, The University of Sydney, Room 524, SIT Building (J12), Darlington, NSW, 2008, AustraliaShahadat Uddin, Arif Khan & Md Ekramul HossainHealth Market Quality Research Stream, Capital Markets CRC, Level 3, 55 Harrington Street, Sydney, NSW, AustraliaArif KhanFaculty of Medicine and Health, School of Medical Sciences, The University of Sydney, Camperdown, NSW, 2006, AustraliaMohammad Ali MoniYou can also search for this author in
+                        PubMed Google ScholarYou can also search for this author in
+                        PubMed Google ScholarYou can also search for this author in
+                        PubMed Google ScholarYou can also search for this author in
+                        PubMed Google ScholarSU: Originator of the idea, data analysis and writing. AK: Data analysis and writing. MEH: Data analysis and writing. MAM: Data analysis and critical review of the manuscript. All authors have read and approved the manuscript.Correspondence to
+                Shahadat Uddin.Not applicable.Not applicable.The authors declare that they do not have any competing interests.Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Open Access  This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Reprints and PermissionsUddin, S., Khan, A., Hossain, M. et al. Comparing different supervised machine learning algorithms for disease prediction.
+                    BMC Med Inform Decis Mak 19, 281 (2019). https://doi.org/10.1186/s12911-019-1004-8Download citationReceived: 28 January 2019Accepted: 11 December 2019Published: 21 December 2019DOI: https://doi.org/10.1186/s12911-019-1004-8Anyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        AdvertisementISSN: 1472-6947
+            By using this website, you agree to our
+            Terms and Conditions,
+            California Privacy Statement,
+            Privacy
+                statement and
+            Cookies policy.
+            
+                Manage cookies/Do not sell my data we use in the preference centre.
+            
+         © 2022 BioMed Central Ltd unless otherwise stated. Part of
+            Springer Nature.
+        

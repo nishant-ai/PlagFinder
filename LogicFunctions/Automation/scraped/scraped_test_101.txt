@@ -1,0 +1,36 @@
+
+IT risk management is the application of the principles of risk management to an IT organization in order to manage the risks associated with the field. IT risk management aims to manage the risks that come with the ownership, involvement, operation, influence, adoption and use of IT as part of a...
+View Full Term
+Trending TermsTechopedia TermsSubscribe To Our NewslettersBy clicking sign up, you agree to receive emails from Techopedia and agree to our Terms of Use and Privacy Policy.Computer vision (CV) is the subcategory of artificial intelligence (AI) that focuses on building and using digital systems to process, analyze and interpret visual data. The goal of computer vision is to enable computing devices to correctly identify an object or person in a digital image and take appropriate action. Computer vision uses convolutional neural networks (CNNs) to processes visual data at the pixel level and deep learning recurrent neural network (RNNs) to understand how one pixel relates to another.Uses for computer vision include:Computer vision enables computers to see, identify and process images in the same way that human vision does, and then provide appropriate output. It is like imparting human intelligence and instincts to a computer. The computer must interpret what it sees, and then perform appropriate analysis or act accordingly.When cars are equipped with computer vision, for example, they are able to identify and distinguish objects on and around the road such as traffic lights, pedestrians and road signs and act accordingly. When a human who is driving a car sees someone suddenly move into the path of the car, the driver must react instantly. In a split second, human vision has completed a complex task, that of identifying the object, processing data and deciding what to do. Computer vision's aim is to enable computers to perform the same kind of tasks as humans with the same efficiency. Share this TermTech moves fast! Stay ahead of the curve with Techopedia!
+Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+Latest Articles
+
+By: Leah Zitter
+| Contributor
+
+
+
+By: Antonio Vargas
+| Manager of Solutions Engineering, BitTitan 
+
+
+
+By: Margaret Rouse
+
+
+
+By: Margaret Rouse
+
+
+Techopedia™ is your go-to tech source for professional IT insight and inspiration.
+We aim to be a site that isn't trying to be the first to break news stories,
+but instead help you better understand technology and — we hope — make better decisions as a result.
+
+Copyright © 2022
+Techopedia Inc. -
+Terms of Use -
+Privacy Policy -
+Editorial Review Policy
+
+Cookie Settings
+By clicking sign up, you agree to receive emails from Techopedia and agree to our Terms of Use & Privacy Policy. Techopedia is a part of Janalta Interactive.

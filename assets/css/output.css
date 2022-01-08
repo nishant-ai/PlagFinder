@@ -1,0 +1,60 @@
+.box{
+    display : grid;
+      background-color:rgb(17, 17, 61);
+    height : 950px;
+    padding : 20px;
+    
+  }
+  p{
+    text-align: center;
+    display: grid;
+    font-size: 45px;
+    color:cornsilk;
+  }
+  .result{
+    display : grid;
+    grid-template-columns : 50% 50%;
+  /*   height : 500px;
+    width:500px; */
+  /*   background-color: blue; */
+    height: 700px;
+  /*   margin : 20px; */
+  /*   padding : 25px; */
+  }
+  .column{
+  
+  /*   background-color: red; */
+  /*   border : 2px solid black; */
+    margin:25px 25px;
+    padding : 5\px;
+    display : grid;
+    grid-template-rows : 100px auto;
+    grid-gap: 50px;
+    
+  }
+  .column .row-1{
+    background-color: white;
+    padding : 5px;
+    border : 3px solid black;
+  }
+  .column .row-2{
+    background-color: white;
+    border : 3px solid black;
+    padding : 5px;
+  }
+  .bt{
+    padding: 10px;
+    color:wheat;
+  top:80%;
+  height: 50px;
+    background-color:red;
+    width: 300px;
+text-align: center;
+font-size-adjust: 50px;
+border: 1px solid rgb(245, 245, 241);
+  }
+  .hh{
+    padding: auto;
+    text-align: center;
+   
+  }

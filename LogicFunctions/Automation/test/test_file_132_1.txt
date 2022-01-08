@@ -1,0 +1,173 @@
+Supervised machine learning algorithms uncover insights, patterns, and relationships from a labeled training dataset – that is, a dataset that already contains a known value for the target variable for each record. Because you provide the machine learning algorithm with the correct answers for a problem during training, the algorithm is able to “learn” how the rest of the features relate to the target, enabling you to uncover insights and make predictions about future outcomes based on historical data.Supervised machine learning turns data into real, actionable insights. It enables organizations to use data to understand and prevent unwanted outcomes or boost desired outcomes for their target variable.Supervised machine learning is one of the most powerful engines that enable AI systems to make business decisions faster and more accurately than humans. Businesses across industries use it to solve problems such as:However, successfully building, scaling, and deploying accurate supervised machine learning modelsSexual reproduction is production of offspring by the fusion of haploid gametes.[8][9] The codes for genetic traits are contained within the deoxyribonucleic acid (DNA) of chromosomes. By combining one set of chromosomes from each parent, an organism is formed containing a double set of chromosomes. This double-chromosome stage is called "diploid" while the single-chromosome stage is "haploid". Diploid organisms can, in turn, produce haploid cells (gametes) that randomly contain one of each of the chromosome pairs, via meiosis.[10] Meiosis also involves a stage of chromosomal crossover in which regions of DNA are exchanged between matched types of chromosomes, to form new pairs of mixed chromosomes, each of which is a blend of the genes of both parents.[10] This process is followed by a mitotic division, producing haploid gametes that contain one set of chromosomes. Crossing over to make new recombinant chromosomes and fertilization (the fusion of two gametes)[11] result in the new organism containing a different set of genetic traits from either parent.
+
+Gametes may be externally similar (isogamy) or may differ in size and other aspects (anisogamy).[6] Oogamy is an extreme example of anisogamy, in which a large, non-motile gamete is fused with a smaller, usually motile one.[12] Isogamy is very common in unicellular organisms while anisogamy is common in multicellular organisms.[13] Individuals that exclusively produce large gametes are females, and those that exclusively produce small gametes are males.[14][3][15]
+
+An individual that produces both types of gametes is a hermaphrodite.[4] Some hermaphrodites such as the roundworm Caenorhabditis elegans are able to self-fertilize and produce offspring on their own, without a second organism.[16] Some hermaphrodite animals such as Helix pomatia and Cepaea cannot self-fertilize.[17]
+
+Some hermaphroditic plants are self-fertile, but plants have evolved multiple different mechanisms to avoid self-fertilization, involving sequential hermaphroditism (dichogamy), self-incompatibility or morphological mechanisms such as heterostyly (herkogamy).[18]: 73, 74 
+
+In the life-cycle of plants and multicellular algae, diploid and haploid multicellular phases alternate. The diploid organism is called the sporophyte because it produces haploid spores by meiosis, which, on germination, undergo mitotic cell division to produce multicellular haploid organisms, the gametophytes that produce gametes by mitosis.[19]
+
+Animals
+Main article: Sexual reproduction in animals
+
+Hoverflies mating
+Sexually reproducing animals are diploid, and their single-celled gametes are the only haploid cells in their life cycles.[20] Animals have two gamete types: male spermatozoa (sperm) and female ova (egg cells).[21]
+
+A spermatozoon, produced in vertebrates within the testes, is a small cell containing a single long flagellum which propels it.[22] Egg cells (ova) are produced within the ovaries. In oviparous species such as birds, the fertilized egg cell or zygote is provided with yolk, a nutrient supply which supports the development of the embryo.[23]
+
+All animals that live outside of water use internal fertilization to transfer sperm directly into the female, thereby preventing the gametes from drying up.[24] Intromittent organs are the male copulation organs which help transport of sperm.[25]
+
+Mammals
+In mammals the female reproductive tract, called the vagina, connects with the uterus, an organ which directly supports the development of a fertilized embryo within, a process called gestation. In humans and other mammals the equivalent male organ is the penis, which enters the vagina to achieve insemination in a process called sexual intercourse. The penis contains a tube through which semen (a fluid containing sperm) travels.[citation needed] In Marsupials and placental mammals the fertilized egg develops within the female, receiving nutrition directly from its mother via a specialized organ called the placenta.[26]
+
+Birds
+In 97% of bird species, males do not have a penis.[25] Instead in most birds, both excretion and reproduction are done through a single posterior opening called the cloaca. Male and female birds touch cloacae to transfer sperm, a process called "cloacal kissing".[27]
+
+Aquatic animals
+Further information: Fish reproduction
+Most aquatic animals such as fish and corals mate using external fertilization, where the eggs and sperm are released into, and combine within, the surrounding water.[28] However, some species like crustaceans use internal fertilization.[24] In seahorses, females use their ovipositors to deliver eggs into the males’ underside for fertilization and gestation. Pipefish and seahorses are the only species that entail male pregnancy.[29]
+
+Insects
+Further information: Insect § Reproduction and development, and Insect reproductive system
+Most insects reproduce through oviparity, where a female mates with a male and the females lays the egg outside of her body.[30] A few groups of insects such as the Strepsiptera reproduce through traumatic insemination, where a male pierces a female's exoskeleton with his aedeagus.[31] In some harvester ants, a queen needs to mate with two types of males: one to reproduce queens and another to reproduce worker ants; these ants may be considered to have three or four sexes.[32]
+
+Plants
+Main article: Plant reproduction
+In the green seaweed genus Ulva, there is no sexual specialization among the isomorphic individual plants, their sexual organs, or their isogamous gametes.[33] However, the majority of plants have specialized male and female gametes.[34][35]
+
+The male gametes are the only cells in plants and green algae that have flagella. They are motile, able to swim to the egg cells of female gametophyte plants in films of water. Seed plants other than Cycads and Ginkgo have lost flagella entirely and are unable to swim in water. Once their pollen is delivered to the stigma of flowering plants, or the micropyle of gymnosperm ovules, their gametes are delivered to the egg cell by means of pollen tubes produced by one of the cells of the microgametophyte. Many plants, including conifers and grasses, are anemophilous producing lightweight pollen which is carried by wind to neighboring plants. Other plants, such as orchids,[36] have heavier, sticky pollen that is specialized for zoophily, transportation by animals. Plants attract insects such as bees or larger animals such as humming birds and bats with flowers containing rewards of nectar or resin.[37] These animals transport the pollen as they move to other flowers, which also contain female reproductive organs, resulting in cross-pollination.
+
+Spermatophytes
+In seed plants, male gametes are produced by extremely reduced multicellular microgametophytes known as pollen. The female gametes (egg cells) of seed plants are produced by larger megagametophytes contained within ovules. Once the egg cells are fertilized by male gametes produced by pollen, the ovules develop into seeds which contain the nutrients necessary for the initial development of the embryonic plant.[18]: 175 
+
+Conifers
+
+
+Female (left) and male (right) cones contain the sex organs of pines and other conifers. Most conifers are monoecious,[38] producing separate male and female cones on the same plant.
+In pines and other conifers, the sex organs are contained in the cones. The female cones (seed cones) produce seeds and male cones (pollen cones) produce pollen.[39] The female cones are longer lived and typically much larger and more durable. The ovules attached to the cone scales are not enclosed in an ovary, giving rise to the name gymnosperm meaning 'naked seed'. The smaller male cones produce pollen which is transported by wind to land in female cones. Naked seeds form after pollination, protected by the scales of the female cone.[40]
+
+Angiosperms
+
+Flowers contain the sexual organs of flowering plants. They usually contain both male and female parts, organs to attract pollinators and organs that provide rewards to pollinators.
+The sex organs of flowering plants are contained in flowers. The male parts of the flower are the stamens, which consist of the filaments supporting the anthers that produce the pollen.[41][42] The female parts in the flower, are the pistils, composed of one or more carpels. Carpels consist of an ovary, a style and a stigma. Within the ovary are ovules, which contain haploid megagametophytes that produce egg cells. When a pollen grain lands upon the stigma on top of a carpel's style, it germinates to produce a pollen tube that grows down through the tissues of the style into the carpel, where it delivers male gamete nuclei to fertilize the egg cell in an ovule that eventually develops into a seed. At the same time the ovary develops into a fruit.[43]
+
+The majority of flowers are hermaphroditic (bisexual) and produce both male and female gametophytes in the same flowers. The male gametophytes form inside pollen grains and produce male gametes. The female gametophytes form inside ovules and produce female gametes.[44] Bisexual flowers that contain both male and female sexual organs are said to be perfect.[45][46]
+
+Angiosperms may also have imperfect flowers, on the same or different plants, that lack one or other type of sex organs. Sometimes, as in the tree of heaven (Ailanthus altissima) and the European ash (Fraxinus excelsior) the panicles can produce different mixtures of functionally unisexual and functionally bisexual flowers on the same or different trees.[47]: 398, 615 
+
+Because flowering plants are immobile, they evolved flowers to attract animals such as insects to help in fertilization.[48]
+
+Fungi
+Main article: Mating in fungi
+
+Mushrooms are produced as part of fungal sexual reproduction
+Most fungi are able to reproduce sexually and asexually and have both haploid and diploid stages in their life cycles.[5]: 214  Many fungi are isogamous, lacking male and female specialization.[49] Even fungi that are anisogamous are all hermaphroditic, which is why even anisogamous fungi are considered to be mating types rather than sexes.[50][51]: 182 
+
+Fungi may have complex allelic mating systems and many species of fungi have two mating types.[52] However, Coprinellus disseminatus has been estimated to have about 123 mating types, and in some species there are thousands of mating types.[49] For example, Schizophyllum commune has about 28,000 or more mating types.[53]
+
+Some fungi, including that used as baker's yeast, have mating types that create a duality similar to male and female roles.[citation needed] Yeast with the same mating type do not fuse to form diploid cells, only with yeast carrying another mating type.[54]
+
+Many species of higher fungi[clarification needed] produce mushrooms as part of their sexual reproduction. Within the mushroom diploid cells are formed, later dividing into haploid spores.
+
+Protozoa
+Sexual reproduction is common among parasitic protozoa but rare among free-living protozoa, which usually reproduce asexually unless food is scarce or the environment changes drastically. Both anisogamy and isogamy are found in free-living protozoa.[55] Ciliates are all isogamous such as Tetrahymena thermophila, which has 7 mating types.[56][original research?]
+
+Sexual systems
+Main article: Sexual system
+A sexual system is a distribution of male and female functions across organisms in a species.[57]
+
+Animals
+Approximately 95% of animal species are gonochoric (also known as dioecious) and about 5% are hermaphroditic.[57] This low percentage is due to the very large number of insect species, in which hermaphroditism is absent.[44] Hermaphroditism nevertheless occurs in 70% of animal phyla.[58]
+
+Gonochoric individuals are either male or female throughout their lives.[59] Gonochorism is very common in vertebrates, about 99% of which gonochoric. The remaining 1% that are hermaphroditic are almost all fishes.[60] All birds and mammals are gonochoric.[61]
+
+Plants
+Roughly 5 to 6% of flowering plants are dioecious, resulting from between 871 and 5000 independent origins.[62] Consequently the majority are bisexual,[58] either hermaphrodite (with both stamens and pistil in the same flower) or monoecious (with separate male and female flowers on the same plant).[46][63] In dioecious species male and female sexes are on separate plants.[64] Dioecy is common in gymnosperms, in which 65% of species are dioecious, but most conifers are monoecious.[38]
+
+Evolution of sex
+Main article: Evolution of sexual reproduction
+Further information: Male § Evolution, and Female § Evolution
+See also: Mating type § Evolution, and Hermaphrodite § Evolution
+
+Different forms of anisogamy:
+A) anisogamy of motile cells, B) oogamy (egg cell and sperm cell), C) anisogamy of non-motile cells (egg cell and spermatia).
+
+Different forms of isogamy:
+A) isogamy of motile cells, B) isogamy of non-motile cells, C) conjugation.
+Sexual conflict underlies the evolutionary distinction between male and female with the distinction starting from anisogamy.[65] The evolution of anisogamy is also synonymous to the evolution of male and female sexes,[13] as well the starting point toward sexual dimorphism,[66] and lead to the evolution of many sex differences.[67]
+
+It is generally accepted that anisogamy has evolved from isogamy[68] several times independently in different groups of eukaryotes, including protists, algae, plants and animals,[44] but its evolution has left no fossil evidence.[69] Until 2006 there was no genetic evidence for the evolutionary link between sexes and mating types due to plants and animals having no isogamous relatives.[70]
+
+Anisogamy evolves due to disruptive selection leading to small gametes and large gametes.[71] In anisogamous species an intermediate gamete is unable to persist.[72] There should always be two gamete types, with all analyses showing that intermediate gamete sizes are eliminated due to selection.[73][74] As of 2016, it remains unclear if anisogamy first led to the evolution of gonochorism or the evolution of hermaphroditism.[58]: 213 
+
+Sex-determination systems
+Main article: Sex-determination system
+
+Sex helps the spread of advantageous traits through recombination. The diagrams compare the evolution of allele frequency in a sexual population (top) and an asexual population (bottom). The vertical axis shows frequency and the horizontal axis shows time. The alleles a/A and b/B occur at random. The advantageous alleles A and B, arising independently, can be rapidly combined by sexual reproduction into the most advantageous combination AB. Asexual reproduction takes longer to achieve this combination because it can only produce AB if A arises in an individual which already has B or vice versa.
+The biological cause of an organism developing into one sex or the other is called sex determination. The cause may be genetic, environmental, haplodiploidy, or multiple factors.[44] Within animals and other organisms that have genetic sex-determination systems, the determining factor may be the presence of a sex chromosome. In plants that are sexually dimorphic, such as the liverwort Marchantia polymorpha or the dioecious species in the flowering plant genus Silene, sex may also be determined by sex chromosomes.[75] Non-genetic systems may use environmental cues, such as the temperature during early development in crocodiles, to determine the sex of the offspring.[76]
+
+Sex determination is often distinct from sex differentiation, sex determination is the designation for the development stage towards either male or female while sex differentiation is the pathway towards the development of the phenotype.[77]
+
+Genetic
+
+Like humans and most other mammals, the common fruit fly has an XY sex-determination system.
+XY sex determination
+Humans and most other mammals have an XY sex-determination system: the Y chromosome carries factors responsible for triggering male development, making XY sex determination mostly based on the presence or absence of the Y chromosome. It is the male gamete that determines the sex of the offspring.[78] In this system XX mammals typically are female and XY typically are male.[44] However, individuals with XXY or XYY are males, while individuals with X and XXX are females.[7]
+
+XY sex determination is found in other organisms, including insects like the common fruit fly,[79] and some plants.[80] In some cases, it is the number of X chromosomes that determines sex rather than the presence of a Y chromosome.[7] In the fruit fly individuals with XY are male and individuals with XX are female; however, individuals with XXY or XXX can also be female, and individuals with X can be males.[81]
+
+ZW sex determination
+In birds, which have a ZW sex-determination system, the W chromosome carries factors responsible for female development, and default development is male.[82] In this case, ZZ individuals are male and ZW are female. It is the female gamete that determines the sex of the offspring. This system is used by birds, some fish, and some crustaceans.[7]
+
+The majority of butterflies and moths also have a ZW sex-determination system. In groups like the Lepidoptera, females can have Z, ZZW, and even ZZWW.[83]
+
+XO sex determination
+In the X0 sex-determination system, males have one X chromosome (X0) while females have two (XX). All other chromosomes in these diploid organisms are paired, but organisms may inherit one or two X chromosomes. This system is found in most arachnids, insects such as silverfish (Apterygota), dragonflies (Paleoptera) and grasshoppers (Exopterygota), and some nematodes, crustaceans, and gastropods.[84][85]
+
+In field crickets, for example, insects with a single X chromosome develop as male, while those with two develop as female.[86]
+
+In the nematode Caenorhabditis elegans, most worms are self-fertilizing hermaphrodites with an XX karyotype, but occasional abnormalities in chromosome inheritance can give rise to individuals with only one X chromosome—these X0 individuals are fertile males (and half their offspring are male).[87]
+
+ZO sex determination
+Question book-new.svg
+This section relies largely or entirely upon a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing citations to additional sources. (June 2021) (Learn how and when to remove this template message)
+In the Z0 sex-determination system, males have two Z chromosomes whereas females have one. This system is found in several species of moths.[88]
+
+Environmental
+Main article: Environmental sex determination
+For many species, sex is not determined by inherited traits, but instead by environmental factors such as temperature experienced during development or later in life.
+
+The bonelliidae larvae can only develop as males when they encounter a female.[44]
+
+In the fern Ceratopteris and other homosporous fern species, the default sex is hermaphrodite, but individuals which grow in soil that has previously supported hermaphrodites are influenced by the pheromone antheridiogen to develop as male.[89]
+
+Sequential hermaphroditism
+
+Clownfishes are initially male; the largest fish in a group becomes female
+Some species can change sex over the course of their lifespan, a phenomenon called sequential hermaphroditism.[90] Teleost fishes are the only vertebrate lineage where sequential hermaphroditism occurs. In clownfish, smaller fish are male, and the dominant and largest fish in a group becomes female; when a dominant female is absent, then her partner changes sex. In many wrasses the opposite is true—the fish are initially female and become male when they reach a certain size.[91] Sequential hermaphroditism also occurs in plants such as Arisaema triphyllum.
+
+Temperature-dependent sex determination
+Many reptiles, including all crocodiles and most turtles, have temperature-dependent sex determination. In these species, the temperature experienced by the embryos during their development determines their sex.[44] In some turtles, for example, males are produced at lower temperatures than females; but Macroclemys females are produced at temperatures lower than 22 °C or above 28 °C, while males are produced in between those temperatures.[92]
+
+Haplodiploidy
+Other insects, including honey bees and ants, use a haplodiploid sex-determination system.[93] Diploid bees and ants are generally female, and haploid individuals (which develop from unfertilized eggs) are male. This sex-determination system results in highly biased sex ratios, as the sex of offspring is determined by fertilization (arrhenotoky or pseudo-arrhenotoky resulting in males) rather than the assortment of chromosomes during meiosis.[94]
+
+Sex ratio
+Most organisms which reproduce sexually have a 1:1 sex ratio of male and female births. The English statistician and biologist Ronald Fisher outlined why this is so in what has come to be known as Fisher's principle.[95][better source needed] This essentially says the following:
+
+Suppose male births are less common than female.
+A newborn male then has better mating prospects than a newborn female, and therefore can expect to have more offspring.
+Therefore parents genetically disposed to produce males tend to have more than average numbers of grandchildren born to them.
+Therefore the genes for male-producing tendencies spread, and male births become more common.
+As the 1:1 sex ratio is approached, the advantage associated with producing males dies away.
+The same reasoning holds if females are substituted for males throughout. Therefore 1:1 is the equilibrium ratio.
+Sex differences
+See also: Sex differences in medicine, Sex differences in intelligence, Neuroscience of sex differences, and Sex differences in human physiology
+Anisogamy is the fundamental difference between male and female.[96][97] Richard Dawkins has stated that it is possible to interpret all the differences between the sexes as stemming from this.[98]
+
+Sex differences in humans include a generally larger size and more body hair in men, while women have larger breasts, wider hips, and a higher body fat percentage. In other species, there may be differences in coloration or other features, and may be so pronounced that the different sexes may be mistaken for two entirely different taxa.[99]
+
+Sex differences in behavior
+See also: Sex differences in psychology, Animal sexual behaviour, Non-reproductive sexual behavior in animals, and Sex differences in cognition
+The sexes across gonochoric species usuae the email? Please make sure to check your spam or junk folders.

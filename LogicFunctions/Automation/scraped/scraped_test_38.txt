@@ -1,0 +1,106 @@
+
+                                
+
+
+  
+  
+      Cybersecurity technology and best practices protect critical systems and sensitive information from an ever-growing volume of continually evolving threats.
+  
+
+
+
+
+    
+
+
+                            Cybersecurity is the practice of protecting critical systems and sensitive information from digital attacks. Also known as information technology (IT) security, cybersecurity measures are designed to combat threats against networked systems and applications, whether those threats originate from inside or outside of an organization.  In 2020, the average cost of a data breach was USD 3.86 million globally, and USD 8.64 million in the United States. These costs include the expenses of discovering and responding to the breach, the cost of downtime and lost revenue, and the long-term reputational damage to a business and its brand. Cybercriminals target customers’ personally identifiable information (PII) - names, addresses, national identification numbers (e.g., Social Security numbers in the U.S., fiscal codes in Italy), credit card information - and then sell these records in underground digital marketplaces. Compromised PII often leads to a loss of customer trust, regulatory fines, and even legal action.Security system complexity, created by disparate technologies and a lack of in-house expertise, can amplify these costs. But organizations with a comprehensive cybersecurity strategy, governed by best practices and automated using advanced analytics, artificial intelligence (AI) and machine learning, can fight cyberthreats more effectively and reduce the lifecycle and impact of breaches when they occur.A strong cybersecurity strategy has layers of protection to defend against cyber crime, including cyber attacks that attempt to access, change, or destroy data; extort money from users or the organization; or aim to disrupt normal business operations. Countermeasures should address:The volume of cybersecurity incidents is on the rise across the globe, but misconceptions continue to persist, including the notion that:Although cybersecurity professionals work hard to close security gaps, attackers are always looking for new ways to escape IT notice, evade defense measures, and exploit emerging weaknesses. The latest cybersecurity threats are putting a new spin on “known” threats, taking advantage of work-from-home environments, remote access tools, and new cloud services. These evolving threats include:The term “malware” refers to malicious software variants—such as worms, viruses, Trojans, and spyware—that provide unauthorized access or cause damage to a computer. Malware attacks are increasingly “fileless” and designed to get around familiar detection methods, such as antivirus tools, that scan for malicious file attachments.Ransomware is a type of malware that locks down files, data or systems, and threatens to erase or destroy the data - or make private or sensitive data to the public - unless a ransom is paid to the cybercriminals who launched the attack. Recent ransomware attacks have targeted state and local governments, which are easier to breach than organizations and under pressure to pay ransoms in order to restore applications and web sites on which citizens rely.Phishing is a form of social engineering that tricks users into providing their own PII or sensitive information. In phishing scams, emails or text messages appear to be from a legitimate company asking for sensitive information, such as credit card data or login information. The FBI has noted about a surge in pandemic-related phishing, tied to the growth of remote work.Current or former employees, business partners, contractors, or anyone who has had access to systems or networks in the past can be considered an insider threat if they abuse their access permissions. Insider threats can be invisible to traditional security solutions like firewalls and intrusion detection systems, which focus on external threats.A DDoS attack attempts to crash a server, website or network by overloading it with traffic, usually from multiple coordinated systems. DDoS attacks overwhelm enterprise networks via the simple network management protocol (SNMP), used for modems, printers, switches, routers, and servers.In an APT, an intruder or group of intruders infiltrate a system and remain undetected for an extended period. The intruder leaves networks and systems intact so that the intruder can spy on business activity and steal sensitive data while avoiding the activation of defensive countermeasures. The recent Solar Winds breach of United States government systems is an example of an APT.Man-in-the-middle is an eavesdropping attack, where a cybercriminal intercepts and relays messages between two parties in order to steal data. For example, on an unsecure Wi-Fi network, an attacker can intercept data being passed between guest’s device and the network.The following best practices and technologies can help your organization implement strong cybersecurity that reduces your vulnerability to cyber attacks and protects your critical information systems, without intruding on the user or customer experience:Businesses today are connected like never before. Your systems, users and data all live and operate in different environments. Perimeter-based security is no longer adequate but implementing security controls within each environment creates complexity. The result in both cases is degraded protection for your most important assets. A zero trust strategy assumes compromise and sets up controls to validate every user, device and connection into the business for authenticity and purpose. To be successful executing a zero trust strategy, organizations need a way to combine security information in order to generate the context (device security, location, etc.) that informs and enforces validation controls.IBM Security offers one of the most advanced and integrated portfolios of enterprise security products and services. The portfolio, supported by world-renowned IBM X-Force research, provides security solutions to help organizations drive security into the fabric of their business so they can thrive in the face of uncertainty.For help with risk assessment, incident detection, and threat response, be sure to check out:For the latest cybersecurity strategies, trends and insights from IBM Security experts, visit the IBM Security Intelligence (link resides outside of ibm.com) site.
+                    
+
+
+  
+  
+      Integrate security tools to gain insights into threats across hybrid, multicloud environments.
+  
+
+
+
+
+    
+
+
+                
+                    
+
+
+  
+  
+      AI is changing the game for cybersecurity, analyzing massive quantities of risk data to speed response times and augment under-resourced security operations.
+  
+
+
+
+
+    
+
+
+                
+                    
+
+
+  
+  
+      Learn about intelligent security analytics for insight into your most critical threats.
+  
+
+
+
+
+    
+
+
+                
+                    
+
+
+  
+  
+      Organizations are turning to zero trust security solutions to help protect their data and resources by making them accessible only on a limited basis and under the right circumstances.
+  
+
+
+
+
+    
+
+
+                
+                    
+
+
+  
+  
+      Integrating cloud into your existing enterprise security program is not just adding a few more controls or point solutions. It requires an assessment of your resources and business needs to develop a fresh approach to your culture and cloud security strategy.
+  
+
+
+
+
+    
+
+
+                
+                    
+
+
+  
+  
+      Protect enterprise data across multiple environments, meet privacy regulations and simplify operational complexity.
+  
+
+
+
+
+    
+
+
+                Stay up-to-date on the latest best practices to help protect your network and data.We discuss cyber security industry analysis, tips and success stories with security thought leaders.In these times, it’s critical that we ensure the right people can use the right applications or data when they need to. IAM allows this to happen.
