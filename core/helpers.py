@@ -5,6 +5,7 @@ from googlesearch import search
 from bs4 import BeautifulSoup
 import requests
 import pickle
+import math
 import os
 
 MEDIA_DIR = str(Path(__file__).resolve().parent.parent) + '/media/'
@@ -29,6 +30,7 @@ def generate_scrapes(query, num_urls=10):
     url_file_map = {}
     urls = search(query, num=num_urls, pause=0.5, stop=num_urls)
     for url in urls:
+        print(url)
         url_file_map[url] = f'scrapedText/scraped_dat_{i}.txt'
         response = requests.get(url)
 
@@ -60,9 +62,8 @@ from nltk import ngrams
 import pandas as pd
 import numpy as np
 import unicodedata
-import re
 
-punctuation += "’"
+punctuation += "''``“”"
 
 def openFile(filename):
     file = open(filename, 'r')
@@ -90,13 +91,17 @@ def word_frequency(text):
 
     return word_freq, word_pairs, trigrams
 
+
 def frequencyMatch(df_scraped , df_test):
     merged = df_scraped.set_index("word").join(df_test.set_index("word"), lsuffix='_scraped', rsuffix='_test')
     merged = merged.fillna(0)
-    frequency_match = merged.frequency_test*100 / merged.frequency_scraped
+    frequency_match = merged.frequency_test*100/merged.frequency_scraped
     merged['frequency_match'] = frequency_match
     merged.frequency_match = np.where(merged.frequency_match < 0, 0, merged.frequency_match)
-    return merged.describe()
+    merged.frequency_match = np.where(merged.frequency_match > 100, 100, merged.frequency_match)
+    merged = merged.drop(merged[merged.frequency_test == 0].index)
+#     print(merged)
+    return merged['frequency_match'].mean()
 
 
 def stringTokenize(text):
@@ -104,22 +109,21 @@ def stringTokenize(text):
     stringTokens = sent_tokenize(text)
     return stringTokens
 
+
 def sentence_match(testTokenSet, scrapeTokenSet):
     matchMap = []
     for test_token in testTokenSet:
         word_freq_test, pair_freq_test, trigram_freq_test = word_frequency(test_token)
         for scrape_token in scrapeTokenSet:
             word_freq_scrape, pair_freq_scrape, trigram_freq_scrape = word_frequency(scrape_token)
-            match_table = frequencyMatch(word_freq_test, word_freq_scrape)
-            match_mean = match_table.frequency_match[1] # mean
-            if match_mean == 0:
-                continue
+            match_mean = frequencyMatch(word_freq_test, word_freq_scrape)
             matchMap.append({
                 'test_token' : test_token,
                 'scrape_token' : scrape_token,
                 'similarity' : match_mean
-            })
+                })
     matchMap = pd.DataFrame(matchMap)
+    matchMap = matchMap[matchMap['similarity'].notna()]
     return matchMap
 
 def predictPlag(param_array): # 2d array Input
@@ -140,16 +144,32 @@ def features(test_text, scrape_text):
     string_token_t = stringTokenize(test_text)
     
     
-    word_freq_match = frequencyMatch(word_freq_s, word_freq_t).frequency_match
-    word_pair_match = frequencyMatch(word_pair_s, word_pair_t).frequency_match
-    trigram_match = frequencyMatch(trigram_s, trigram_t).frequency_match
-    word_mean, word_std, word_max = word_freq_match[1], word_freq_match[2], word_freq_match[7]
-    pair_mean, pair_std, pair_max = word_pair_match[1], word_pair_match[2], word_pair_match[7]
-    trigram_mean, trigram_std, trigram_max = trigram_match[1], trigram_match[2], trigram_match[7]
+    word_freq_match = frequencyMatch(word_freq_s, word_freq_t)
+    word_pair_match = frequencyMatch(word_pair_s, word_pair_t)
+    trigram_match = frequencyMatch(trigram_s, trigram_t)
     sent_match = sentence_match(string_token_t, string_token_s).similarity.mean()
+    if math.isnan(trigram_match):
+        trigram_match = 0
+    if math.isnan(word_pair_match):
+        word_pair_match == 0
+    if math.isnan(word_freq_match):
+        word_freq_match = 0
+    if math.isnan(sent_match):
+        sent_match = 0
     
-    paramArray = [[word_mean, word_std, word_max, pair_mean, pair_std, pair_max, trigram_mean, trigram_std, trigram_max, sent_match]]
+    paramArray = [[word_freq_match, word_pair_match, trigram_match, sent_match]]
     return paramArray
+
+                                
+def cleanWorkingTree():
+    pdf2Text = MEDIA_DIR + '/pdfToText/'
+    pdfUploads = MEDIA_DIR + '/pdfUploads/'
+    scrapedText = MEDIA_DIR + '/scrapedText/'
+    dir_list = [pdf2Text, pdfUploads, scrapedText]
+    for directory in dir_list:
+        dirs = os.listdir(directory)
+        for file in dirs:
+            os.remove(directory+file)
 
 
 def prediction(testfilename, query, searchlevel):
@@ -169,15 +189,5 @@ def prediction(testfilename, query, searchlevel):
         print(scrape_file_path)
         if result == 1:
             shady_urls.append(url_file_map[i])
-    
-    # Clean Directories
-    # pdf2Text = MEDIA_DIR + '/pdfToText/'
-    # pdfUploads = MEDIA_DIR + '/pdfUploads/'
-    # scrapedText = MEDIA_DIR + '/scrapedText/'
-    # dir_list = [pdf2Text, pdfUploads, scrapedText]
-    # for directory in dir_list:
-    #     dirs = os.listdir(directory)
-    #     for file in dirs:
-    #         os.remove(file)
-    
+    cleanWorkingTree()
     return result, shady_urls

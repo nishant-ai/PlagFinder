@@ -42,10 +42,13 @@ def word_frequency(text):
 def frequencyMatch(df_scraped , df_test):
     merged = df_scraped.set_index("word").join(df_test.set_index("word"), lsuffix='_scraped', rsuffix='_test')
     merged = merged.fillna(0)
-    frequency_match = merged.frequency_test*100 / merged.frequency_scraped
+    frequency_match = merged.frequency_test*100/merged.frequency_scraped
     merged['frequency_match'] = frequency_match
     merged.frequency_match = np.where(merged.frequency_match < 0, 0, merged.frequency_match)
-    return merged.describe()
+    merged.frequency_match = np.where(merged.frequency_match > 100, 100, merged.frequency_match)
+    merged = merged.drop(merged[merged.frequency_test == 0].index)
+#     print(merged)
+    return merged['frequency_match'].mean()
 
 # ________________________________________
 
@@ -60,16 +63,14 @@ def sentence_match(testTokenSet, scrapeTokenSet):
         word_freq_test, pair_freq_test, trigram_freq_test = word_frequency(test_token)
         for scrape_token in scrapeTokenSet:
             word_freq_scrape, pair_freq_scrape, trigram_freq_scrape = word_frequency(scrape_token)
-            match_table = frequencyMatch(word_freq_test, word_freq_scrape)
-            match_mean = match_table.frequency_match[1] # mean
-            if match_mean == 0:
-                continue
+            match_mean = frequencyMatch(word_freq_test, word_freq_scrape)
             matchMap.append({
                 'test_token' : test_token,
                 'scrape_token' : scrape_token,
                 'similarity' : match_mean
-            })
+                })
     matchMap = pd.DataFrame(matchMap)
+    matchMap = matchMap[matchMap['similarity'].notna()]
     return matchMap
 
 def initFeatureExtractions(n=160):

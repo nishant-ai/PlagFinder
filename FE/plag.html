@@ -20,26 +20,20 @@
       <div class="menu">
         <form action="" method="POST" enctype="multipart/form-data"> {% csrf_token %}
          <h2>CHECK FOR PLAGIARISM</h2>
-            <input type="text" class="hh" name="title" placeholder="Subject">
+            <input type="text" class="hh" name="query" placeholder="Subject">
             <input type="number" class="tt" name="no_of_websites" id="no_of_websites" placeholder="No of Websites">
-            <input type="file"class="rr" name="file" id="file">
+            <input type="file"class="rr" name="pdfUpload" id="file">
             
-            <input type="checkbox" class="jk" name="checkbox" id="checkbox">
             <input type="submit" class="sd" value="Submit">
         </form>
        
         
    <div class="end">
-            <ul>
-                {% for website in websites %}
-                <li>{{ website }}</li>
-                {% endfor %}
-                {% for percent in percentage %}
-              <li>{{ percent }}</li>
-              {% endfor %}
-              {% for text in deepResult %}
-                <li>{{text}}</li>
-                {% endfor %}
+                {% if plag == 1 %}
+                    <p>Plagiarism Detected!!!</p>
+                {% endif %}
+                <br>
+                {{suspected_websites}}
             </ul>
         
             </div>
