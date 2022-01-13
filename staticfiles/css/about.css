@@ -1,0 +1,311 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.about{
+    text-align: center;
+    margin-top: 20px;
+    color: darkmagenta;
+    font-family: lobster;
+    font-size: 60px;
+    font-weight: 600;
+    text-shadow: 1px 2px rgb(226, 147, 226);
+}
+/*.about::after{
+    content: '';
+    position: absolute;
+    width: 00%;
+    height: 2px;
+    background: #de36f4;
+    display: block;
+    margin: auto;
+    transition: 1s;
+}
+.about:hover::after{
+    width: 100%;
+}*/
+.workh1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    font-weight: 600;
+    color: black;
+    margin-top: 15px;
+}
+.work{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(Plagiarism-Measure.png);
+    background-size: 55%;
+    background-color: #fdfdfd;
+    overflow: hidden;
+    padding: 100px 0;
+    
+}
+.inner{
+    width: 55%;
+    float: right;
+    background-color: #fdfdfd;
+    padding: 100px;
+    box-shadow: 10px 10px 8px rgba(0,0,0,0.3);
+}
+.para1{
+    font-family: cursive;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 0px;
+    font-weight: 700;
+}
+/* mam */
+.ab1{
+    width: 100%;
+    padding: 30px 0px;
+    background-color: rgba(124, 124, 124, 0.3);
+}
+.ab1 img{
+    height: auto;
+    width: 420px;
+    
+}
+.mamtext{
+    width: 550px;
+
+}
+.mam-main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.mamtext h1{
+    text-align: left;
+    font-family:'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.mamtext p{
+    font-family:sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+/*nishant*/
+.ab2{
+    width: 100%;
+    padding: 30px 0px;
+    background-color: #fdfdfd;
+}
+.ab2 img{
+    height: auto ;
+    width: 420px;
+    float: right;
+}
+.nistext{
+    width: 550px;
+
+}
+.nis-main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nistext h1{
+    text-align: left;
+    font-family:'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.nistext p{
+    font-family: cursive;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+/* samridhi*/
+.ab5{
+    width: 100%;
+    padding: 30px 0px;
+    background-color: rgba(124, 124, 124, 0.3);
+}
+.ab5 img{
+    height: auto;
+    width: 420px;
+    
+}
+.samtext{
+    width: 550px;
+
+}
+.sam-main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.samtext h1{
+    text-align: left;
+    font-family:'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.samtext p{
+    font-family:sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+
+/*aakarsh*/
+.ab3{
+    width: 100%;
+    padding: 30px 0px;
+    background-color: rgba(124, 124, 124, 0.3);
+}
+.ab3 img{
+    height: 500px;
+    width: 420px;
+    
+}
+.aktext{
+    width: 550px;
+
+}
+.ak-main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.aktext h1{
+    text-align: left;
+    font-family:'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.aktext p{
+    font-family:sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+/* samridhi*/
+.ab5{
+    width: 100%;
+    padding: 30px 0px;
+    background-color: rgba(124, 124, 124, 0.3);
+}
+.ab5 img{
+    height: auto;
+    width: 420px;
+    
+}
+.samtext{
+    width: 550px;
+
+}
+.sam-main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.samtext h1{
+    text-align: left;
+    font-family:'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.samtext p{
+    font-family:sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+/*ruchika*/
+.ab4{
+    width: 100%;
+    padding: 30px 0px;
+    background-color: #fdfdfd;
+}
+.ab4 img{
+    height: auto;
+    width: 420px;
+    
+}
+.rutext{
+    width: 550px;
+
+}
+.ru-main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.rutext h1{
+    text-align: left;
+    font-family:'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.rutext p{
+    font-family:cursive;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+
+/*media */
+@media screen and (max-width:600px)
+{
+    .about{
+        padding: 0;
+    }
+    .inner-section{
+        padding: 60px;
+    }
+
+}
+
