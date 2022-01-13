@@ -1,1 +1,1 @@
-web:gunicorn PlagFinder.wsgi
+web:gunicorn PlagFinder.wsgi:app
