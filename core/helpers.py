@@ -8,8 +8,8 @@ import pickle
 import math
 import os
 
-MEDIA_DIR = repr(str(Path(__file__).resolve().parent.parent))[1:-2] + '/media/'
-CORE_DIR = repr(str(Path(__file__).resolve().parent.parent))[1:-2] + '/core/'
+MEDIA_DIR = (str(Path(__file__).resolve().parent.parent)) + '/media/'
+CORE_DIR = (str(Path(__file__).resolve().parent.parent)) + '/core/'
 print(MEDIA_DIR)
 
 def pdfToText(PDFName): #returns pathname
