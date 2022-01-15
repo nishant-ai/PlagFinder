@@ -7,9 +7,10 @@ import requests
 import pickle
 import math
 import os
+from os.path import join
 
-MEDIA_DIR = os.path.join((Path(__file__).resolve().parent.parent), 'media/')
-CORE_DIR = os.path.join((Path(__file__).resolve().parent.parent), 'core/')
+MEDIA_DIR = join((Path(__file__).resolve().parent.parent), 'media')
+CORE_DIR = join((Path(__file__).resolve().parent.parent), 'core')
 
 print("---------------------------------")
 print(MEDIA_DIR)
@@ -17,17 +18,17 @@ print(CORE_DIR)
 print("---------------------------------")
 
 def pdfToText(PDFName): #returns pathname
-    doc = fitz.open(MEDIA_DIR + f'pdfUploads/{PDFName}')
+    doc = fitz.open(join(MEDIA_DIR, 'pdfUploads', PDFName))
     totalText = ""
     
     for page in doc:
         totalText += page.get_text("Text")
         
-    outputFile = open(MEDIA_DIR + f'pdfToText/{PDFName[:-4]}.txt', 'w')
+    outputFile = open(join(MEDIA_DIR ,'pdfToText', f'{PDFName[:-4]}.txt'), 'w')
     outputFile.write(totalText)
     outputFile.close()
     
-    return f'pdfToText/{PDFName[:-4]}.txt'
+    return join('pdfToText', f'{PDFName[:-4]}.txt')
 
 
 def generate_scrapes(query, num_urls=10):
@@ -36,7 +37,7 @@ def generate_scrapes(query, num_urls=10):
     urls = search(query, num=num_urls, pause=0.5, stop=num_urls)
     for url in urls:
         print(url)
-        url_file_map[url] = f'scrapedText/scraped_dat_{i}.txt'
+        url_file_map[url] = join('scrapedText', f'scraped_dat_{i}.txt')
         response = requests.get(url)
 
         if response.status_code != 200:
@@ -51,7 +52,7 @@ def generate_scrapes(query, num_urls=10):
             extraction_p = re.sub('\[[a-z]\]', '', extraction_p)
             totalText += extraction_p
     
-        with open(MEDIA_DIR + f'scrapedText/scraped_dat_{i}.txt', 'w') as f:
+        with open(join(MEDIA_DIR, 'scrapedText', f'scraped_dat_{i}.txt'), 'w') as f:
             f.write(totalText)
         i+=1
     
@@ -167,9 +168,9 @@ def features(test_text, scrape_text):
 
                                 
 def cleanWorkingTree():
-    pdf2Text = MEDIA_DIR + '/pdfToText/'
-    pdfUploads = MEDIA_DIR + '/pdfUploads/'
-    scrapedText = MEDIA_DIR + '/scrapedText/'
+    pdf2Text = join(MEDIA_DIR, 'pdfToText', '/')
+    pdfUploads = join(MEDIA_DIR, 'pdfUploads', '/')
+    scrapedText = join(MEDIA_DIR, 'scrapedText', '/')
     dir_list = [pdf2Text, pdfUploads, scrapedText]
     for directory in dir_list:
         dirs = os.listdir(directory)
@@ -182,12 +183,12 @@ def prediction(testfilename, query, searchlevel):
     BINDER FUNCTION
     '''
     test_file_path = pdfToText(testfilename) # f'pdfToText/{PDFName[:-4]}.txt' TEST
-    test_txt = openFile(MEDIA_DIR+test_file_path)
+    test_txt = openFile(join(MEDIA_DIR,test_file_path))
     url_file_map = generate_scrapes(query, searchlevel) # f'scrapedText/scraped_dat_{i}.txt' SCRAPES
     url_file_map = list(url_file_map)
     shady_urls = []
     for i in range(len(url_file_map)-1):
-        scrape_file_path = f'scrapedText/scraped_dat_{i}.txt'
+        scrape_file_path = join(f'scrapedText', f'scraped_dat_{i}.txt')
         scrape_txt = openFile(MEDIA_DIR+scrape_file_path)
         feats = features(test_txt, scrape_txt)
         result = predictPlag(feats)

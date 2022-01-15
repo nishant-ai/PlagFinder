@@ -1,0 +1,709 @@
+How Does Artificial Intelligence Work? 
+  
+AI Approaches and Concepts 
+Less than a decade after breaking the Nazi encryption machine Enigma and 
+helping the Allied Forces win World War II, mathematician Alan Turing 
+changed history a second time with a simple question: "Can machines 
+think?"  
+ 
+Turing's paper "Computing Machinery and Intelligence" (1950), and its 
+subsequent Turing Test, established the fundamental goal and vision of 
+artificial intelligence.    
+ 
+At its core, AI is the branch of computer science that aims to answer 
+Turing's question in the affirmative. It is the endeavor to replicate or 
+simulate human intelligence in machines. 
+ 
+The expansive goal of artificial intelligence has given rise to many 
+questions and debates. So much so, that no singular definition of the 
+field is universally accepted.   
+ 
+Can machines think? – Alan Turing, 1950 
+ 
+The major limitation in defining AI as simply "building machines that are 
+intelligent" is that it doesn't actually explain what artificial 
+intelligence is? What makes a machine intelligent? AI is an 
+interdisciplinary science with multiple approaches, but advancements in 
+machine learning and deep learning are creating a paradigm shift in 
+virtually every sector of the tech industry.  
+ 
+In their groundbreaking textbook Artificial Intelligence: A Modern 
+Approach, authors Stuart Russell and Peter Norvig approach the question 
+by unifying their work around the theme of intelligent agents in 
+machines. With this in mind, AI is "the study of agents that receive 
+percepts from the environment and perform actions." (Russel and Norvig 
+viii) 
+ 
+CHECK OUT THE TOP AI COMPANIES 
+View all AI Companies 
+ 
+Norvig and Russell go on to explore four different approaches that have 
+historically defined the field of AI:  
+ 
+Thinking humanly 
+Thinking rationally 
+Acting humanly  
+Acting rationally 
+The first two ideas concern thought processes and reasoning, while the 
+others deal with behavior. Norvig and Russell focus particularly on 
+rational agents that act to achieve the best outcome, noting "all the 
+skills needed for the Turing Test also allow an agent to act rationally." 
+(Russel and Norvig 4). 
+ 
+Patrick Winston, the Ford professor of artificial intelligence and 
+computer science at MIT, defines AI as  "algorithms enabled by 
+constraints, exposed by representations that support models targeted at 
+loops that tie thinking, perception and action together." 
+ 
+While these definitions may seem abstract to the average person, they 
+help focus the field as an area of computer science and provide a 
+blueprint for infusing machines and programs with machine learning and 
+other subsets of artificial intelligence.  
+ 
+  
+ 
+ 
+TYPES OF ARTIFICIAL INTELLIGENCE | ARTIFICIAL INTELLIGENCE EXPLAINED | 
+WHAT IS AI? | EDUREKA 
+  
+The Four Types of Artificial Intelligence 
+  
+Reactive Machines 
+A reactive machine follows the most basic of AI principles and, as its 
+name implies, is capable of only using its intelligence to perceive and 
+react to the world in front of it. A reactive machine cannot store a 
+memory and as a result cannot rely on past experiences to inform decision 
+making in real-time. 
+ 
+Perceiving the world directly means that reactive machines are designed 
+to complete only a limited number of specialized duties. Intentionally 
+narrowing a reactive machine’s worldview is not any sort of cost-cutting 
+measure, however, and instead means that this type of AI will be more 
+trustworthy and reliable — it will react the same way to the same stimuli 
+every time.  
+ 
+A famous example of a reactive machine is Deep Blue, which was designed 
+by IBM in the 1990’s as a chess-playing supercomputer and defeated 
+international grandmaster Gary Kasparov in a game. Deep Blue was only 
+capable of identifying the pieces on a chess board and knowing how each 
+moves based on the rules of chess, acknowledging each piece’s present 
+position, and determining what the most logical move would be at that 
+moment. The computer was not pursuing future potential moves by its 
+opponent or trying to put its own pieces in better position. Every turn 
+was viewed as its own reality, separate from any other movement that was 
+made beforehand. 
+ 
+Another example of a game-playing reactive machine is Google’s AlphaGo. 
+AlphaGo is also incapable of evaluating future moves but relies on its 
+own neural network to evaluate developments of the present game, giving 
+it an edge over Deep Blue in a more complex game. AlphaGo also bested 
+world-class competitors of the game, defeating champion Go player Lee 
+Sedol in 2016. 
+ 
+Though limited in scope and not easily altered, reactive machine 
+artificial intelligence can attain a level of complexity, and offers 
+reliability when created to fulfill repeatable tasks. 
+ 
+  
+ 
+Limited Memory 
+Limited memory artificial intelligence has the ability to store previous 
+data and predictions when gathering information and weighing potential 
+decisions — essentially looking into the past for clues on what may come 
+next. Limited memory artificial intelligence is more complex and presents 
+greater possibilities than reactive machines. 
+ 
+Limited memory AI is created when a team continuously trains a model in 
+how to analyze and utilize new data or an AI environment is built so 
+models can be automatically trained and renewed. When utilizing limited 
+memory AI in machine learning, six steps must be followed: Training data 
+must be created, the machine learning model must be created, the model 
+must be able to make predictions, the model must be able to receive human 
+or environmental feedback, that feedback must be stored as data, and 
+these these steps must be reiterated as a cycle. 
+ 
+There are three major machine learning models that utilize limited memory 
+artificial intelligence: 
+ 
+Reinforcement learning, which learns to make better predictions through 
+repeated trial-and-error. 
+Long Short Term Memory (LSTM), which utilizes past data to help predict 
+the next item in a sequence.  LTSMs view more recent information as most 
+important when making predictions and discounts data from further in the 
+past, though still utilizing it to form conclusions 
+Evolutionary Generative Adversarial Networks (E-GAN), which evolves over 
+time, growing to explore slightly modified paths based off of previous 
+experiences with every new decision. This model is constantly in pursuit 
+of a better path and utilizes simulations and statistics, or chance, to 
+predict outcomes throughout its evolutionary mutation cycle. 
+  
+ 
+Theory of Mind 
+Theory of Mind is just that — theoretical. We have not yet achieved the 
+technological and scientific capabilities necessary to reach this next 
+level of artificial intelligence.  
+ 
+The concept is based on the psychological premise of understanding that 
+other living things have thoughts and emotions that affect the behavior 
+of one’s self. In terms of AI machines, this would mean that AI could 
+comprehend how humans, animals and other machines feel and make decisions 
+through self-reflection and determination, and then will utilize that 
+information to make decisions of their own. Essentially, machines would 
+have to be able to grasp and process the concept of “mind,” the 
+fluctuations of emotions in decision making and a litany of other 
+psychological concepts in real time, creating a two-way relationship 
+between people and artificial intelligence. 
+ 
+  
+ 
+ 
+WHAT IF AI BECAME SELF-AWARE? BY ALLTIME10S 
+  
+Self-awareness 
+Once Theory of Mind can be established in artificial intelligence, 
+sometime well into the future, the final step will be for AI to become 
+self-aware. This kind of artificial intelligence possesses human-level 
+consciousness and understands its own existence in the world, as well as 
+the presence and emotional state of others. It would be able to 
+understand what others may need based on not just what they communicate 
+to them but how they communicate it.  
+ 
+Self-awareness in artificial intelligence relies both on human 
+researchers understanding the premise of consciousness and then learning 
+how to replicate that so it can be built into machines. 
+ 
+USES, EXAMPLES + APPLICATIONS 
+artificial intelligence examples 
+AI HAS MANY USES. EXAMPLES INCLUDE EVERYTHING FROM AMAZON ALEXA TO SELF-
+DRIVING CARS. 
+How is AI Used?  
+While addressing a crowd at the Japan AI Experience in 2017,  DataRobot 
+CEO Jeremy Achin began his speech by offering the following definition of 
+how AI is used today: 
+ 
+"AI is a computer system able to perform tasks that ordinarily require 
+human intelligence... Many of these artificial intelligence systems are 
+powered by machine learning, some of them are powered by deep learning 
+and some of them are powered by very boring things like rules." 
+ 
+RELATED ARTICLE 
+20+ Examples of AI in Everyday Life 
+ 
+Artificial intelligence generally falls under two broad categories:  
+ 
+Narrow AI: Sometimes referred to as "Weak AI," this kind of artificial 
+intelligence operates within a limited context and is a simulation of 
+human intelligence. Narrow AI is often focused on performing a single 
+task extremely well and while these machines may seem intelligent, they 
+are operating under far more constraints and limitations than even the 
+most basic human intelligence.  
+  
+Artificial General Intelligence (AGI): AGI, sometimes referred to as 
+"Strong AI," is the kind of artificial intelligence we see in the movies, 
+like the robots from Westworld or Data from Star Trek: The Next 
+Generation. AGI is a machine with general intelligence and, much like a 
+human being, it can apply that intelligence to solve any problem.  
+Narrow Artificial Intelligence 
+Narrow AI is all around us and is easily the most successful realization 
+of artificial intelligence to date. With its focus on performing specific 
+tasks, Narrow AI has experienced numerous breakthroughs in the last 
+decade that have had "significant societal benefits and have contributed 
+to the economic vitality of the nation," according to "Preparing for the 
+Future of Artificial Intelligence," a 2016 report released by the Obama 
+Administration.  
+ 
+A few examples of Narrow AI include:  
+ 
+Google search 
+Image recognition software 
+Siri, Alexa and other personal assistants 
+Self-driving cars 
+IBM's Watson  
+Machine Learning & Deep Learning  
+Much of Narrow AI is powered by breakthroughs in machine learning and 
+deep learning. Understanding the difference between artificial 
+intelligence, machine learning and deep learning can be confusing. 
+Venture capitalist Frank Chen provides a good overview of how to 
+distinguish between them, noting:   
+ 
+"Artificial intelligence is a set of algorithms and intelligence to try 
+to mimic human intelligence. Machine learning is one of them, and deep 
+learning is one of those machine learning techniques."  
+ 
+Simply put, machine learning feeds a computer data and uses statistical 
+techniques to help it "learn" how to get progressively better at a task, 
+without having been specifically programmed for that task, eliminating 
+the need for millions of lines of written code. Machine learning consists 
+of both supervised learning (using labeled data sets) and unsupervised 
+learning (using unlabeled data sets).   
+ 
+Deep learning is a type of machine learning that runs inputs through a 
+biologically-inspired neural network architecture. The neural networks 
+contain a number of hidden layers through which the data is processed, 
+allowing the machine to go "deep" in its learning, making connections and 
+weighting input for the best results. 
+ 
+Artificial General Intelligence 
+The creation of a machine with human-level intelligence that can be 
+applied to any task is the Holy Grail for many AI researchers, but the 
+quest for AGI has been fraught with difficulty.  
+ 
+The search for a "universal algorithm for learning and acting in any 
+environment," (Russel and Norvig 27) isn't new, but time hasn't eased the 
+difficulty of essentially creating a machine with a full set of cognitive 
+abilities.  
+ 
+AGI has long been the muse of dystopian science fiction, in which super-
+intelligent robots overrun humanity, but experts agree it's not something 
+we need to worry about anytime soon. 
+ 
+HISTORY 
+history of artificial intelligence 
+THE HISTORY OF ARTIFICIAL INTELLIGENCE IS LONG AND ROBUST, GOING BACK TO 
+THE 1940S. 
+A Brief History of Artificial Intelligence 
+Intelligent robots and artificial beings first appeared in the ancient 
+Greek myths of Antiquity. Aristotle's development of syllogism and its 
+use of deductive reasoning was a key moment in mankind's quest to 
+understand its own intelligence. While the roots are long and deep, the 
+history of artificial intelligence as we think of it today spans less 
+than a century. The following is a quick look at some of the most 
+important events in AI.  
+ 
+1940s 
+(1943) Warren McCullough and Walter Pitts publish "A Logical Calculus of 
+Ideas Immanent in Nervous Activity." The paper proposed the first 
+mathematical model for building a neural network.  
+(1949) In his book The Organization of Behavior: A Neuropsychological 
+Theory, Donald Hebb proposes the theory that neural pathways are created 
+from experiences and that connections between neurons become stronger the 
+more frequently they're used. Hebbian learning continues to be an 
+important model in AI. 
+1950s 
+(1950) Alan Turing publishes "Computing Machinery and Intelligence, 
+proposing what is now known as the Turing Test, a method for determining 
+if a machine is intelligent.  
+(1950) Harvard undergraduates Marvin Minsky and Dean Edmonds build SNARC, 
+the first neural network computer. 
+(1950) Claude Shannon publishes the paper "Programming a Computer for 
+Playing Chess." 
+(1950) Isaac Asimov publishes the "Three Laws of Robotics."   
+(1952) Arthur Samuel develops a self-learning program to play checkers.  
+(1954) The Georgetown-IBM machine translation experiment automatically 
+translates 60 carefully selected Russian sentences into English.  
+(1956) The phrase artificial intelligence is coined at the "Dartmouth 
+Summer Research Project on Artificial Intelligence." Led by John 
+McCarthy, the conference, which defined the scope and goals of AI, is 
+widely considered to be the birth of artificial intelligence as we know 
+it today.  
+(1956) Allen Newell and Herbert Simon demonstrate Logic Theorist (LT), 
+the first reasoning program.  
+(1958) John McCarthy develops the AI programming language Lisp and 
+publishes the paper "Programs with Common Sense." The paper proposed the 
+hypothetical Advice Taker, a complete AI system with the ability to learn 
+from experience as effectively as humans do.   
+(1959) Allen Newell, Herbert Simon and J.C. Shaw develop the General 
+Problem Solver (GPS), a program designed to imitate human problem-
+solving.  
+(1959) Herbert Gelernter develops the Geometry Theorem Prover program. 
+(1959) Arthur Samuel coins the term machine learning while at IBM. 
+(1959) John McCarthy and Marvin Minsky founded the MIT Artificial 
+Intelligence Project. 
+1960s 
+(1963) John McCarthy starts the AI Lab at Stanford. 
+(1966) The Automatic Language Processing Advisory Committee (ALPAC) 
+report by the U.S. government details the lack of progress in machine 
+translations research, a major Cold War initiative with the promise of 
+automatic and instantaneous translation of Russian. The ALPAC report 
+leads to the cancellation of all government-funded MT projects.  
+(1969) The first successful expert systems are developed in DENDRAL, a XX 
+program, and MYCIN, designed to diagnose blood infections, are created at 
+Stanford. 
+1970s 
+(1972) The logic programming language PROLOG is created. 
+(1973) The "Lighthill Report," detailing the disappointments in AI 
+research, is released by the British government and leads to severe cuts 
+in funding for artificial intelligence projects.  
+(1974-1980) Frustration with the progress of AI development leads to 
+major DARPA cutbacks in academic grants. Combined with the earlier ALPAC 
+report and the previous year's "Lighthill Report," artificial 
+intelligence funding dries up and research stalls. This period is known 
+as the "First AI Winter."  
+1980s 
+(1980) Digital Equipment Corporations develops R1 (also known as XCON), 
+the first successful commercial expert system. Designed to configure 
+orders for new computer systems, R1 kicks off an investment boom in 
+expert systems that will last for much of the decade, effectively ending 
+the first "AI Winter." 
+(1982) Japan's Ministry of International Trade and Industry launches the 
+ambitious Fifth Generation Computer Systems project. The goal of FGCS is 
+to develop supercomputer-like performance and a platform for AI 
+development. 
+(1983) In response to Japan's FGCS, the U.S. government launches the 
+Strategic Computing Initiative to provide DARPA funded research in 
+advanced computing and artificial intelligence.  
+(1985) Companies are spending more than a billion dollars a year on 
+expert systems and an entire industry known as the Lisp machine market 
+springs up to support them. Companies like Symbolics and Lisp Machines 
+Inc. build specialized computers to run on the AI programming language 
+Lisp.  
+(1987-1993) As computing technology improved, cheaper alternatives 
+emerged and the Lisp machine market collapsed in 1987, ushering in the 
+"Second AI Winter." During this period, expert systems proved too 
+expensive to maintain and update, eventually falling out of favor. 
+1990s 
+(1991) U.S. forces deploy DART, an automated logistics planning and 
+scheduling tool, during the Gulf War. 
+(1992) Japan terminates the FGCS project in 1992, citing failure in 
+meeting the ambitious goals outlined a decade earlier. 
+(1993) DARPA ends the Strategic Computing Initiative in 1993 after 
+spending nearly $1 billion and falling far short of expectations.  
+(1997) IBM's Deep Blue beats world chess champion Gary Kasparov 
+2000s 
+(2005) STANLEY, a self-driving car, wins the DARPA Grand Challenge. 
+(2005) The U.S. military begins investing in autonomous robots like 
+Boston Dynamics' "Big Dog" and iRobot's "PackBot." 
+(2008) Google makes breakthroughs in speech recognition and introduces 
+the feature in its iPhone app.  
+2010-2014 
+(2011) IBM's Watson trounces the competition on Jeopardy!.  
+(2011) Apple releases Siri, an AI-powered virtual assistant through its 
+iOS operating system.  
+(2012) Andrew Ng, founder of the Google Brain Deep Learning project, 
+feeds a neural network using deep learning algorithms 10 million YouTube 
+videos as a training set. The neural network learned to recognize a cat 
+without being told what a cat is, ushering in the breakthrough era for 
+neural networks and deep learning funding. 
+(2014) Google makes the first self-driving car to pass a state driving 
+test.  
+(2014) Amazon's Alexa, a virtual home is released  
+2015-2021 
+(2016) Google DeepMind's AlphaGo defeats world champion Go player Lee 
+Sedol. The complexity of the ancient Chinese game was seen as a major 
+hurdle to clear in AI. 
+(2016) The first "robot citizen", a humanoid robot named Sophia, is 
+created by Hanson Robotics and is capable of facial recognition, verbal 
+communication and facial expression. 
+(2018) Google releases natural language processing engine BERT, reducing 
+barriers in translation and understanding by machine learning 
+applications. 
+(2018) Waymo launches its Waymo One service, allowing users throughout 
+the Phoenix metropolitan area to request a pick-up from one of the 
+company's self-driving vehicles. 
+(2020) Baidu releases its LinearFold AI algorithm to scientific and 
+medical teams working to develop a vaccine during the early stages of the 
+SARS-CoV-2 pandemic. The algorithm is able to predict the RNA sequence of 
+the virus in just 27 seconds, 120 times faster than other methods. 
+  
+ 
+FEATURED ARTICLES 
+For more information on artificial intelligence, check out some of the 
+best content from our library: 
+ 
+  
+ 
+Dangers of AI: 6 Risks of Artificial Intelligence 
+ 
+More Stories 
+BACK TO TOP 
+For Users, Better AI Means More Personalization 
+AI and machine learning are fueling a future where more empathic machines 
+understand us better according to experts.Data science and AI analizing a 
+person to create a personalized experience. 
+READ ARTICLE 
+Machine learning software using data to form financial insights. 
+Machine Learning in Finance: 10 Companies to Know 
+A soccer ball in a goal surround by sports analytics uncovering big data 
+insights. 
+How Sports Analytics Are Used Today, by Teams and Fans 
+recommendation-engines blurry person in the foreground surfing Netflix on 
+a laptop 
+Rage Against the Machine Learning: My War With Recommendation Engines 
+deep q learning robot holding video game controller 
+A Deep Dive Into Deep Q-Learning 
+17 Machine Learning Examples Your Industry Needs to Know Now 
+This technology, a key cog in the broader concept of AI, offers benefits 
+to a wide number of industries from helping retailers upsell to customers 
+to assisting fintech companies fight fraudsters.A digital machine 
+learning brain working to enhance various industries.  
+READ ARTICLE 
+A pattern of brains in different styles of artificial intelligence. 
+Is Artificial Intelligence a Good Career? These AI Professionals Think 
+So. 
+real face a young woman and an old woman stare at the camera 
+Real Face vs. AI-Generated Fake: The Science Behind GANs 
+A cartoon of a robot and a human with a shared speech bubble indicating 
+their conversation. /customer-success/conversational-ai 
+Relationship to Revenue: How Conversational AI Can Supercharge Customer 
+Success 
+Machine learning in healthcare 
+16 Examples of a Healthcare Revolution Using Machine Learning 
+Don’t Fear the Robot: The Human Consequences of Automation 
+When it comes to automation, people often adopt an us-versus-them 
+mindset. We need to change that attitude if we want to unlock the 
+potential of both our human and robotic workforce.A human shakes hands 
+with a robot 
+READ ARTICLE 
+scikit-learn programmer's hands visible at laptop with overlay of data 
+visualizations 
+Get Started With AI Using Scikit-Learn 
+Continue Reading 
+Moore’s Law Is Dead. Now What? 
+A Step-by-Step NLP Machine Learning Classifier Tutorial 
+3 Biggest Mistakes to Avoid When Hiring AI and ML Engineers 
+15 Deep Learning Applications You Need to Know 
+How AI Teach Themselves Through Deep Reinforcement Learning 
+Haptic Technology Has More Applications Than You Think 
+Why Aren’t Governments Paying More Attention to AI? 
+Forget Freud. Emotion AI Is the Key to Analyzing Consumers’ True 
+Feelings. 
+Tech Leaders’ Top Predictions for 2022 
+How Can AI Transform E-Commerce? 
+Want Business Insights More Quickly? Augment Your Analytics. 
+Cruise Engineers Balance Safety With Experimentation in the Pursuit of 
+Autonomous Vehicles 
+Artificial Intelligence in Cars Powers an AI Revolution in the Auto 
+Industry 
+37 Examples of AI in Healthcare That Will Make You Feel Better About the 
+Future 
+5 Deep Learning Activation Functions You Need to Know 
+Data Fabric: What You Need to Know About the Next Big Thing 
+What Can’t AI Do? 
+Want a Career in Machine Learning? Here’s What You Need to Know. 
+What Can We Learn From 4 Superhuman, Game-Playing AIs? 
+27 Examples of Artificial Intelligence Shaking Up Business as Usual 
+How Do You Use Data Structures and Algorithms in Python? 
+How Do Self-Driving Cars Work? 
+AI and the Bottom Line: 20 Examples of Artificial Intelligence in Finance 
+Drones Are Turning Photogrammetry Into Big Business 
+Will a Robot Take Your Job? Artificial Intelligence's Impact on the 
+Future of Jobs. 
+AI Makes Decisions We Don’t Understand. That’s a Problem. 
+Think You Don't Need Loss Functions in Deep Learning? Think Again. 
+A Guide to Time Series Analysis in Python 
+The Next Space Primed for AI Disruption Isn’t What You Think 
+Is AI Taking the Human Out of Human Resources? 
+7 Dangerous Risks of Artificial Intelligence 
+Artificial Intelligence vs. Machine Learning vs. Deep Learning: What’s 
+the Difference? 
+Unhappy With Your AI Implementation? Good — You Should Be. 
+Using Buyer-Intent AI for Sales Can Be a Superpower 
+Why Every Customer Service Rep Will Soon Have an AI Assistant 
+3 Guiding AI Principles to Kick-Start Your Next Initiative 
+AI In Insurance: How Artificial Intelligence Is Shaking Up the Entire 
+Industry 
+Streamlit Tutorial: A Beginner’s Guide to Building Machine Learning-Based 
+Web Applications 
+Fake Science Is Creating a Real Crisis, and AI Is Making It Worse 
+Recruiting AI Can Be Objective — If We Design It Responsibly 
+How to Evaluate Classification Models in Python: A Beginner's Guide 
+AI Copywriting: Why Writing Jobs Are Safe 
+How AI Customer Service Will Transform Industries 
+How Do Targeted Ads Work? (And Why They Can Be Bad.) 
+How Do People Feel About the COVID Vaccine? 
+How We Made a Movie by an AI Script Writer 
+Can AI Solve the COBOL Challenge? 
+Insurance Companies Are Embracing AI, for Better and for Worse 
+What the Rise of Fashion Chatbots Tells Us About AI’s Role in New 
+Experiences 
+How Your Org Can Successfully Implement AI 
+Make Sure the AI You’re Buying Isn’t Just a Marketing Gimmick 
+Is AI Coming for Your Job? 
+A Comprehensive Guide to Scikit-Learn (Sklearn) 
+A Feast of Sensor Data: Feeding Self-Driving Algorithms 
+6 Ways to Combat Bias in Machine Learning 
+Here’s What AI-Enabled UX Design Frameworks Are Teaching Us 
+The Time Has Come to Decouple AI From Human Brains 
+How to Move AI Development Forward 
+How Technology Can Kickstart Travel’s Post-Pandemic Boom 
+Recruiting AI Needs More Diverse Data in 2021 
+How to Combat Shadow IT Data Management 
+How Cities Are Using Precise Data to Enhance Urban Mobility 
+When Will AI Revolutionize Your Industry? 
+Emotion AI Technology Has Great Promise (When Used Responsibly) 
+What You Should Know About an Applicant Tracking System (ATS) to Land 
+More Interviews — and Jobs 
+Is an Open Web Still Possible? 
+What Investors Look for in an AI Startup 
+How to Navigate Automotive AR’s Legal Challenges 
+How Change Management Professionals Help Enterprises Pivot and Adopt AI 
+How AI Can Help Small Businesses 
+Healthcare Is Ailing. AI Can Help. 
+Machine Learning Platforms: Should You Buy Commercial or Build In-House? 
+Why Keras Is the Leading Deep Learning API 
+Will We See a Quantum Computing Revolution? 
+Why GPT-3 Heralds a Democratic Revolution in Tech 
+When It Comes to AI, Don’t Get Trapped in the Magic Box 
+How AI Can Be Used to Help Employees Safely Return to Work 
+Inside the Machine Learning Effort to Organize the Library of Congress 
+Digital Collection 
+How to Embark on the Complex Journey Toward SaaSifying Your Business 
+Deepfake Phishing: Is That Actually Your Boss Calling? 
+What Makes a Music Recommendation Engine Good? 
+A Proposal to Democratize AI 
+How Artificial Intelligence Can Revolutionize Healthcare 
+How Gen Z Can Fix AI’s Ethics Problem 
+‘The Social Dilemma’ Left Out Some Important Thinkers. Mozilla Made a 
+List. 
+How AI in Sports Can Take Athletes’ Games to the Next Level 
+Why Do Machine Learning Projects Fail? 
+6 Cutting-Edge Applications of AI 
+12 Ways to Address the Risks Big Data and AI Pose to the Business World 
+Step Up Your Content Marketing Game With AI 
+Why Racial Bias Still Haunts Speech-Recognition AI 
+How DoNotPay’s Bots Battle Bureaucracy 
+How to Spot Deepfake Technology 
+Counteracting AI Bias 
+Instagram Bots Are Frowned Upon — but They Work 
+How Amazon Vendors Can Use AI-Optimization to Increase Sales 
+Will We Ever Want to Use Touchscreens Again? 
+A Look Into the Future of AI for Sales 
+14 Ways to Use AI Right Now for Fast Business Results 
+How Human Can You Make a Chatbot? You’d Be Surprised. 
+Can AI Replace Writers? 
+Could Contextual Analysis Replace the Cookie? 
+How Root AI’s Agricultural Robots Are Powering the Farmtech Revolution 
+Inside the AI Trends Every Techie Should Be Watching 
+This Mental Health Chatbot Uses Humor to Get Users to Open Up 
+How Artificial Intelligence Is Fighting COVID-19 
+Meet Amelia, an AI-Powered HR Coordinator, IT Technician and COVID-19 
+Screener 
+How to Reduce AI Computing Costs 
+How to Make Your Zoom Video Conferences Less Awkward 
+How Carmera Processes Mapping Data Captured From Autonomous Vehicles 
+Ads That Want You to Talk Back: Inside Pandora’s Voice-First Experiment 
+How to Bootstrap an Intelligent Software Model With Very Little Data 
+Weighing the Trade-Offs of Explainable AI 
+How CompanionMX Trained Its AI to Spot Signs of Depression 
+AI Is Coming to a Grocery Store Near You 
+Can Machine Learning Help Clean Up a Tornado’s Financial Aftermath? 
+How Casetext Makes Lawyers More Accessible With AI 
+What's Keeping Driverless Vehicles Off the Roads? 
+13 Must-Read AI Books, According to the Experts 
+Algorithmic Bias and the Tools Working to Prevent It 
+Building a 3D Printer That Self-Corrects With AI 
+How Grammarly's Email Tone Checker Uses AI to Optimize Your 
+Communications 
+How MIT Uses Artificial Intelligence to Train Delivery Robots to Find 
+Front Doors 
+This Startup Serves Up 2.5B Cookie Consents Every Month 
+How Humility Helps AI Work Better With Human Users 
+20 Machine Learning Bootcamps & Classes To Know 
+Hypergiant is Developing the Algae Farm of the Future 
+22 AI Real Estate Companies to Know 
+30 companies merging AI and cybersecurity to keep us safe and sound 
+10 AI in Banking Examples You Should Know 
+Machine Learning Cybersecurity: How It Works and Companies to Know 
+7 Natural Language Processing (NLP) Examples and Applications 
+31 Computer Vision Companies and Startups to Keep an Eye On 
+As U.S. Grapples With AI, Laws and Regulations Enter Nascent Stages 
+These edtech companies are using machine learning to improve human 
+learning 
+Machine Learning for Smarter Trading: 14 Companies You Should Know 
+A High-Level Guide to Natural Language Processing Techniques 
+Machine learning is changing the way retailers do business 
+25 AI Insurance Companies You Should Know 
+Deep Learning: An In-Depth Look Into the AI-Based Tech 
+The History of Deep Learning: Top Moments That Shaped the Technology 
+Tastier coffee, hurricane prediction and fighting the opioid crisis: 26 
+ways blockchain & AI make a powerful pair 
+How AI Trading Technology Is Making Stock Market Investors Smarter 
+Fighting Fires and Saving Elephants: How 12 Companies are Using the AI 
+Drone to Solve Big Problems 
+12 Companies turning AI Robots Into Real Life Wins 
+12 Supply Chain Companies Using AI to Optimize Logistics 
+Industry 4.0: Ten AI innovators in Manufacturing Tech 
+Personalized hotel booking and money for delayed flights: 9 reasons why 
+AI is a traveler's best friend 
+20 Machine Learning in Marketing Examples You Should Know 
+7 AI Game Companies Introducing Us to the Future of Entertainment 
+Machine Learning With Python: A Guide to Getting Started 
+How artificial intelligence in business is changing the way companies run 
+and employees work 
+The AI music revolution is here and these 11 companies are leading the 
+charge 
+14 Examples of AI in E-Commerce and Retail That Are Enhancing the 
+Shopping Experience 
+How AI in HR and recruiting is becoming 'the future of talent 
+acquisition' 
+30 Machine Learning Companies You Should Know 
+What is machine learning? A quick guide to basic concepts 
+10 publicly traded companies innovating with AI 
+How 9 companies are using AI in marketing to deliver ads you actually 
+want to see 
+11 companies using AI in education to enhance the classroom 
+Qualcomm launches $100M AI fund 
+AI to equalize urban and rural health care in China, says NovaVision CEO 
+Hackers can generate AI fingerprints to hack phones, study shows 
+AI may help detect Medicare fraud 
+Apple reportedly acquired AI software startup Silk Labs 
+A U.S. proposal to hamper China's AI ambitions may hurt our own 
+Online retailers depend on machine learning to detect fraud 
+AI making doctors obsolete? Don't count on it 
+Harvard asks Congress to join AI bootcamp 
+Scientists bolster giraffe conservation efforts with AI 
+Machine-learning algorithm sheds light on DNA repair 
+Archaeologists discover new sites through deep learning 
+AI could help doctors detect subtle colon polyps 
+World’s first AI news anchor debuts in China 
+Open source machine learning tool helps clinicians choose chemo drugs 
+Love in the time of AI 
+An AI system by Microsoft can summarize the news 
+Feeling queasy? This AI finds restaurants spreading foodborne illness 
+AI to train Philips’ 74,000 employees 
+AI system detects Alzheimer’s disease 6 years faster than clinical 
+diagnosis 
+LOAD MORE 
+Tech Trends 
+Keep up with tech 
+industry trends. 
+GROW YOUR CAREER 
+Hiring Resources 
+Recruitment 3.0— 
+stay informed. 
+GROW YOUR COMPANY 
+Employer Branding 
+Company Culture 
+Recruiting 
+Great Companies Need Great People. That's Where We Come In. 
+RECRUIT WITH US 
+BuiltIn 
+United We Tech 
+Built In is the online community for startups and tech companies. Find 
+startup jobs, tech news and events. 
+About 
+Our Story 
+Careers 
+Our Staff Writers 
+Content Descriptions 
+Get Involved 
+Recruit With Built In 
+Become an Expert Contributor 
+Resources 
+Customer Support 
+Share Feedback 
+Report a Bug 
+Remote Jobs in Atlanta 
+Remote Jobs in Dallas 
+Remote Jobs in DC 
+Browse Jobs 
+Tech Hubs 
+Built In Austin 
+Built In Boston 
+Built In Chicago 
+Built In Colorado 
+Built In LA 
+Built In NYC 
+Built In San Francisco 
+Built In Seattle 
+See All Tech Hubs 
+© Built In 2022 
+Accessibility Statement 
+Copyright Policy 
+Privacy Policy 
+Terms of Use 
+Do Not Sell My Personal Info 
+CA Notice of Collection 
+View remote jobs at top tech companies nationwide 
+VIEW JOBS 
+ 
