@@ -8,9 +8,13 @@ import pickle
 import math
 import os
 
-MEDIA_DIR = (str(Path(__file__).resolve().parent.parent)) + '/media/'
-CORE_DIR = (str(Path(__file__).resolve().parent.parent)) + '/core/'
+MEDIA_DIR = os.path.join((Path(__file__).resolve().parent.parent), 'media/')
+CORE_DIR = os.path.join((Path(__file__).resolve().parent.parent), 'core/')
+
+print("---------------------------------")
 print(MEDIA_DIR)
+print(CORE_DIR)
+print("---------------------------------")
 
 def pdfToText(PDFName): #returns pathname
     doc = fitz.open(MEDIA_DIR + f'pdfUploads/{PDFName}')
