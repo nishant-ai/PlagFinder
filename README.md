@@ -5,10 +5,11 @@
 This tool is created using Python, and for UI - HTML, CSS and JS.
 
 Machine Learning Model Used - Support Vector Machine
+
 Resources Used - NLTK functions
 
 ### Author
-[@katherinepeterson](https://www.github.com/nishant-ai)
+[@nishant-ai](https://www.github.com/nishant-ai)
 
 
 ## Features
