@@ -136,7 +136,7 @@ def predictPlag(param_array): # 2d array Input
     '''
     ONLY FOR PASSING PARAMETERS AND PREDICTING 0 or 1
     '''
-    model_path = str(CORE_DIR)+'model_plag'
+    model_path = join(CORE_DIR,'model_plag')
     with open(model_path, 'rb') as f:
         plag_model = pickle.load(f)
         prediction = plag_model.predict(param_array)[0]
@@ -175,7 +175,7 @@ def cleanWorkingTree():
     for directory in dir_list:
         dirs = os.listdir(directory)
         for file in dirs:
-            os.remove(directory+file)
+            os.remove(join(directory,file))
 
 
 def prediction(testfilename, query, searchlevel):
@@ -189,7 +189,7 @@ def prediction(testfilename, query, searchlevel):
     shady_urls = []
     for i in range(len(url_file_map)-1):
         scrape_file_path = join(f'scrapedText', f'scraped_dat_{i}.txt')
-        scrape_txt = openFile(MEDIA_DIR+scrape_file_path)
+        scrape_txt = openFile(join(MEDIA_DIR, scrape_file_path))
         feats = features(test_txt, scrape_txt)
         result = predictPlag(feats)
         print(scrape_file_path)
