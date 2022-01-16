@@ -2,7 +2,7 @@
 # PlagFinder - A Plagiarism Detection Tool
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-[![Checkout the Live Application]](http://plagfinderr.herokuapp.com/)
+[Checkout the Live Application](http://plagfinderr.herokuapp.com/)
 
 This tool is created using Python, and for UI - HTML, CSS and JS.
 
