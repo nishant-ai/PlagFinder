@@ -172,15 +172,15 @@ def features(test_text, scrape_text):
     return paramArray
 
                                 
-def cleanWorkingTree():
-    pdf2Text = join(MEDIA_DIR, 'pdfToText', '/')
-    pdfUploads = join(MEDIA_DIR, 'pdfUploads', '/')
-    scrapedText = join(MEDIA_DIR, 'scrapedText', '/')
-    dir_list = [pdf2Text, pdfUploads, scrapedText]
-    for directory in dir_list:
-        dirs = os.listdir(directory)
-        for file in dirs:
-            os.remove(join(directory,file))
+# def cleanWorkingTree():
+#     pdf2Text = join(MEDIA_DIR, 'pdfToText', '/')
+#     pdfUploads = join(MEDIA_DIR, 'pdfUploads', '/')
+#     scrapedText = join(MEDIA_DIR, 'scrapedText', '/')
+#     dir_list = [pdf2Text, pdfUploads, scrapedText]
+#     for directory in dir_list:
+#         dirs = os.listdir(directory)
+#         for file in dirs:
+#             os.remove(join(directory,file))
 
 
 def prediction(testfilename, query, searchlevel):
@@ -200,5 +200,5 @@ def prediction(testfilename, query, searchlevel):
         print(scrape_file_path)
         if result == 1:
             shady_urls.append(url_file_map[i])
-    cleanWorkingTree()
+#     cleanWorkingTree()
     return result, shady_urls
