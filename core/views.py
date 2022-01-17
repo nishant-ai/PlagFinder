@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect
 from django.core.files.storage import FileSystemStorage
 
-from .helpers import prediction, cleanWorkingTree
+from .helpers import prediction
 
 # Create your views here.
 def home_page(request):
